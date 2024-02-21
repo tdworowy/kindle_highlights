@@ -1,4 +1,21 @@
+from thefuzz import fuzz
 
+
+def remove_similar(lines: list[str]) -> list[str]:
+    results = []
+    for string in lines:
+        is_unique = True
+        for unique_string in results:
+            ratio = fuzz.token_set_ratio(string, unique_string)
+            if ratio >= 50:
+                if len(string) > len(unique_string):
+                    results.remove(unique_string)
+                else:
+                    is_unique = False
+                    break
+        if is_unique:
+            results.append(string)
+    return results
 
 
 def generate_md():
@@ -22,9 +39,12 @@ def generate_md():
     with open("highlights.md", "w", encoding="utf8") as f:
         for key in results.keys():
             f.write(f"#### {key}\n")
-            for quote in results[key]:
+            cleared = remove_similar(results[key])
+            for quote in cleared:
                 f.write(f"      {quote}\n\n")
             f.flush()
 
 if __name__ == "__main__":
     generate_md()
+
+
