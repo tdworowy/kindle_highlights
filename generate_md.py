@@ -7,7 +7,7 @@ def remove_similar(lines: list[str]) -> list[str]:
         is_unique = True
         for unique_string in results:
             ratio = fuzz.token_set_ratio(string, unique_string)
-            if ratio >= 50:
+            if ratio >= 70:
                 if len(string) > len(unique_string):
                     results.remove(unique_string)
                 else:
