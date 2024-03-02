@@ -1665,6 +1665,36 @@
 
       What, then, is Minsky’s response to this predicament? The final paragraph of his second-to-last page is worth quoting in full: No matter that the physical world provides no room for freedom of the will: that concept is essential to our model of the mental realm. Too much of our psychology is based on it for us to ever give it up. We’re virtually forced to maintain that belief, even though we know it’s false—except, of course when we’re inspired to find the flaws in all our beliefs, whatever may be the consequence to cheerfulness and mental peace.
 
+      Why are processes so hard to classify? In earlier times, we could usually judge machines and processes by how they transformed raw materials into finished products. But it makes no sense to speak of brains as though they manufacture thoughts the way factories make cars. The difference is that brains use processes that change themselves—and this means we cannot separate such processes from the products they produce. In particular, brains make memories, which change the ways we’ll subsequently think. The principal activities of brains are making changes in themselves. Because the whole idea of self-modifying processes is new to our experience, we cannot yet trust our commonsense judgement about such matters.8
+
+      A system that has operational closure is one in which the results of its processes are those processes themselves.
+
+      The key point is that such systems do not operate by representation. Instead of representing an independent world, they enact a world as a domain of distinctions that is inseparable from the structure embodied by the cognitive system.
+
+      By progressively learning to let go of these tendencies to grasp, one can begin to appreciate that all phenomena are free of any absolute ground and that such “groundlessness” (sunyata) is the very fabric of dependent coorigination. We could make a somewhat similar point phenomenologically by saying that groundlessness is the very condition for the richly textured and interdependent world of human experience.
+
+      The term hermeneutics originally referred to the discipline of interpreting ancient texts, but it has been extended to denote the entire phenomenon of interpretation, understood as the enactment or bringing forth of meaning from a background of understanding.
+
+      Meaning includes patterns of embodied experience and preconceptual structures of our sensibility (i.e., our mode of perception, or orienting ourselves, and of interacting with other objects, events, or persons). These embodied patterns do not remain private or peculiar to the person who experiences them.
+
+      Why does color have this structure? Why, for example, are hues organized into pairs that are mutually exclusive or opponent? The model of color vision that takes as its point of departure the structure of color appearance, and so attempts to answer these questions, is known as the opponent-process theory. This theory owes its origin to the research of the nineteenth-century physiologist Ewald Hering but was proposed in its modern form by Leo Hurvich and Dorothea Jameson in 1957.
+
+      Thus color categories appear to be a panhuman, species-specific universal.
+
+      Chicken position: The world out there has pregiven properties. These exist prior to the image that is cast on the cognitive system, whose task is to recover them appropriately (whether through symbols or global subsymbolic states).
+
+      Egg position: The cognitive system projects its own world, and the apparent reality of this world is merely a reflection of internal laws of the system.
+
+      Let us explain what we mean by this phrase embodied action. By using the term embodied we mean to highlight two points: first, that cognition depends upon the kinds of experience that come from having a body with various sensorimotor capacities, and second, that these individual sensorimotor capacities are themselves embedded in a more encompassing biological, psychological, and cultural context.43 By using the term action we mean to emphasize once again that sensory and motor processes, perception and action, are fundamentally inseparable in lived cognition. Indeed, the two are not merely contingently linked in individuals; they have also evolved together.
+
+      We can now give a preliminary formulation of what we mean by enaction. In a nutshell, the enactive approach consists of two points: (1) perception consists in perceptually guided action and (2) cognitive structures emerge from the recurrent sensorimotor patterns that enable action to be perceptually guided.
+
+      “The environment (Umwelt) emerges from the world through the actualization or the being of the organism—[granted that] an organism can exist only if it succeeds in finding in the world an adequate environment.”
+
+      Meaningful conceptual structures arise from two sources: (1) from the structured nature of bodily and social experience and (2) from our innate capacity to imaginatively project from certain well-structured aspects of bodily and interactional experience to abstract conceptual structures. Rational thought is the application of very general cognitive processes—focusing, scanning, superimposition, figure-ground reversal, etc.—to such structures.59
+
+      A view of psychopathology fundamentally different from either the Freudian approach or object relations theory was offered by Karl Jaspers, Ludwig Binswagner, and Merleau-Ponty based on the philosophy of Heidegger.
+
 #### The Gateless Gate: The Classic Book of Zen Koans (Yamada, Kōun)
       The entrance into Zen is the grasping of one’s essential nature. It is absolutely impossible, however, to come to a clear understanding of our essential nature by any intellectual or philosophical method. It is accomplished only by the experience of self-realization through zazen.
 
@@ -1954,8 +1984,6 @@
 
       When Zarathustra was alone, however, he said to his heart: "Could it be possible! This old saint in the forest hath not yet heard of it, that GOD IS DEAD!"
 
-      I TEACH YOU THE SUPERMAN. Man is something that is to be surpassed. What have ye done to surpass man?
-
       The hour when ye say: "What good is my pity! Is not pity the cross on which he is nailed who loveth man? But my pity is not a crucifixion."
 
       Man is a rope stretched between the animal and the Superman—a rope over an abyss. A dangerous crossing, a dangerous wayfaring, a dangerous looking-back, a dangerous trembling and halting. What is great in man is that he is a bridge and not a goal: what is lovable in man is that he is an OVER-GOING and a DOWN-GOING.
@@ -1971,4 +1999,69 @@
       To create new values—that, even the lion cannot yet accomplish: but to create itself freedom for new creating—that can the might of the lion do.
 
       Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea. Aye, for the game of creating, my brethren, there is needed a holy Yea unto life: ITS OWN will, willeth now the spirit; HIS OWN world winneth the world's outcast.
+
+      The body is a big sagacity, a plurality with one sense, a war and a peace, a flock and a shepherd.
+
+      Behind thy thoughts and feelings, my brother, there is a mighty lord, an unknown sage—it is called Self; it dwelleth in thy body, it is thy body.
+
+      Let thy virtue be too high for the familiarity of names, and if thou must speak of it, be not ashamed to stammer about it.
+
+      Once hadst thou passions and calledst them evil. But now hast thou only thy virtues: they grew out of thy passions.
+
+      Of all that is written, I love only what a person hath written with his blood. Write with blood, and thou wilt find that blood is spirit. It is no easy task to understand unfamiliar blood; I hate the reading idlers.
+
+      Once spirit was God, then it became man, and now it even becometh populace.
+
+      Ye look aloft when ye long for exaltation; and I look downward because I am exalted. Who among you can at the same time laugh and be exalted? He who climbeth on the highest mountains, laugheth at all tragic plays and tragic realities.
+
+      Courageous, unconcerned, scornful, coercive—so wisdom wisheth us; she is a woman, and ever loveth only a warrior.
+
+      I should only believe in a God that would know how to dance.
+
+      And when I saw my devil, I found him serious, thorough, profound, solemn: he was the spirit of gravity—through him all things fall.
+
+      By our best enemies we do not want to be spared, nor by those either whom we love from the very heart. So let me tell you the truth!
+
+      Ye say it is the good cause which halloweth even war? I say unto you: it is the good war which halloweth every cause.
+
+      Your highest thought, however, ye shall have it commanded unto you by me—and it is this: man is something that is to be surpassed.
+
+      What warrior wisheth to be spared!
+
+      A state, is called the coldest of all cold monsters. Coldly lieth it also; and this lie creepeth from its mouth: "I, the state, am the people."
+
+      But the state lieth in all languages of good and evil; and whatever it saith it lieth; and whatever it hath it hath stolen.
+
+      Just see these superfluous ones! Sick are they always; they vomit their bile and call it a newspaper. They devour one another, and cannot even digest themselves.
+
+      Ofttimes sitteth filth on the throne.—and ofttimes also the throne on filth.
+
+      Slow is the experience of all deep fountains: long have they to wait until they know WHAT hath fallen into their depths.
+
+      Flee into thy solitude! Thou hast lived too closely to the small and the pitiable. Flee from their invisible vengeance! Towards thee they have nothing but vengeance.
+
+      Is it not better to fall into the hands of a murderer, than into the dreams of a lustful woman?
+
+      Do I counsel you to slay your instincts? I counsel you to innocence in your instincts. Do I counsel you to chastity? Chastity is a virtue with some, but with many almost a vice.
+
+      One ought still to honour the enemy in one's friend. Canst thou go nigh unto thy friend, and not go over to him? In one's friend one shall have one's best enemy. Thou shalt be closest unto him with thy heart when thou withstandest him.
+
+      Art thou a slave? Then thou canst not be a friend. Art thou a tyrant? Then thou canst not have friends. Far too long hath there been a slave and a tyrant concealed in woman. On that account woman is not yet capable of friendship: she knoweth only love.
+
+      In woman's love there is injustice and blindness to all she doth not love. And even in woman's conscious love, there is still always surprise and lightning and night, along with the light. As yet woman is not capable of friendship: women are still cats, and birds. Or at the best, cows.
+
+      Fire of love gloweth in the names of all the virtues, and fire of wrath.
+
+#### Software Performance Testing: Concepts, Design, and Analysis (Shen, JJ)
+      Latency is less than or equal to the response time of a request, since the response time is what it takes to get a full response for a request, and it includes request processing time at the server-side. We will discuss more on latency and response time throughout the rest of the book.
+
+      Bandwidth is the transmission capacity, while throughput is the actual amount of data transmitted in a unit of time for a specific case. So, bandwidth is the maximum throughput of a communication path.
+
+      The major capacities or performance indicators are: (1)  Response time (2)  Throughput (3)  Number of concurrent users (4)  Resource utilization (5)  Stability (6)  Scalability Let’s discuss them one by one.
+
+      Components Performance Impacting Factors Queueing               External: Browser # of requests to a particular server for an action Stalled/Blocked External: Network Network configuration DNS lookup          External: DNS service Connection time      External: Network Network latency Time to first byte     Internal: Software design;    Deployment architecture,  configuration & environment. External: Network Server processing speed; Server request load; Network latency Content download External: Network Network bandwidth
+
+      We define effective maximum throughput as the effective capacity of the system.
+
+      The next table summarizes these factors and the major impacted performance indicators, respectively. Factors Major impacted performance indicators Algorithm complexity Response time Concurrency Throughput, # of concurrent users, Response time Structural limitation Throughput, # of concurrent users
 
