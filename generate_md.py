@@ -3,9 +3,10 @@ from thefuzz import fuzz
 
 
 def clean_up_file_name(name: str):
-    illegal_filename_characters = ['/', '\\', '?', '%', '*', ':', '|', '"', '<', '>', '.']
+    illegal_filename_characters = ['/', '\\', '?', '%', '*', ':', '|', '"', '<', '>', '.', ',']
     for ch in illegal_filename_characters:
         name = name.replace(ch, "")
+    name = name.strip()
     name = name.replace(" ","_")
 
     return name
