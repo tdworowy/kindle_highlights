@@ -1,6 +1,15 @@
 from thefuzz import fuzz
 
 
+
+def clean_up_file_name(name: str):
+    illegal_filename_characters = ['/', '\\', '?', '%', '*', ':', '|', '"', '<', '>', '.']
+    for ch in illegal_filename_characters:
+        name = name.replace(ch, "")
+    name = name.replace(" ","_")
+
+    return name
+
 def remove_similar(lines: list[str]) -> list[str]:
     results = []
     for string in lines:
@@ -36,13 +45,15 @@ def generate_md():
                 results[line[0]] = [line[2]]
         #print(results)
 
-    with open("highlights.md", "w", encoding="utf8") as f:
+
         for key in results.keys():
-            f.write(f"#### {key}\n")
-            cleared = remove_similar(results[key])
-            for quote in cleared:
-                f.write(f"      {quote}\n\n")
-            f.flush()
+            file_name = clean_up_file_name(key)
+            with open(f"{file_name}.md", "w", encoding="utf8") as f:
+                f.write(f"#### {key}\n")
+                cleared = remove_similar(results[key])
+                for quote in cleared:
+                    f.write(f"      {quote}\n\n")
+                f.flush()
 
 if __name__ == "__main__":
     generate_md()
