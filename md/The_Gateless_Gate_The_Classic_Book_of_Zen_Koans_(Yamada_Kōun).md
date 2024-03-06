@@ -23,3 +23,5 @@
 
       One of the sutras defines a kalpa as the period of time it would take an angel who descended from heaven once every hundred years and made one sweep with its robe of feathers across the top of a cubic-mile stone mountain to wear it down level to the ground.
 
+      The last word? Not only Tokusan and Gantō but even the Buddhas and the patriarchs themselves do not know what it is, for it is beyond perception. The last word is that which is spoken without using lips and tongue. It has no meaning. It is nothing. It is less than nothing, so to speak. But how about the first word?
+

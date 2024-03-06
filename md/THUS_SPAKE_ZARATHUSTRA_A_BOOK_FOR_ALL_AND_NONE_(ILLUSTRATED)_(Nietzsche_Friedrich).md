@@ -99,3 +99,9 @@
 
       "Give me, woman, thy little truth!" said I. And thus spake the old woman: "Thou goest to women? Do not forget thy whip!"—
 
+      Did ye ever know this? Shared injustice is half justice. And he who can bear it, shall take the injustice upon himself!
+
+      Marriage: so call I the will of the twain to create the one that is more than those who created it. The reverence for one another, as those exercising such a will, call I marriage.
+
+      Had he but remained in the wilderness, and far from the good and just! Then, perhaps, would he have learned to live, and love the earth—and laughter also! Believe it, my brethren! He died too early; he himself would have disavowed his doctrine had he attained to my age! Noble enough was he to disavow!
+

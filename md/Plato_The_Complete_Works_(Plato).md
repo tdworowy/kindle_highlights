@@ -119,3 +119,19 @@
 
       sea-god Glaucus, whose original image can hardly be discerned because his natural members are broken off and crushed and damaged by the waves in all sorts of ways, and incrustations have grown over them of sea-weed and shells and stones, so that he is more like some monster than he is to his own natural form.
 
+      I think that the pleasure is to be deemed natural which arises out of the intercourse between men and women; but that the intercourse of men with men, or of women with women, is contrary to nature, and that the bold attempt was originally due to unbridled lust. The Cretans are always accused of having invented
+
+      The Cretans are always accused of having invented the story of Ganymede and Zeus because they wanted to justify themselves in the enjoyment of unnatural pleasures by the practice of the god whom they believe to have been their lawgiver.
+
+      But the Scythians and Thracians, both men and women, drink unmixed wine, which they pour on their garments, and this they think a happy and glorious institution. The Persians, again, are much given to other practices of luxury which you reject, but they have more moderation in them than the Thracians and Scythians.
+
+      Athenian. Let me put the matter thus:—Suppose a person to praise the keeping of goats, and the creatures themselves as capital things to have, and then some one who had seen goats feeding without a goatherd in cultivated spots, and doing mischief, were to censure a goat or any other animal who has no keeper, or a bad keeper, would there be any sense or justice in such censure?
+
+      For there are two things which give victory—confidence before enemies, and fear of disgrace before friends.
+
+      Suppose that some God had given a fear–potion to men, and that the more a man drank of this the more he regarded himself at every draught as a child of misfortune, and that he feared everything happening or about to happen to him; and that at last the most courageous of men utterly lost his presence of mind for a time, and only came to himself again when he had slept off the influence of the draught.
+
+      Athenian. Is not the effect of this quite the opposite of the effect of the other? When a man drinks wine he begins to be better pleased with himself, and the more he drinks the more he is filled full of brave hopes, and conceit of his power, and at last the string of his tongue is loosened, and fancying himself wise, he is brimming over with lawlessness, and has no more fear or respect, and is ready to do or say anything.
+
+      What is better adapted than the festive use of wine, in the first place to test, and in the second place to train the character of a man, if care be taken in the use of it?
+

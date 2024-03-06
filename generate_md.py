@@ -49,7 +49,7 @@ def generate_md():
 
         for key in results.keys():
             file_name = clean_up_file_name(key)
-            with open(f"{file_name}.md", "w", encoding="utf8") as f:
+            with open(f"md/{file_name}.md", "w", encoding="utf8") as f:
                 f.write(f"#### {key}\n")
                 cleared = remove_similar(results[key])
                 for quote in cleared:

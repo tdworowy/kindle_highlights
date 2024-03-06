@@ -11,3 +11,21 @@
 
       A performance benchmark of a software application is the standard or point of reference of a specific performance aspect of the application, and it serves as the baseline for comparison.
 
+      Standard deviation is defined as the square root of the variance, it’s a measure of the extent of deviation of samples from the average value and the spread of data in a distribution. By definition, the standard deviation is:
+
+      Percentile rank or percent rank is the percentage of values less than or equal to a specific value in a distribution. The percentile is the value a certain percentage of values are less than or equal to. So, a percentile is a value associated with a specific percentile rank, in other words, a percentile is a value in a dataset below which a percentage of data samples fall.
+
+      A probability distribution for discrete variables is represented with a probability mass function, while a probability distribution for continuous variables is represented with a probability density function.
+
+      Nonlinear functions are functions that are not linear
+
+      Little’s law states that, under steady state condition, that is, for a stable system, the average number of items in a system equals the average rate at which an item arrives at the system multiplied by the average time an item spends in the system.
+
+      From the server’s point of view, if incoming requests are placed in a queue and handled by a queueing scheduling process, then the request arriving pattern to the queue represents the distribution of think time between requests. The time between request arrivals can be represented by an exponential distribution, and the number of request arrivals in a specific time interval follows the Poisson distribution.
+
+      The following is a list of the common ones: (a)  Constant think time (b)  Uniform random think time (c)   Gaussian random think time (d)  Poisson random think time
+
+      We adopt a multiple-sigma rule, which defines the relationship between the number of concurrent users a system can support and the expected distribution of peak numbers of concurrent users at the effective capacity load level:
+
+      specified, as listed in the following table. Design Parameters Required 1 Request distribution 2 User groups with request probabilities x 3 Concurrent time interval x 4 Effective capacity 5 Number of virtual users in each group x Table 5.6: Performance testing load design parameters
+
