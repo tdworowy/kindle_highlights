@@ -105,3 +105,35 @@
 
       Had he but remained in the wilderness, and far from the good and just! Then, perhaps, would he have learned to live, and love the earth—and laughter also! Believe it, my brethren! He died too early; he himself would have disavowed his doctrine had he attained to my age! Noble enough was he to disavow!
 
+      eyes him who maketh himself whole. A thousand paths are there which have never yet been trodden; a thousand salubrities and hidden islands of life. Unexhausted and undiscovered is still man and man's world.
+
+      The man of knowledge must be able not only to love his enemies, but also to hate his friends.
+
+      Now do I bid you lose me and find yourselves; and only when ye have all denied me, will I return unto you.
+
+      For this is hardest of all: to close the open hand out of love, and keep modest as a giver.
+
+      But that I may reveal my heart entirely unto you, my friends: IF there were gods, how could I endure it to be no God! THEREFORE there are no Gods.
+
+      Since humanity came into being, man hath enjoyed himself too little: that alone, my brethren, is our original sin!
+
+      And not to him who is offensive to us are we most unfair, but to him who doth not concern us at all.
+
+      And if a friend doeth thee wrong, then say: "I forgive thee what thou hast done unto me; that thou hast done it unto THYSELF, however—how could I forgive that!"
+
+      Thus spake the devil unto me, once on a time: "Even God hath his hell: it is his love for man." And lately, did I hear him say these words: "God is dead: of his pity for man hath God died."—
+
+      And when a person goeth through fire for his teaching—what doth that prove! It is more, verily, when out of one's own burning cometh one's own teaching!
+
+      Never yet hath there been a Superman. Naked have I seen both of them, the greatest man and the smallest man:— All-too-similar are they still to each other. Verily, even the greatest found I—all-too-human!—
+
+      And it is not the mouthful which hath most choked me, to know that life itself requireth enmity and death and torture-crosses:— But I asked once, and suffocated almost with my question: What? is the rabble also NECESSARY for life? Are poisoned fountains necessary, and stinking fires, and filthy dreams, and maggots in the bread of life?
+
+      Thus do I speak unto you in parable, ye who make the soul giddy, ye preachers of EQUALITY! Tarantulas are ye unto me, and secretly revengeful ones!
+
+      But thus do I counsel you, my friends: distrust all in whom the impulse to punish is powerful!
+
+      With these preachers of equality will I not be mixed up and confounded. For thus speaketh justice UNTO ME: "Men are not equal."
+
+      But he who is hated by the people, as the wolf by the dogs—is the free spirit, the enemy of fetters, the non-adorer, the dweller in the woods.
+

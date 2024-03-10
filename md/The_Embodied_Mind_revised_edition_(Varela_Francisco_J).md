@@ -65,3 +65,45 @@
 
       A view of psychopathology fundamentally different from either the Freudian approach or object relations theory was offered by Karl Jaspers, Ludwig Binswagner, and Merleau-Ponty based on the philosophy of Heidegger.
 
+      Pleiotropic effects are not bizarre properties of a few exceptionally complex traits. Genic interdependence expresses the straightforward fact that the genome is not a linear array of independent genes (manifesting as traits) but a highly interwoven network of multiple reciprocal effects mediated through repressors and derepressors, exons and introns, jumping genes, and even structural proteins.
+
+      In the words of a classic text by de Beer, “It has become increasingly clear from researches in embryology that the processes whereby the structures are formed are as important as the structures themselves from the point of view of evolutionary morphology and homology.”
+
+      The unit of evolution (at any level) is a network capable of a rich repertoire of self-organizing configurations. Under structural coupling with a medium, these configurations generate selection, an ongoing process of satisficing that triggers (but does not specify) change in the form of viable trajectories. The specific (nonunique) trajectory or mode of change of the unit of selection is the interwoven (nonoptimal) result of multiple levels of subnetworks of selected self-organized repertoires. The opposition between inner and outer causal factors is replaced by a coimplicative relation, since organism and medium mutually specify each other.
+
+      Instead, we emphasize that the very notion of what an environment is cannot be separated from what organisms are and what they do.
+
+      Richard Lewontin: “The organism and the environment are not actually separately determined. The environment is not a structure imposed on living beings from the outside but is in fact a creation of those beings. The environment is not an autonomous process but a reflection of the biology of the species. Just as there is no organism without an environment, so there is no environment without an organism.”25
+
+      Genes are, then, better conceived as elements that specify what in the environment must be fixed for something to operate as a gene, that is, to be predictably correlated with a result. In every successful
+
+      We summarized this view by saying that cognition is not representation but embodied action and that the world we cognize is not pregiven but enacted through our history of structural coupling.
+
+      Question 2: How does it work? Answer: Through a network consisting of multiple levels of interconnected, sensorimotor subnetworks.
+
+      Question 3: How do I know when a cognitive system is functioning adequately? Answer: When it becomes part of an ongoing existing world (as the young of every species do) or shapes a new one (as happens in evolutionary history).
+
+      “Out of the local chaos of their interactions there emerges, in the eye of an observer, a coherent pattern of behavior.”49 The implementation of this
+
+      Equally significant is that his Creatures have no central system. Instead, the layers carry out their activities on their own; the compatibility of the layers gives rise to a sense of purpose only in the eyes of the observers:
+
+      Finally, we saw that these various forms of groundlessness are really one: organism and environment enfold into each other and unfold from one another in the fundamental circularity that is life itself.
+
+      As Hilary Putnam incisively remarks in a recent work, “Science is wonderful at destroying metaphysical answers, but incapable of providing substitute ones. Science takes away foundations without providing a replacement. Whether we want to be there or not, science has put us in the position of having to live without foundations. It was shocking when Nietzsche said this, but today it is commonplace; our historical position—and no end to it is in sight—is that of having to philosophize without ‘foundations’.”2
+
+      Noble Truths); the Buddha; and nirvana. Nagarjuna finally concludes, “Nothing is found that is not dependently arisen. For that reason, nothing is found that is not empty.”8
+
+      It is important to remember the context within which these arguments are employed. Nagarjuna’s arguments fasten on psychologically real habits of mind and demonstrate their groundlessness within the context of mindfulness/awareness meditation and Abhidharma psychology.
+
+      As is said by the Tibetan commentators, “Through ascertaining the reason—that all phenomena are dependent arisings—the extreme of annihilation (nihilism) is avoided, and realization of dependent-arising of causes and effects is gained. Through ascertaining the thesis—that all phenomena do not inherently exist—the extreme of permanence (absolutism) is avoided, and realization of the emptiness of all phenomena is gained.”10
+
+      “‘Objects’ do not exist independently of conceptual schemes. We cut up the world into objects when we introduce one or another scheme of description. Since the objects and the signs are alike internal to the scheme of description, it is possible to say what matches what.”21
+
+      Yet despite this thorough critique of objectivism, the argument is never turned the other way round. Mind-independent objects are challenged, but object-independent minds never are. (It is actually more obvious and psychologically easier to attack the independence of objects than of minds.)
+
+      The interpretationists—pragmatist or otherwise—also do not challenge the groundedness of the concepts and interpretations themselves; rather, they take these as the ground on which they stand. This is far from an entre-deux and far from Madhyamaka.
+
+      Thus Nagarjuna writes, “Ultimate truth cannot be taught apart from everyday practices. Without understanding the ultimate truth, freedom (nirvana) is not attained” (XXIV: 10).
+
+      There is no distinction at all between the everyday world (samsara) and freedom (nirvana). There is no distinction at all between freedom and the everyday world. The range of the everyday world is the range of freedom. Between them not even the most subtle difference can be found. (XXV: 19, 20)
+
