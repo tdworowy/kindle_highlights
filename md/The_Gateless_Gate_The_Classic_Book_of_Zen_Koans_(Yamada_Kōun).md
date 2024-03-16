@@ -25,3 +25,5 @@
 
       The last word? Not only Tokusan and Gantō but even the Buddhas and the patriarchs themselves do not know what it is, for it is beyond perception. The last word is that which is spoken without using lips and tongue. It has no meaning. It is nothing. It is less than nothing, so to speak. But how about the first word?
 
+      Bokushū, who always kept the door of his dokusan1 room closed. Bokushū would judge whether or not a student was ready for an interview by the sound of his footsteps as he approached the dokusan room. If he thought there was some hope, Bokushū would say, “Come in!” As soon as the student entered, the master would seize him roughly by the collar and yell, “Say it!” If the student hesitated even for a moment, Bokushū would push him out the door and slam it.
+

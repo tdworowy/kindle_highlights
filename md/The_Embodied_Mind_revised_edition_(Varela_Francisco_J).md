@@ -107,3 +107,9 @@
 
       There is no distinction at all between the everyday world (samsara) and freedom (nirvana). There is no distinction at all between freedom and the everyday world. The range of the everyday world is the range of freedom. Between them not even the most subtle difference can be found. (XXV: 19, 20)
 
+      Thus we can already see that nihilism is in fact deeply linked to objectivism, for nihilism is an extreme response to the collapse of what had seemed to provide a sure and absolute reference point.
+
+      The mode of repudiation or denial that is characteristic of nihilism is actually a very subtle and refined form of objectivism: the mere absence of an objective ground is reified into an objective groundlessness that might continue to serve as an ultimate reference point.
+
+      Nagarjuna conveys this attitude of responsiveness: Just as the grammarian makes one study grammar, A Buddha teaches according to the tolerance of his students; Some he urges to refrain from sins, others to do good, Some to rely on dualism, others on non-dualism; And to some he teaches the profound, The terrifying, the practice of enlightenment, Whose essence is emptiness that is compassion.19
+

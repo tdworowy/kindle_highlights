@@ -137,3 +137,15 @@
 
       But he who is hated by the people, as the wolf by the dogs—is the free spirit, the enemy of fetters, the non-adorer, the dweller in the woods.
 
+      To be sure, I am a forest, and a night of dark trees: but he who is not afraid of my darkness, will find banks full of roses under my cypresses.
+
+      For thus do things stand with us three. In my heart do I love only Life—and verily, most when I hate her! But that I am fond of Wisdom, and often too fond, is because she remindeth me very strongly of Life!
+
+      That delight alone he is unwilling to forego. And as the lesser surrendereth himself to the greater that he may have delight and power over the least of all, so doth even the greatest surrender himself, and staketh—life, for the sake of power.
+
+      This, yea this, is bitterness to my bowels, that I can neither endure you naked nor clothed, ye present-day men!
+
+      But what did Zarathustra once say unto thee? That the poets lie too much?—But Zarathustra also is a poet. Believest thou that he there spake the truth? Why dost thou believe it?"
+
+      Belief doth not sanctify me, said he, least of all the belief in myself.
+

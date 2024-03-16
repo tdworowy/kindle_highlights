@@ -39,3 +39,5 @@
 
       IPv6 unicast addresses differ somewhat from IPv4 addresses. Most important, IPv6 addresses have a scope concept, for both unicast and multicast addresses, that specifically indicates where an address is valid. Typical scopes include node-local, link-local, and global. Link-local addresses are often created based on a standard prefix in combination with an IID that can be based on addresses provided by lower-layer protocols (such as hardware/MAC addresses) or random values. This approach aids in autoconfiguration of IPv6 addresses.
 
+      The original Ethernet encoded bits using a Manchester Phase Encoding (MPE) with two voltage levels. With MPE, bits are encoded as voltage transitions rather than absolute values.
+
