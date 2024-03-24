@@ -5,3 +5,9 @@
 
       Traditional BIOS assumes that the boot device starts with a record called the MBR (Master Boot Record). The MBR includes both a first-stage boot loader (aka “boot block”) and a primitive disk partitioning table. The amount of space available for the boot loader is so small (less than 512 bytes) that it’s not able to do much other than load and run a second-stage boot loader.
 
+      The anti-systemd camp argues that the UNIX philosophy is to keep system components small, simple, and modular. A component as fundamental as init, they say, should not have monolithic control over so many of the OS’s other subsystems. systemd not only breeds complexity, but also introduces potential security weaknesses and muddies the distinction between the OS platform and the services that run on top of it.
+
+      systemd is not a single daemon but a collection of programs, daemons, libraries, technologies, and kernel components. A post on the systemd blog at 0pointer.de/blog notes that a full build of the project generates 69 different binaries. Think of it as a scrumptious buffet at which you are forced to consume everything.
+
+      An entity that is managed by systemd is known generically as a unit. More specifically, a unit can be “a service, a socket, a device, a mount point, an automount point, a swap file or partition, a startup target, a watched filesystem path, a timer controlled and supervised by systemd, a resource management slice, a group of externally created processes, or a wormhole into an alternate universe.” OK, we made up the part about the alternate universe (the rest is from the systemd.unit man page), but that still covers a lot of territory.
+

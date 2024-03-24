@@ -135,3 +135,19 @@
 
       What is better adapted than the festive use of wine, in the first place to test, and in the second place to train the character of a man, if care be taken in the use of it?
 
+      But, whereas the animals have no perception of order or disorder in their movements, that is, of rhythm or harmony, as they are called, to us, the Gods, who, as we say, have been appointed to be our companions in the dance, have given the pleasurable sense of harmony and rhythm; and so they stir us into life, and we follow them, joining hands together in dances and songs; and these they call choruses, which is a term naturally expressive of cheerfulness.
+
+      If we three know what is good in song and dance, then we truly know also who is educated and who is uneducated; but if not, then we certainly shall not know wherein lies the safeguard of education, and whether there is any or not.
+
+      For the goods of which the many speak are not really good:
+
+      Athenian. How, then, shall we reassure him, and get him to sing? Shall we begin by enacting that boys shall not taste wine at all until they are eighteen years of age; we will tell them that fire must not be poured upon fire, whether in the body or in the soul, until they begin to go to work—this is a precaution which has to be taken against the excitableness of youth;—afterwards they may taste wine in moderation up to the age of thirty, but while a man is young he should abstain altogether from intoxication and from excess of wine; when, at length, he has reached forty years, after dinner at a public mess, he may invite not only the other Gods, but Dionysus above all, to the mystery and festivity of the elder men, making use of the wine which he has given men to lighten the sourness of old age; that in age we may renew our youth, and forget our sorrows;
+
+      and also in order that the nature of the soul, like iron melted in the fire, may become softer and so more impressible. In the first place, will not any one who is thus mellowed be more ready and less ashamed to sing—I do not say before a large audience, but before a moderate company; nor yet among strangers, but among his familiars, and, as we have often said, to chant, and to enchant?
+
+      Music is more celebrated than any other kind of imitation, and therefore requires the greatest care of them all.
+
+      Athenian. Let us not then simply censure the gift of Dionysus as bad and unfit to be received into the State. For wine has many excellences, and one pre–eminent one, about which there is a difficulty in speaking to the many, from a fear of their misconceiving and misunderstanding what is said.
+
+      Athenian. The other story implied that wine was given man out of revenge, and in order to make him mad; but our present doctrine, on the contrary, is, that wine was given him as a balm, and in order to implant modesty in the soul, and health and strength in the body.
+

@@ -27,3 +27,7 @@
 
       Bokushū, who always kept the door of his dokusan1 room closed. Bokushū would judge whether or not a student was ready for an interview by the sound of his footsteps as he approached the dokusan room. If he thought there was some hope, Bokushū would say, “Come in!” As soon as the student entered, the master would seize him roughly by the collar and yell, “Say it!” If the student hesitated even for a moment, Bokushū would push him out the door and slam it.
 
+      The true practice of zazen is very severe. The present koan is a good example of this. To attain kensho (self-realization) is not so difficult; for some people only one sesshin (Zen retreat) is sufficient. But kensho is only the entrance to our final goal in doing zazen, namely the accomplishment of our character. This involves a purification which is most difficult and requires a great deal of time. There is really no end to the practice of Zen. You cannot accomplish a perfect character in forty years. Practicing a million years is still insufficient.
+
+      There was an old Zen master who said that even the word Buddha is a stain on the clean ground of mind.
+

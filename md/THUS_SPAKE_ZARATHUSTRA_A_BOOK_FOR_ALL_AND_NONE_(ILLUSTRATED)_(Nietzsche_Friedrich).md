@@ -149,3 +149,55 @@
 
       Belief doth not sanctify me, said he, least of all the belief in myself.
 
+      To redeem what is past, and to transform every "It was" into "Thus would I have it!"—that only do I call redemption!
+
+      "But why doth Zarathustra speak otherwise unto us than unto his disciples?" Zarathustra answered: "What is there to be wondered at! With hunchbacks one may well speak in a hunchbacked way!" "Very good," said the hunchback; "and with pupils one may well tell tales out of school. But why doth Zarathustra speak otherwise unto his pupils—than unto himself?"—
+
+      Is not wounded vanity the mother of all tragedies? Where, however, pride is wounded, there there groweth up something better than pride.
+
+      In truth, as your wisest did not seem to me so very wise, so found I also human wickedness below the fame of it.
+
+      For that the Superman may not lack his dragon, the superdragon that is worthy of him, there must still much warm sun glow on moist virgin forests!
+
+      So alien are ye in your souls to what is great, that to you the Superman would be FRIGHTFUL in his goodness!
+
+      This is thy most unpardonable obstinacy: thou hast the power, and thou wilt not rule."
+
+      Thou goest the way to thy greatness: now hath it become thy last refuge, what was hitherto thy last danger!
+
+      Thus spake Zarathustra to himself while ascending, comforting his heart with harsh maxims: for he was sore at heart as he had never been before.
+
+      LOVE is the danger of the lonesomest one, love to anything, IF IT ONLY LIVE! Laughable, verily, is my folly and my modesty in love!—
+
+      Courage, however, is the best slayer, courage which attacketh: it slayeth even death itself; for it saith: "WAS THAT life? Well! Once more!" In such speech, however, there is much sound of triumph. He who hath ears to hear, let him hear.
+
+      "Everything straight lieth," murmured the dwarf, contemptuously. "All truth is crooked; time itself is a circle."
+
+      This wantonness and folly did I put in place of that Will, when I taught that "In everything there is one thing impossible—rationality!"
+
+      A little wisdom is indeed possible; but this blessed security have I found in all things, that they prefer—to DANCE on the feet of chance.
+
+      They bite at me, because I say unto them that for small people, small virtues are necessary—and because it is hard for me to understand that small people are NECESSARY!
+
+      There are actors without knowing it amongst them, and actors without intending it—, the genuine ones are always rare, especially the genuine actors.
+
+      Ah, that ye understood my word: "Do ever what ye will—but first be such as CAN WILL. Love ever your neighbour as yourselves—but first be such as LOVE THEMSELVES— —Such as love with great love, such as love with great contempt!" Thus speaketh Zarathustra the godless.—
+
+      Mine own forerunner am I among this people, mine own cockcrow in dark lanes.
+
+      To one man, lonesomeness is the flight of the sick one; to another, it is the flight FROM the sick ones.
+
+      I despise thy contempt; and when thou warnedst me—why didst thou not warn thyself? Out of love alone shall my contempt and my warning bird take wing; but not out of the swamp!
+
+      With the old Deities hath it long since come to an end:—and verily, a good joyful Deity-end had they! They did not "begloom" themselves to death—that do people fabricate! On the contrary, they—LAUGHED themselves to death once on a time!
+
+      One thing is forsakenness, another matter is lonesomeness: THAT hast thou now learned! And that amongst men thou wilt ever be wild and strange: —Wild and strange even when they love thee: for above all they want to be TREATED INDULGENTLY!
+
+      To many that are more unknown to each other than man and woman:—and who hath fully understood HOW UNKNOWN to each other are man and woman!
+
+      Passion for power: the glowing scourge of the hardest of the heart-hard; the cruel torture reserved for the cruellest themselves; the gloomy flame of living pyres.
+
+      This however is my teaching: he who wisheth one day to fly, must first learn standing and walking and running and climbing and dancing:—one doth not fly into flying!
+
+      Out into distant futures, which no dream hath yet seen, into warmer souths than ever sculptor conceived,—where gods in their dancing are ashamed of all clothes: (That I may speak in parables and halt and stammer like the poets: and verily I am ashamed that I have still to be a poet!)
+
