@@ -41,3 +41,7 @@
 
       The original Ethernet encoded bits using a Manchester Phase Encoding (MPE) with two voltage levels. With MPE, bits are encoded as voltage transitions rather than absolute values.
 
+      Magic packets contain a special repeated pattern of the byte value 0xFF. Often, such frames are sent as a form of UDP packet (see Chapter 10) encapsulated in a broadcast Ethernet frame. Several tools are available to generate them, including wol [WOL]:
+
+      The MAC control frame is a frame format using the regular encapsulation from Figure 3-3, but with a 2-byte opcode immediately following the Length/Type field. PAUSE frames are essentially the only type of frames that uses MAC control frames. They include a 2-byte quantity encoding the hold-off time. Implementation of the “entire” MAC control layer (basically, just 802.3x flow control) is optional.
+

@@ -151,3 +151,17 @@
 
       Athenian. The other story implied that wine was given man out of revenge, and in order to make him mad; but our present doctrine, on the contrary, is, that wine was given him as a balm, and in order to implant modesty in the soul, and health and strength in the body.
 
+      Athenian. The traditions about the many destructions of mankind which have been occasioned by deluges and pestilences, and in many other ways, and of the survival of a remnant? Cleinias. Every one is disposed to believe them. Athenian. Let us consider one of them, that which was caused by the famous deluge. Cleinias. What are we to observe about it? Athenian. I mean to say that those who then escaped would only be hill shepherds—small sparks of the human race preserved on the tops of mountains.
+
+      Troy was a portion of the Assyrian Empire.
+
+      That the greatest ignorance is when a man hates that which he nevertheless thinks to be good and noble, and loves and embraces that which he knows to be unrighteous and evil. This disagreement between the sense of pleasure and the judgment of reason in the soul is, in my opinion, the worst ignorance;
+
+      Very good; a quality, which is a mere appendage of things which can be praised or blamed, does not deserve an expression of opinion, but is best passed over in silence. Megillus. You are speaking of temperance?
+
+      For I consider that the true lawgiver, like an archer, aims only at that on which some eternal beauty is always attending, and dismisses everything else, whether wealth or any other benefit, when separated from virtue.
+
+      considering that the mere preservation and continuance of life is not the most honourable thing for men, as the vulgar think, but the continuance of the best life, while we live; and that again, if I am jot mistaken, is remark which has been made already.
+
+      In the first place, we affirm that next after the Olympian Gods and the Gods of the State, honour should be given to the Gods below; they should receive everything in even and of the second choice, and ill omen, while the odd numbers, and the first choice, and the things of lucky omen, are given to the Gods above, by him who would rightly hit the mark of piety. Next to these Gods, a wise man will do service to the demons or spirits, and then to the heroes, and after them will follow the private and ancestral Gods, who are worshipped as the law prescribes in the places which are sacred to them. Next comes the honour of living parents,
+

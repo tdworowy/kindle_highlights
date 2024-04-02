@@ -11,3 +11,5 @@
 
       An entity that is managed by systemd is known generically as a unit. More specifically, a unit can be “a service, a socket, a device, a mount point, an automount point, a swap file or partition, a startup target, a watched filesystem path, a timer controlled and supervised by systemd, a resource management slice, a group of externally created processes, or a wormhole into an alternate universe.” OK, we made up the part about the alternate universe (the rest is from the systemd.unit man page), but that still covers a lot of territory.
 
+      You can disable setuid and setgid execution on individual filesystems by specifying the nosuid option to mount. It’s a good idea to use this option on filesystems that contain users’ home directories or that are mounted from less trustworthy administrative domains.
+

@@ -51,8 +51,6 @@
 
       By our best enemies we do not want to be spared, nor by those either whom we love from the very heart. So let me tell you the truth!
 
-      Ye say it is the good cause which halloweth even war? I say unto you: it is the good war which halloweth every cause.
-
       Your highest thought, however, ye shall have it commanded unto you by me—and it is this: man is something that is to be surpassed.
 
       What warrior wisheth to be spared!
@@ -200,4 +198,66 @@
       This however is my teaching: he who wisheth one day to fly, must first learn standing and walking and running and climbing and dancing:—one doth not fly into flying!
 
       Out into distant futures, which no dream hath yet seen, into warmer souths than ever sculptor conceived,—where gods in their dancing are ashamed of all clothes: (That I may speak in parables and halt and stammer like the poets: and verily I am ashamed that I have still to be a poet!)
+
+      —As composer, riddle-reader, and redeemer of chance, did I teach them to create the future, and all that HATH BEEN—to redeem by creating.
+
+      The past of man to redeem, and every "It was" to transform, until the Will saith: "But so did I will it! So shall I will it
+
+      There are many divers ways and modes of surpassing: see THOU thereto! But only a buffoon thinketh: "man can also be OVERLEAPT."
+
+      He who cannot command himself shall obey. And many a one CAN command himself, but still sorely lacketh self-obedience!
+
+      But to eat and drink well, my brethren, is verily no vain art! Break up, break up for me the tables of the never-joyous ones!
+
+      And such is always the nature of weak men: they lose themselves on their way. And at last asketh their weariness: "Why did we ever go on the way? All is indifferent!"
+
+      And many such good inventions are there, that they are like woman's breasts: useful at the same time, and pleasant.
+
+      What is the highest of all species of being, and what is the lowest? The parasite is the lowest species; he, however, who is of the highest species feedeth most parasites.
+
+      Ye shall only have foes to be hated; but not foes to be despised: ye must be proud of your foes. Thus have I already taught.
+
+      Let there the trader rule, where all that still glittereth is—traders' gold. It is the time of kings no longer: that which now calleth itself the people is unworthy of kings.
+
+      Human society: it is an attempt—so I teach—a long seeking: it seeketh however the ruler!— —An attempt, my brethren! And NO "contract"! Destroy, I pray you, destroy that word of the soft-hearted and half-and-half!
+
+      The stupidity of the good is unfathomably wise.
+
+      The CREATOR, hate they most, him who breaketh the tables and old values, the breaker,—him they call the law-breaker. For the good—they CANNOT create; they are always the beginning of the end:— —They crucify him who writeth new values on new tables, they sacrifice UNTO THEMSELVES the future—they crucify the whole human future! The good—they have always been the beginning of the end.—
+
+      "Why so hard!"—said to the diamond one day the charcoal; "are we then not near relatives?"— Why so soft? O my brethren; thus do I ask you: are ye then not—my brethren?
+
+      Ah, mine animals, this only have I learned hitherto, that for man his baddest is necessary for his best,—
+
+      That all that is baddest is the best POWER, and the hardest stone for the highest creator; and that man must become better AND badder:—
+
+      Naked had I once seen both of them, the greatest man and the smallest man: all too like one another—all too human, even the greatest man! All too small, even the greatest man!—that was my disgust at man! And the eternal return also of the smallest man!—that was my disgust at all existence!
+
+      'Now do I die and disappear,' wouldst thou say, 'and in a moment I am nothing. Souls are as mortal as bodies. But the plexus of causes returneth in which I am intertwined,—it will again create me! I myself pertain to the causes of the eternal return. I come again with this sun, with this earth, with this eagle, with this serpent—NOT to a new life, or a better life, or a similar life: —I come again eternally to this identical and selfsame life, in its greatest and its smallest, to teach again the eternal return of all things,—
+
+      O my soul, I taught thee the contempt which doth not come like worm-eating, the great, the loving contempt, which loveth most where it contemneth most.
+
+      —Doth the giver not owe thanks because the receiver received? Is bestowing not a necessity? Is receiving not—pitying?"—
+
+      Who would not hate thee, thou great bindress, inwindress, temptress, seekress, findress! Who would not love thee, thou innocent, impatient, wind-swift, child-eyed sinner!
+
+      Whither pullest thou me now, thou paragon and tomboy? And now foolest thou me fleeing; thou sweet romp dost annoy!
+
+      To the rhythm of my whip shalt thou dance and cry! I forget not my whip?—Not I!"—
+
+      If my virtue be a dancer's virtue, and if I have often sprung with both feet into golden-emerald rapture: If my wickedness be a laughing wickedness, at home among rose-banks and hedges of lilies: —For in laughter is all evil present, but it is sanctified and absolved by its own bliss:—
+
+      'Twas once—methinks year one of our blessed Lord,—Drunk without wine, the Sybil thus deplored:—"How ill things go! Decline! Decline! Ne'er sank the world so low! Rome now hath turned harlot and harlot-stew, Rome's Caesar a beast, and God—hath turned Jew!
+
+      We must HEAR him; him who teacheth: 'Ye shall love peace as a means to new wars, and the short peace more than the long!'
+
+      No one ever spake such warlike words: 'What is good? To be brave is good. It is the good war that halloweth every cause.'
+
+      Better know nothing than half-know many things! Better be a fool on one's own account, than a sage on other people's approbation! I—go to the basis:
+
+      When he was young, that God out of the Orient, then was he harsh and revengeful, and built himself a hell for the delight of his favourites.
+
+      At last, however, he became old and soft and mellow and pitiful, more like a grandfather than a father, but most like a tottering old grandmother.
+
+      When Gods die they always die many kinds of death.
 

@@ -31,3 +31,5 @@
 
       There was an old Zen master who said that even the word Buddha is a stain on the clean ground of mind.
 
+      “The Way does not belong to knowing or not-knowing. Knowing is delusion; not-knowing is a blank consciousness. When you have really reached the true Way beyond all doubt, you will find it as vast and boundless as the great empty firmament. How can it be talked about on a level of right and wrong?”
+
