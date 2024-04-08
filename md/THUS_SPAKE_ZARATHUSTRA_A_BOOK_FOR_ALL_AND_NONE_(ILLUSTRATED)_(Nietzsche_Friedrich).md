@@ -261,3 +261,47 @@
 
       When Gods die they always die many kinds of death.
 
+      Whether it be the pity of a God, or whether it be human pity, it is offensive to modesty. And unwillingness to help may be nobler than the virtue that rusheth to do so.
+
+      They tell me that man loveth himself. Ah, how great must that self-love be! How much contempt is opposed to it! Even this man hath loved himself, as he hath despised himself,—a great lover methinketh he is, and a great despiser.
+
+      Except we be converted and become as kine, we shall in no wise enter into the kingdom of heaven. For we ought to learn from them one thing: ruminating.
+
+      I lack little of being the eternally Wandering Jew, except that I am not eternal and not a Jew.
+
+      'Nothing is true, all is permitted': so said I to myself. Into the coldest water did I plunge with head and heart.
+
+      The best belongeth unto mine and me; and if it be not given us, then do we take it:—the best food, the purest sky, the strongest thoughts, the fairest women!"—
+
+      Before God!—Now however this God hath died! Ye higher men, this God was your greatest danger. Only since he lay in the grave have ye again arisen. Now only cometh the great noontide, now only doth the higher man become—master!
+
+      In that ye have despised, ye higher men, that maketh me hope. For the great despisers are the great reverers.
+
+      "Man is evil"—so said to me for consolation, all the wisest ones. Ah, if only it be still true to-day! For the evil is man's best force. "Man must become better and eviler"—so do I teach. The evilest is necessary for the Superman's best.
+
+      And when truth hath once triumphed there, then ask yourselves with good distrust: "What strong error hath fought for it?"
+
+      Hath there ever been anything filthier on earth than the saints of the wilderness? AROUND THEM was not only the devil loose—but also the swine.
+
+      And if great things have been a failure with you, have ye yourselves therefore—been a failure? And if ye yourselves have been a failure, hath man therefore—been a failure? If man, however, hath been a failure: well then! never mind!
+
+      The higher its type, always the seldomer doth a thing succeed. Ye higher men here, have ye not all—been failures? Be of good cheer; what doth it matter? How much is still possible! Learn to laugh at yourselves, as ye ought to laugh! What wonder even that ye have failed and only half-succeeded, ye half-shattered ones! Doth not—man's FUTURE strive and struggle in you?
+
+      —Which is hostile to thistle-heads and puzzle-heads, and to all withered leaves and weeds:—praised be this wild, good, free spirit of the storm, which danceth upon fens and afflictions, as upon meadows!
+
+      HE—loveth his enemies: this art knoweth he better than any one I have seen. But he taketh revenge for it—on his friends!" Thus spake the old magician,
+
+      The DISGUST departeth from these higher men; well! that is my victory. In my domain they become assured; all stupid shame fleeth away; they empty themselves. They empty their hearts, good times return unto them, they keep holiday and ruminate,—they become THANKFUL.
+
+      What hidden wisdom it is to wear long ears, and only to say Yea and never Nay! Hath he not created the world in his own image, namely, as stupid as possible? —The ass, however, here brayed YE-A.
+
+      —A little valiant nonsense, some divine service and ass-festival, some old joyful Zarathustra fool, some blusterer to blow your souls bright. Forget not this night and this ass-festival, ye higher men! THAT did ye devise when with me, that do I take as a good omen,—such things only the convalescents devise! And should ye celebrate it again, this ass-festival, do it from love to yourselves, do it also from love to me! And in remembrance of me!" Thus spake Zarathustra.
+
+      The purest are to be masters of the world, the least known, the strongest, the midnight-souls, who are brighter and deeper than any day.
+
+      Joy, however, doth not want heirs, it doth not want children,—joy wanteth itself, it wanteth eternity, it wanteth recurrence, it wanteth everything eternally-like-itself.
+
+      —So rich is joy that it thirsteth for woe, for hell, for hate, for shame, for the lame, for the WORLD,—for this world, Oh, ye know it indeed!
+
+      man!  Take heed! What saith deep midnight's voice indeed? "I slept my sleep—, "From deepest dream I've woke, and plead:— "The world is deep, "And deeper than the day could read. "Deep is its woe—, "Joy—deeper still than grief can be: "Woe saith:  Hence!  Go! "But joys all want eternity-, "-Want deep, profound eternity!"
+

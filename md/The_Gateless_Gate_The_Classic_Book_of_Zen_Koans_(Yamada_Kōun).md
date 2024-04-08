@@ -33,3 +33,7 @@
 
       “The Way does not belong to knowing or not-knowing. Knowing is delusion; not-knowing is a blank consciousness. When you have really reached the true Way beyond all doubt, you will find it as vast and boundless as the great empty firmament. How can it be talked about on a level of right and wrong?”
 
+      A monk asked Unmon in all earnestness, “What is Buddha?” Unmon said, “Kanshiketsu! (a dried shit-stick)”
+
+      It is said that there are six Buddhas who preceded Shakyamuni: (i) Vipashyin Buddha, (2) Sikhin Buddha, (3) Vishvabhu Buddha, (4) Krakucchanda Buddha, (5) Kanakamuni Buddha, and (6) Kashyapa Buddha.
+

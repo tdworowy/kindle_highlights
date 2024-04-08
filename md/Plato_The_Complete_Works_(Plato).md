@@ -165,3 +165,5 @@
 
       In the first place, we affirm that next after the Olympian Gods and the Gods of the State, honour should be given to the Gods below; they should receive everything in even and of the second choice, and ill omen, while the odd numbers, and the first choice, and the things of lucky omen, are given to the Gods above, by him who would rightly hit the mark of piety. Next to these Gods, a wise man will do service to the demons or spirits, and then to the heroes, and after them will follow the private and ancestral Gods, who are worshipped as the law prescribes in the places which are sacred to them. Next comes the honour of living parents,
 
+      for where old men have no shame, there young men will most certainly be devoid of reverence.
+

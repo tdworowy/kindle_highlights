@@ -13,3 +13,7 @@
 
       You can disable setuid and setgid execution on individual filesystems by specifying the nosuid option to mount. It’s a good idea to use this option on filesystems that contain users’ home directories or that are mounted from less trustworthy administrative domains.
 
+      Like PAM, Kerberos deals with authentication rather than access control per se. But whereas PAM is an authentication framework, Kerberos is a specific authentication method. At sites that use Kerberos, PAM and Kerberos generally work together, PAM being the wrapper and Kerberos the actual implementation.
+
+      Given the world’s wide range of computing environments and the mixed success of efforts to advance the standard model, kernel maintainers have been reluctant to act as mediators in the larger debate over access control. In the Linux world, the situation came to a head in 2001, when the U.S. National Security Agency proposed to integrate its Security-Enhanced Linux (SELinux) system into the kernel as a standard facility.
+
