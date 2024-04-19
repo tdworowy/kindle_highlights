@@ -33,7 +33,39 @@
 
       “The Way does not belong to knowing or not-knowing. Knowing is delusion; not-knowing is a blank consciousness. When you have really reached the true Way beyond all doubt, you will find it as vast and boundless as the great empty firmament. How can it be talked about on a level of right and wrong?”
 
-      A monk asked Unmon in all earnestness, “What is Buddha?” Unmon said, “Kanshiketsu! (a dried shit-stick)”
-
       It is said that there are six Buddhas who preceded Shakyamuni: (i) Vipashyin Buddha, (2) Sikhin Buddha, (3) Vishvabhu Buddha, (4) Krakucchanda Buddha, (5) Kanakamuni Buddha, and (6) Kashyapa Buddha.
+
+      We should know that subject and object are intrinsically one. This is the most fundamental point of Buddhist teaching. It is the true satori of Zen. To intuit, experience, and realize this fact is the main reason for doing zazen.
+
+      “Fuketsu’s activity of mind is like lightning. He gains the road and immediately walks along. But why does he rest upon the tip of the ancient one’s tongue and not cut if off? If you realize this deeply, a way will be found naturally. Just leave all words behind and say one phrase.”
+
+      The five skandhas (aggregates or elements) are form, sensation, conception, discrimination, and awareness.
+
+      This great occult power that Kyōzan was speaking of has nothing to do with flying around the world. It is simply eating when you are hungry, drinking when you are thirsty, and taking a rest when you are tired.
+
+      We should know that not only are our delusions and the phenomena] world dreams, but also our enlightenment and the essential world itself are nothing but dreams.
+
+      Some of these words deserve an explanation. The Bodhisattva Maitreya, who appeared in Mumon’s commentary on Case 5, is to be the next Buddha. He is now waiting in the Tusita Heaven and will come five billion, 670 million years after Shakyamuni’s nirvana.
+
+      Generally speaking, people can be classified into four groups: (I) the ordinary person without enlightenment, (2) the ordinary person with enlightenment, (3) the saint without enlightenment, (4) the saint with enlightenment
+
+      monk asked Nansen in all earnestness, “Is there any Dharma that has not been preached to the people?” Nansen said, “There is.” The monk said, “What is the Dharma which has never been preached to the people?” Nansen said, “This is not mind; this is not Buddha; this is not a thing.”
+
+      Let us look at Case 69 of the Book of Equanimity for a moment. It reads as follows: “Once Nansen addressed the assembly, saying, ‘None of the Buddhas of the three worlds, past, present, and future, know it really is. Instead, the cat or ox knows it is.’”
+
+      Tokusan brought his sutra commentaries and notes to the front of the hall, held up a torch and said, “Even if you have exhausted abstruse doctrine, it is like placing a hair in vast space. Even if you have learned the vital points of all the truths in the world, it is like a drop of water thrown into a big ravine.” He then burned all his commentaries and notes. After making his bows, he left.
+
+      (1) ordinary blindness — unenlight — ened people who know nothing about the truth; (2) bad blindness — persons attached to wrong philosophies or religions; (3) blindness before enlightenment — people in right faith who are studying and practicing in the right way but are still unenlightened; (4) right blindness — the eye of great enlightenment, which sees nothing in the whole universe; (5) true blindness — the eye in which the light of enlightenment has utterly disappeared. This is Buddha’s eye.
+
+      Master Sonnō gave him the following instruction: “Where does it come from? Even the Buddhas and patriarchs cannot tell you. If you search for ‘where,’ you will find the whole universe is the melon and that there is no tongue outside the melon. Or you will find that the whole universe is the tongue and that there is no melon outside the tongue. In the world of reality, there is neither subject nor object. The real fact transcends both mind and things. We call it the essential activity of no-thinking, which has been transmitted from Buddha to Buddha, from patriarch to patriarch. From now on you must exert yourself all the more intensely.” The monk was deeply impressed.
+
+      Shakyamuni Buddha’s great enlightenment was simply the realization that “The whole universe is one and empty.” The truth realized by all the past, present, and future Buddhas is identical to Shakyamuni’s realization. In empty oneness there is no duality;
+
+      Just one at every point of time and space. This oneness is sometimes called “Mu,” sometimes “the sound of one hand,” sometimes “one’s primal face before one’s parents were born,” or “the subtle Dharma,” “the subtle mind of nirvana,” “mind,” “one mind,” “Buddha,” or “our essential nature,” and so forth. All these names, however, are only symbols or labels for this empty oneness. Enlightenment is nothing other than grasping this oneness by living experience.
+
+      “Shiki soku ze kū, kū soku ze shiki” (All phenomena are nothing but emptiness; emptiness is nothing but all phenomena).
+
+      “You will be able to repay the four obligations above.” In Buddhism it is said that there are four grave obligations we ought to repay: to our parents, to all living beings in the world, to our sovereign, and to the three treasures (Buddha, Dharma, and Sangha).
+
+      Bodhidharma sat facing the wall. The second patriarch, standing in the snow, cut off his arm and said, “Your disciple’s mind is not yet at peace. I beg you, Master, give it rest.” Bodhidharma said, “Bring your mind to me and I will put it to rest.” The patriarch said, “I have searched for the mind but have never been able to find it.” Bodhidharma said, “I have finished putting it to rest for you.”
 

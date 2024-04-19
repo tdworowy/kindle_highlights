@@ -167,3 +167,7 @@
 
       for where old men have no shame, there young men will most certainly be devoid of reverence.
 
+      The number of our citizens shall be 5040—this will be a convenient number; and these shall be owners of the land and protectors of the allotment.
+
+      The first and highest form of the state and of the government and of the law is that in which there prevails most widely the ancient saying, that “Friends have all things in common.” Whether there is anywhere now, or will ever be, this communion of women and children and of property, in which the private and individual is altogether banished from life,
+
