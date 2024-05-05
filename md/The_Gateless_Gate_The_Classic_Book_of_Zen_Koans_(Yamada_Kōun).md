@@ -69,3 +69,29 @@
 
       Bodhidharma sat facing the wall. The second patriarch, standing in the snow, cut off his arm and said, “Your disciple’s mind is not yet at peace. I beg you, Master, give it rest.” Bodhidharma said, “Bring your mind to me and I will put it to rest.” The patriarch said, “I have searched for the mind but have never been able to find it.” Bodhidharma said, “I have finished putting it to rest for you.”
 
+      Everything in the world has two aspects, one essential and the other phenomenal. In the former, everything is empty. It has no form, no color, no weight, no height. From this aspect, therefore, everything is equal. In the latter, everything is the only thing in the whole universe having color, weight, and height. From this aspect all things are completely different. All this remains the same as far as living beings are concerned. We human beings have two aspects, one essential and one phenomenal. Absolute equality and absolute difference are two aspects of one being.
+
+      The most important point is that these two aspects are intrinsically one. For the sake of expediency, we explain them as two, but from the beginning they are one.
+
+      There is an old Zen story which is taken to be the source of this koan. When Zen Master Shō of Setsu Prefecture was a disciple of Master Shuzan, he was asked the same question, “If you call this a shippei, you are adhering to the fact. If you don’t call this a shippei, you are opposing the fact. What will you call it?” Shō suddenly grabbed the shippei from Shuzan. Breaking it in two, he threw it on the ground and cried out, “What is this!” Shuzan shouted back, “You blind fool!” Instantly Shō awoke to great enlightenment.
+
+      Let us look at this koan for a few minutes from two points of view, one deeper than the other. In Japanese we call them shushō-hen and hombunjō . Shushō-hen means the ascending process of Zen practice. Hombun-jō can be translated as our essential nature. Hombun means our original self.
+
+      I was very interested to hear from one of the sisters in the zendo here that Christ uttered words that are almost identical: “To him who has, will more be given; and from him who has not, even what he has will be taken away.” I wonder what Christ truly meant when he said that.
+
+      There you become completely one with Mu, and there is no concept or thought whatever in your mind. This is the great death. It is also the entrance to perfect enlightenment. This stage is void of mental activity. But you must not stop there. You must press on even harder. Then the top of the stick will move forward, and suddenly a whole new world will manifest itself! This is true enlightenment. Perhaps now you understand what this warning means.
+
+      One translation of these vows reads as follows: “Living beings are numberless, I vow to save them. Delusive passions are limitless, I vow to extinguish them. The Dharma gates are countless, I vow to master them. The Buddha’s way is unsurpassed, I vow to attain it.”
+
+      If you go forward, you will go astray from the essence. If you go back, you oppose the principle. If you neither go forward nor back, you are a dead man breathing. Tell me now, what will you do? Make the utmost effort to attain full realization in this life! Do not abide in misery forever.
+
+      In old China, Zen was divided into five sects, or Houses: the Rinzai, Sōtō, Unmon, Hōgen, and Igyō.
+
+      The ancient Chinese book Gotōegen tells that Prince Nada cut off his flesh and gave it back to his mother, broke his bones and gave them back to his father, and preached the Dharma for his parents. In the same book we are told that the fifth patriarch, Konin, was born of a virgin. In a previous life, he searched for the Way, planting pine trees. In old age, he met the fourth patriarch, Dōshin, and asked to become his disciple. Dōshin refused, giving the reason that the pine tree planter was too old. The fifth patriarch borrowed the body of a young woman and had himself born again in order to meet Master Dōshin again and become his disciple.
+
+      “Officially not even a needle can get in; privately, even a horse and carriage can go through.”
+
+      “When one’s view equals that of his teacher, he lessens the teacher’s virtue by half; only when one’s view surpasses his teacher is he able to bring out the teacher’s teaching.”
+
+      Penetrating Zen involves no particular cleverness: it’s just a matter of rousing the mass of doubt throughout your body, day and night, never letting up. After a long time it becomes pure and ripe, and inside and outside become one; then you become one with space, then you become one with the mountains, rivers, and earth, then you become one with the four quarters, above and below. Haven’t you heard it said “The whole earth is the student’s self; the whole earth is the gate of liberation; the whole earth is one eye of a monk.”
+

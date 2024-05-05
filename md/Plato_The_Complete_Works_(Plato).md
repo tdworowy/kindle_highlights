@@ -171,3 +171,43 @@
 
       The first and highest form of the state and of the government and of the law is that in which there prevails most widely the ancient saying, that “Friends have all things in common.” Whether there is anywhere now, or will ever be, this communion of women and children and of property, in which the private and individual is altogether banished from life,
 
+      for servants and masters never can be friends, nor good and bad, merely because they are declared to have equal privileges. For to unequals equals become unequal, if they are not harmonized by measure; and both by reason of equality, and by reason of inequality, cities are filled with seditions.
+
+      Every man should remember the universal rule, that he who is not a good servant will not be a good master;
+
+      Athenian. I thank you. We will say to him who is born of good parents—O my son, you ought to make such a marriage as wise men would approve. Now they would advise you neither to avoid a poor marriage, nor specially to desire a rich one; but if other things are equal, always to honour inferiors, and with them to form connections;—this will be for the benefit of the city and of the families which are united; for the equable and symmetrical tends infinitely more to virtue than the unmixed.
+
+      —Every man shall follow, not after the marriage which is most pleasing to himself, but after that which is most beneficial to the state. For somehow every one is by nature prone
+
+      But if a man will not listen and remains unsocial and alien among his fellow–citizens, and is still unmarried at thirty–five years of age, let him pay a yearly fine;
+
+      —We know that all would agree that we should have the best and most attached slaves whom we can get. For many a man has found his slaves better in every way than brethren or sons, and many times they have saved the lives and property of their masters and their whole house—such tales are well known.
+
+      But may we not also say that the soul of the slave is utterly corrupt, and that no man of sense ought to trust them?
+
+      Athenian. He who imagines that he can give laws for the public conduct of states, while he leaves the private life of citizens wholly to take care of itself; who thinks that individuals may pass the day as they please, and that there is no necessity of order in all things; he, I say, who gives up the control of their private lives, and supposes that they will conform to law in their common and public life, is making a great mistake.
+
+      who attempts to compel women to show in public how much they eat and drink? There is nothing at which the sex is more likely to take offence. For women are accustomed to creep into dark places, and when dragged out into the light they will exert their utmost powers of resistance,
+
+      when they depart life let them be erased. The limit of marriageable ages for a woman shall be from sixteen to twenty years at the longest—for a man, from thirty to thirty–five years;
+
+      and let a woman hold office at forty, and a man at thirty years. Let a man go out to war from twenty to sixty years, and for a woman, if there appear any need to make use of her in military service, let the time of service be after she shall have brought forth children up to fifty years of age; and let regard be had to what is possible and suitable to each.
+
+      Education has two branches—one of gymnastic, which is concerned with the body, and the other of music, which is designed for the improvement of the soul. And gymnastic has also two branches—dancing and wrestling;
+
+      Now human affairs are hardly worth considering in earnest, and yet we must be in earnest about them—a sad necessity constrains us.
+
+      and the pupils shall be regarded as belonging to the state rather than to their parents.
+
+      And of all animals the boy is the most unmanageable, inasmuch as he has the fountain of reason in him not yet regulated;
+
+      great would be the disgrace to the state, if the women had been so miserably trained that they could not fight for their young, as birds will, against any creature however strong, and die or undergo any danger,
+
+      and of the imitations which these afford. For serious things cannot be understood without laughable things, nor opposites at all without opposites, if a man is really to have intelligence of either;
+
+      “not even God himself can fight against necessity”;—he meant, if I
+
+      For entire ignorance is not so terrible or extreme an evil, and is far from being the greatest of all; too much cleverness and too much learning, accompanied with an ill bringing up, are far more fatal.
+
+      O my dear Cleinias, I, like yourself, have late in life heard with amazement of our ignorance in these matters; to me we appear to be more like pigs than men, and I am quite ashamed, not only of myself, but of all Hellenes.
+

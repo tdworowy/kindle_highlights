@@ -17,3 +17,5 @@
 
       Given the world’s wide range of computing environments and the mixed success of efforts to advance the standard model, kernel maintainers have been reluctant to act as mediators in the larger debate over access control. In the Linux world, the situation came to a head in 2001, when the U.S. National Security Agency proposed to integrate its Security-Enhanced Linux (SELinux) system into the kernel as a standard facility.
 
+      The fd subdirectory represents open files in the form of symbolic links.
+
