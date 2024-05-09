@@ -3,3 +3,5 @@
 
       “But they can’t ever take what you know, now can they, Sybil? They can’t ever take that.”
 
+      “How long?” “It always takes twice as long as you think,” the boy said, settling back in his chair. “Even if you double your estimate. Something of a natural law.”
+

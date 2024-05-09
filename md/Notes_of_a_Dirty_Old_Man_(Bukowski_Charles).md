@@ -53,3 +53,9 @@
 
       women are basically stupid animals but they concentrate so much and entirely upon the male that they often defeat him while he is thinking of other things.
 
+      later she went to Alaska and married an Eskimo, a Japanese fisherman, and my joke is when drunk, to now and then tell somebody, “I once lost a million dollars to a Japanese fisherman.”
+
+      here in the United States, especially, sex is inflated far beyond its simplest importance. a woman with a sexy body immediately turns it into a weapon for MATERIAL advancement.
+
+      “baby, in a couple of minutes I’m going to rip off your goddamned panties and show you some turkey neck you’ll remember all the way to the graveside. I have a vast and curved penis, like a sickle, and many a gutted pussy has gasped come upon my callous and roach-smeared rug. first let me finish this drink.” then you drink down a tall water glass of straight whiskey, smash the glass against the wall, muttering “Villon ate fried titty for breakfast,” pause to light a cigarette and when you turn your problems will be solved — it will leave out the front door. if it remains it deserves what it gets. and so do you.
+

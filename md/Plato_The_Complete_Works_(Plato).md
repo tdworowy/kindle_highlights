@@ -211,3 +211,9 @@
 
       O my dear Cleinias, I, like yourself, have late in life heard with amazement of our ignorance in these matters; to me we appear to be more like pigs than men, and I am quite ashamed, not only of myself, but of all Hellenes.
 
+      But how can we take precautions against the unnatural loves of either sex, from which innumerable evils have come upon individuals and cities?
+
+      Athenian. Dear is the like in virtue to the like, and the equal to the equal; dear also, though unlike, is he who has abundance to him who is in want. And when either of these friendships becomes excessive, we term the excess love.
+
+      As to pears, and apples, and pomegranates, and similar fruits, there shall be no disgrace in taking them secretly; but he who is caught, if he be of less than thirty years of age, shall be struck and beaten off, but not wounded; and no freeman shall have any right of satisfaction for such blows. Of these fruits the stranger may partake, just as he may of the fruits of autumn. And if an elder, who is more than thirty years of age, eat of them on the spot, let him, like the stranger, be allowed to partake of all such fruits, but he must carry away nothing.
+
