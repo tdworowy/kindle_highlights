@@ -1,0 +1,7 @@
+#### Confessions of an Economic Hit Man, 3rd Edition (Perkins, John)
+      Economic hit men (EHMs) are highly paid professionals who cheat countries around the globe out of trillions of dollars. They funnel money from the World Bank, the US Agency for International Development (USAID), and other foreign “aid” organizations into the coffers of huge corporations and the pockets of a few wealthy families who control the planet’s natural resources. Their tools include fraudulent financial reports, rigged elections, payoffs, extortion, sex, and murder. They play a game as old as empire, but one that has taken on new and terrifying dimensions during this time of globalization. I should know; I was an EHM.*
+
+      First, competition for global dominance had shifted from the military to the economic. Second, there was a trend toward uniting the world under initiatives like China’s New Silk Road (officially the Belt and Road Initiative, or BRI) and American-led global financial structures. And third, the future of life as we know it depends on ending EHM strategies everywhere and transforming a failing degenerative system, known as a death economy, into a regenerative one, known as a life economy.
+
+      The failure of the world’s largest, best-equipped military to defeat North Vietnam, combined with the Cold War specter of a nuclear holocaust, replaced the pillar of instilling fear in others with the pillar of debt as the primary tactic.
+

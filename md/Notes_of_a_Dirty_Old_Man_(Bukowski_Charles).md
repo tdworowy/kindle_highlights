@@ -59,3 +59,9 @@
 
       “baby, in a couple of minutes I’m going to rip off your goddamned panties and show you some turkey neck you’ll remember all the way to the graveside. I have a vast and curved penis, like a sickle, and many a gutted pussy has gasped come upon my callous and roach-smeared rug. first let me finish this drink.” then you drink down a tall water glass of straight whiskey, smash the glass against the wall, muttering “Villon ate fried titty for breakfast,” pause to light a cigarette and when you turn your problems will be solved — it will leave out the front door. if it remains it deserves what it gets. and so do you.
 
+      over; I had used the last trick of the kind: be cruel to the cruel, be stupid to the stupid. the cruel and the stupid were the same: there was nothing you could do to them; there were only things they could, and would do to you.
+
+      but then in those days, I’d just never given it that way, and I was feeling a little crazy, as usual, and I had this strange idea that a good fuck in THEIR ass would solve a lot of MY spiritual and mental problems.
+
+      no pain means the end of feeling; each of our joys is a bargain with the devil.
+

@@ -217,3 +217,11 @@
 
       As to pears, and apples, and pomegranates, and similar fruits, there shall be no disgrace in taking them secretly; but he who is caught, if he be of less than thirty years of age, shall be struck and beaten off, but not wounded; and no freeman shall have any right of satisfaction for such blows. Of these fruits the stranger may partake, just as he may of the fruits of autumn. And if an elder, who is more than thirty years of age, eat of them on the spot, let him, like the stranger, be allowed to partake of all such fruits, but he must carry away nothing.
 
+      Athenian. That all bad men are always involuntarily bad; and from this must proceed to draw a further inference.
+
+      Athenian. I will endeavour to do as you wish:—Concerning the soul, thus much would be generally said and allowed, that one element in her nature is passion, which may be described either as a state or a part of her, and is hard to be striven against and contended with, and by irrational force overturns many things.
+
+      must not omit to mention a tradition which is firmly believed by many, and has been received by them from those who are learned in the mysteries: they say that such deeds will be punished in the world below, and also that when the perpetrators return to this world they will pay the natural penalty which is due to the sufferer, and end their lives in like manner by the hand of another. If he who is about
+
+      And if a beast of burden or other animal cause the death of any one, except in the case of anything of that kind happening to a competitor in the public contests, the kinsmen of the deceased shall prosecute the slayer for murder, and the wardens of the country, such, and so many as the kinsmen appoint, shall try the cause, and let the beast when condemned be slain by them, and let them cast it beyond the borders. And if any lifeless thing deprive a man of life, except in the case of a thunderbolt or other fatal dart sent from the Gods—whether a man is killed by lifeless objects, falling upon him, or by his falling upon them, the nearest of kin shall appoint the nearest neighbour to be a judge, and thereby acquit himself and the whole family of guilt. And he shall cast forth the guilty thing beyond the border, as has been said about the animals.
+
