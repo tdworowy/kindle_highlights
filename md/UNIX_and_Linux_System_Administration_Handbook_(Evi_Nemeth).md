@@ -19,3 +19,7 @@
 
       The fd subdirectory represents open files in the form of symbolic links.
 
+      Instead of reaching for umount -f when a filesystem you’re trying to unmount turns out to be busy, run the fuser command to find out which processes hold references to that filesystem. fuser -c mountpoint prints the PID of every process that’s using a file or directory on that filesystem, plus a series of letter codes that show the nature of the activity.
+
+      All directories have at least two hard links: the link from the parent directory and the link from the special file called . inside the directory itself.
+

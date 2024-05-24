@@ -225,3 +225,37 @@
 
       And if a beast of burden or other animal cause the death of any one, except in the case of anything of that kind happening to a competitor in the public contests, the kinsmen of the deceased shall prosecute the slayer for murder, and the wardens of the country, such, and so many as the kinsmen appoint, shall try the cause, and let the beast when condemned be slain by them, and let them cast it beyond the borders. And if any lifeless thing deprive a man of life, except in the case of a thunderbolt or other fatal dart sent from the Gods—whether a man is killed by lifeless objects, falling upon him, or by his falling upon them, the nearest of kin shall appoint the nearest neighbour to be a judge, and thereby acquit himself and the whole family of guilt. And he shall cast forth the guilty thing beyond the border, as has been said about the animals.
 
+      And now having spoken of assaults, let us sum up all acts of violence under a single law, which shall be as follows:—No one shall take or carry away any of his neighbour’s goods, neither shall he use anything which is his neighbour’s without the consent of the owner; for these are the offences which are and have been, and will ever be, the source of all the aforesaid evils.
+
+      Cleinias. I wish that you would speak plainer. Athenian. The doctrine that all things do become, have become, and will become, some by nature, some by art, and some by chance.
+
+      Athenian. Nearly all of them, my friends, seem to be ignorant of the nature and power of the soul, especially in what relates to her origin: they do not know that she is among the first of things, and before all bodies, and is the chief author of their changes and transpositions. And if this is true, and if the soul is older than the body, must not the things which are of the soul’s kindred be of necessity prior to those which appertain to the body?
+
+      Athenian. Let us assume that there is a motion able to move other things, but not to move itself;—that is one kind; and there is another kind which can move itself as well as other things, working in composition and decomposition, by increase and diminution and generation and destruction—that is also one of the many kinds of motion.
+
+      Athenian. And now, I beseech you, reflect;—you would admit that we have a threefold knowledge of things? Cleinias. What do you mean? Athenian. I mean that we know the essence, and that we know the definition of the essence, and the name,—these are the three; and there are two questions which may be raised about anything.
+
+      Athenian. And what is the definition of that which is named “soul”? Can we conceive of any other than that which has been already given—the motion which can move itself?
+
+      Athenian. And as the soul orders and inhabits all things that move, however moving, must we not say that she orders also the heavens? Cleinias. Of course. Athenian. One soul or more? More than one—I will answer for you; at any rate, we must not suppose that there are less than two—one the author of good, and the other of evil. Cleinias. Very true.
+
+      Retail trade in a city is not by nature intended to do any harm, but quite the contrary; for is not he a benefactor who reduces the inequalities and incommensurabilities of goods to equality and common measure? And this is what the power of money accomplishes, and the merchant may be said to be appointed for this purpose.
+
+      If a man dies without making a will, and leaves behind him daughters, let his brother, being the son of the same father or of the same mother, having no lot, marry the daughter and have the lot of the dead man.
+
+      There is the kind just now explicitly mentioned, which injures bodies by the use of other bodies according to a natural law; there is also another kind which persuades the more daring class that they can do injury by sorceries, and incantations, and magic knots, as they are termed, and makes others believe that they above all persons are injured by the powers of the magician
+
+      And we ought in time of peace from youth upwards to practise this habit of commanding others, and of being commanded by others;
+
+      Tradition says that Caeneus, the Thessalian, was changed by a God from a woman into a man; but the converse miracle cannot now be wrought, or no punishment would be more proper than that the man who throws away his shield should be changed into a woman.
+
+      But now that a certain portion of mankind do not believe at all in the existence of the Gods,
+
+      In the first place, let no one be allowed to go anywhere at all into a foreign country who is less than forty years of age; and no one shall go in a private capacity, but only in some public one, as a herald, or on an embassy; or on a sacred mission.
+
+      Athenian. Know, Cleinias, that everything, in all that it does, has a natural saviour, as of an animal the soul and the head are the chief saviours.
+
+      And so these details, although they could not be truly said to be secret, might be said to be incapable of being stated beforehand, because when stated they would have no meaning.
+
+      for the learners themselves do not know what is learned to advantage until the knowledge which is the result of learning has found a place in the soul of each. And so these details, although they could not be truly said to be secret, might be said to be incapable of being stated beforehand, because when stated they would have no meaning.
+
