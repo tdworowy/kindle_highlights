@@ -11,3 +11,9 @@
 
       It is a concatenation of synergistic interactions; the whole system is on the period-doubling route to Chaos!” “What does that mean, pray?” “Essentially,” Mallory said, smiling behind his kerchief, “in layman’s terms, it means that everything gets twice as bad, twice as fast, until everything falls completely apart!”
 
+      Brian was still muttering, a monotone to match their tramping step. “Britain’s a sight too hospitable to all these damn foreign refugees. If I’d my way, I’d transport the lot to Texas….”
+
+      “History works by Catastrophe! It’s the way of the world, the only way there is, has been, or ever will be. There is no history—there is only contingency!”
+
+      The Negro nodded. He spread his open palms, gently, a gesture like a blessing. “You were right, sir, and he was quite wrong. There is nothing to history. No progress, no justice. There is nothing but random horror.”
+
