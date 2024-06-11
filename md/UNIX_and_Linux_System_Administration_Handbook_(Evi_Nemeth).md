@@ -23,3 +23,5 @@
 
       All directories have at least two hard links: the link from the parent directory and the link from the special file called . inside the directory itself.
 
+      PXE acts like a miniature OS that sits in a ROM on your network card. It exposes its network capabilities through a standardized API for the system BIOS to use. This cooperation makes it possible for a single boot loader to netboot any PXE-enabled PC without having to supply special drivers for each network card.
+

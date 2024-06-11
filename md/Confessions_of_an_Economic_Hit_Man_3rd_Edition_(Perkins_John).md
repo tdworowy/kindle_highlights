@@ -49,3 +49,5 @@
 
       I had no answer. The relief turned into defensiveness. I stammered out the standard justifications: that I was trying to do good, that I was exploring ways to change the system from within, and—the old standby—that if I quit, someone even worse would fill my shoes. But I could see from the way she watched me that she was not buying it. Even worse, I knew that I was not buying it either. She had forced me to understand the essential truth: it was not my job, but me, that was to blame.
 
+      According to some sources, SIL received funding from the Rockefeller charities. Family scion John D. Rockefeller had founded Standard Oil—which later divested into the majors, including Chevron, Exxon, and Mobil.
+
