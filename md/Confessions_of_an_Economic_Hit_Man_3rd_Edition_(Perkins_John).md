@@ -51,3 +51,5 @@
 
       According to some sources, SIL received funding from the Rockefeller charities. Family scion John D. Rockefeller had founded Standard Oil—which later divested into the majors, including Chevron, Exxon, and Mobil.
 
+      “Once Bush took his seat on the board, wonderful things started to happen to Harken—new investments, unexpected sources of financing, serendipitous drilling rights.”
+

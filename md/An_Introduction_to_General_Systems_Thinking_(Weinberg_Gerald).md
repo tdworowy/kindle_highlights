@@ -59,3 +59,27 @@
 
       Heuristic devices don't tell you when to stop.
 
+      Systems are thoroughly man-made... When we include a given relation in a system, or omit it, we may do well or ill; but such an inclusion creates no truth, and such omission indicates no falsity. The justification for one's procedure, in this respect, is purely pragmatic; it depends upon the relevance of what is included or omitted to the purposes which the system is designed to satisfy,9
+
+      More often than not, the classes of objects encountered in the real physical world do not have precisely defined criteria of membership.10 - L. A. Zadeh
+
+      Arbitrary systems: Systems about which nothing general can be said, except that "nothing general can be said."
+
+      A system is a set of objects together with relationships between the objects and between their attributes.
+
+      Computers have a way of exposing flaws in explicit rules. In the attempt to mechanize a classification procedure, we usually discover much more than meets the eye.
+
+      TIME FLIES LIKE AN ARROW, is not the same as the structure of FRUIT FLIES LIKE A BANANA. The answer is that we do not know. We jumped to a conclusion based on a probable semantic interpretation.
+
+      As Bertrand Russell remarked, mathematics gets its appearance of truth from not saying what it is talking about.
+
+      A mathematical argument cannot be true or false, but, as the mathematician says, only "valid" or "invalid." "Valid," in effect, means that it is internally consistent.
+
+      We may state this idea in the form of a Principle of Indifference: Laws should not depend on a particular choice of notation.
+
+      A is said to be consistent with B if he never gives two different symbols for one of B's symbols.
+
+      Notice, however, that the concept of super-superobserver is much like the concept of "reality," in that it contains "all possible" observations. Put in these terms, we see that the concept of "reality" is very close to what some people call "God."
+
+      To a certain extent, mental power can compensate for observational weakness.
+
