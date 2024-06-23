@@ -27,8 +27,6 @@
 
       Every model is ultimately the expression of one thing we think we hope to understand in terms of another thing we think we do understand. The chain of reasoning may be a hundred logical steps or a single analogical leap, but always ends in terms of some primitives we agree among ourselves not to question further.
 
-      Science is the study of those things that can be reduced to the study of other things.
-
       Conceptual schemes are also found, however, in any subculture that develops when people work together. By possessing a common set of standard categories of thought—usually symbolized by special words or phrases—groups can simplify the process of internal communication. Paradoxically, the more effective these categories are for internal communication, the more difficult they make communication with outsiders.
 
       Because of the importance of category systems in a social group, it is not the outsider with a "better" system who becomes king, but the insider who most thoroughly masters the internal system.
@@ -82,4 +80,68 @@
       Notice, however, that the concept of super-superobserver is much like the concept of "reality," in that it contains "all possible" observations. Put in these terms, we see that the concept of "reality" is very close to what some people call "God."
 
       To a certain extent, mental power can compensate for observational weakness.
+
+      When asked, for example, what happens to two blocks of copper initially at different temperatures left alone together in an insulated container, they will all reply that the blocks will come to the same temperature. Of course, if asked how they know, they usually say "Because it is a law of nature."... the opposite is true ... it is a law of nature because it happens." - John R. Dixon and Alden H. Emery, Jr.4
+
+      The Generalized Thermodynamic Law: More probable states are more likely to be observed than less probable states, unless specific constraints exist to keep them from occurring.
+
+      The things we see more frequently are more frequent: 1. because there is some physical reason to favor certain states (the First Law) or 2. because there is some mental reason (the Second Law).
+
+      If we want to learn anything, we mustn't try to learn everything.
+
+      And if theologians saw every miracle as a miracle, there would be no religion, because every miracle belongs to the set of all miracles, and thus is not entirely unique.
+
+      By means of mathematics we purchase a great ease of manipulation at the cost of a certain loss of complexity of content. If we ever forget this cost, and it is easy for it to fall to the back of our minds, then the very ease with which we manipulate symbols may be our undoing. All I am saying is that mathematics in any of its applied fields is a wonderful servant but a very bad master; it is so good a servant that there is a tendency for it to become an unjust steward and usurp the master's place. - Kenneth Boulding7
+
+      If observer B dominated observer A, every observation A could make could be predicted from the corresponding observation of B. In other words: A = f(B)
+
+      That is, no matter how we select among isomorphs, or decompose into more refined views, nothing essentially new will be found.
+
+      ... the notion of complementarity simply characterizes the answers we can receive by such inquiry, whenever the interaction between the measuring instruments and the objects forms an integral part of the phenomena.
+
+      These are the essential ingredients in our idea of complementarity: two mutually irreducible points of view that are not entirely independent.
+
+      Reductionism is an article of scientific faith. It must be faith, for nobody has ever observed the final reduction of any set of observations. We may scoff all we like at the "nonscientific"
+
+      If we make elaborate measurements precise enough to determine the microscopic state of a system at a given instant, we can indeed find out what the state is but the disturbance engendered (for instance by the breaking of chemical bonds) would be so radical that the system would behave thereafter in a quite different way from the way it did before; it can no longer be considered as the same dynamical system. , . . We have killed the organism by our too detailed measurements.16
+
+      In general, in a system with one long cycle that has factors (such as 180 = 5 x 4 x 9), we may be able to reduce the number of pairs remembered to the sum of the factors: 5 + 4 + 9 = 18. Consider a very long cycle of 1010 states. 1010 is the product of 10 tens, while the sum of 10 tens is only 100, or 102. Thus, if we can break down the system into ten independent cycles, we have made a reduction of 1010/102 = 108. While most of us can (with effort) memorize a list of 100 pairs, how many could memorize ten billion?
+
+      1. get a "complete" view—one broad enough to encompass all phenomena of interest—so we are not surprised; 2. get a "minimal" view—one that lumps together states that are unnecessarily discriminated—so we do not overtax our observational powers; 3. get an "independent" view—one that decomposes observed states into noninteracting qualities—so as to reduce the mental effort required.
+
+      But the Axiom of Experience can, like all of our principles, be turned around, to become a definition of what we mean by the word "like": Two things are alike if one in the present can be substituted for one in the past.
+
+      In science as in poetry, the essential quality is not the finished metaphor itself, but the process of transformation, this is, the process of making the metaphor. And as the fabric of poetry or science is made, metaphors may be built upon metaphors, functions upon functions.
+
+      One of the most deeply buried metaphors of science is the concept of a "thing" or "part" that can be separated cleanly from other things or parts. The metaphor is so deep we seldom know when we are using it.
+
+      There are two kinds of people in the world—those who divide everything in the world into two kinds of things and those who don't. - Kenneth Boulding
+
+      In sum, a quality is a way of grouping the states of a system. For example, the quality of mass is ultimately defined by displaying states of a system in which masses are the same or different.
+
+      Scientists sometimes speak of two kinds of qualities—extensive and intensive—according to what happens to the quality when the system is divided into parts. If we break a chocolate bar in two pieces, each piece has a different mass than the original: thus mass would be called an extensive quality, since it depends on maintaining the full extent of the system. On the other hand, when we break the chocolate bar in half, each piece retains the same "chocolateness"; which is therefore said to be an intensive quality. Or, to take a more physical example, each half has the same density, so density is said to be an intensive quality.
+
+      With respect to any given property, there are those transformations that preserve it and those that do not preserve it.
+
+      We. understand change only by observing what remains invariant, and permanence only by what is transformed.
+
+      Now we have always recognized that the operation of isolation is one which is almost indispensable in the common sense handling of the world around us, but at the same time it is an operation which is never sharply performable, for everything has a fringe of involvement with its surroundings. - P. W. Bridgman9
+
+      This desire for consistency leads to the first mathematical condition for describing a partition, and thus, in our terms, describing a quality: For every state, x, the pair (x, x) must be in the relation. The mathematicians call this the reflexive condition. (Think of a reflection in a mirror.) When
+
+      Symmetry The second property a relation must have to fit our intuitive notions of a quality is symmetry. The judgment as to whether two states are the same or different with respect to the quality in question should not depend, for example, on the order of appearance.
+
+      Even if "friendship" is a symmetrical relationship in a particular system, we might still be unable to partition the system into subsystems of "friends" because of the necessity for transitivity, our third condition. Transitivity holds, for example, if we can say that B is a friend of A, and C is a friend of B, then C must be a friend of A. Clearly, in the case of friendship, transitivity need not hold at all, since A and C could just as well be either strangers or enemies.
+
+      Along the Appalachian ridge each neighboring group of frogs can be successfully mated, but the frogs taken from the two ends of the chain cannot mate at all. Thus, to speak of dividing these frogs into species according to the mating criterion is to speak in fallacies. In fact, many naturalists have come to doubt the usefulness of any global species concept.
+
+      As we shall see presently, the world often divides more clearly into parts than we would suspect from random divisions—divisions that have not been subjected to the tests of reflexivity, symmetry, and transitivity.
+
+      The Perfect Systems Law: True systems properties cannot be investigated. In other words, the
+
+      Strong Connection Law: Systems, on the average, are more tightly connected than the average.
+
+      The Strong Connection Law can be stated in several interesting ways. We can say, for example, that A system is a collection of parts, no one of which can be changed.
+
+      Strong Connection Law: In systems, all other things are rarely equal.
 

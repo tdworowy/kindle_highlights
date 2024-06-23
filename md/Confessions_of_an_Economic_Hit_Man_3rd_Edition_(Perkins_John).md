@@ -53,3 +53,11 @@
 
       “Once Bush took his seat on the board, wonderful things started to happen to Harken—new investments, unexpected sources of financing, serendipitous drilling rights.”
 
+      Perhaps, therefore, it should not have stunned the world when, on December 20, 1989, the United States attacked Panama with what was reported to be the largest airborne assault on a city since World War II.6 It was an unprovoked attack on a civilian population. Panama and its people posed absolutely no threat to the United States or to any other country.
+
+      Iraq is not simply about oil. It is also about water and geopolitics. Both the Tigris and Euphrates rivers flow through Iraq; thus, among all the countries in that part of the world, Iraq controls much of the increasingly critical water resources.
+
+      Military strategists equate modern Iraq to the Hudson River valley during the French and Indian War and the American Revolution. In the eighteenth century, the French, British, and Americans knew that whoever controlled the Hudson River valley controlled the continent. Today, it is common knowledge that whoever controls Iraq holds a trump card in the Middle East.
+
+      Bush responded with a denunciation of Saddam for violating international law, even though it had been less than a year since Bush himself had staged the illegal and unilateral invasion of Panama.
+
