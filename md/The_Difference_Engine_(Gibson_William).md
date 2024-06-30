@@ -17,3 +17,7 @@
 
       The Negro nodded. He spread his open palms, gently, a gesture like a blessing. “You were right, sir, and he was quite wrong. There is nothing to history. No progress, no justice. There is nothing but random horror.”
 
+      “As thinking beings, we may envision the universe, though we have no finite way to sum it up. The term, ‘universe,’ is not in fact a rational concept, though it is something of such utter immediacy that no thinking creature can escape a pressing knowledge of it, and indeed, an urge to know its workings, and the nature of one’s own origin within it.
+
+      The book does prominently feature three of the foundational touchstones of all things steampunk: giant airships, brass computers, and kinky feminine underwear.
+

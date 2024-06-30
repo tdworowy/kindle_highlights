@@ -61,3 +61,15 @@
 
       Bush responded with a denunciation of Saddam for violating international law, even though it had been less than a year since Bush himself had staged the illegal and unilateral invasion of Panama.
 
+      I thought about the core tools we EHMs used in my day: false economics that included distorted financial analyses, inflated projections and rigged accounting books, secrecy, deception, threats, bribes, extortion; false promises that were never intended to be honored; and enslavement through debt and fears.
+
+      While sixty of the poorest countries had paid $550 billion over three decades in both principal and interest on loans of $540 billion, they still owed a whopping $523 billion on those same loans. The cost of servicing that debt was more than these countries spent on health or education and twenty times the amount they received annually in foreign aid.
+
+      Daschle and Dodd were Democrats. Among Republicans who had jumped from the Senate into the lobbyist club were John Ashcroft, Bob Dole, Newt Gingrich, Phil Gramm, Chuck Hagel, Trent Lott, Warren Rudman—the list of both Democrats and Republicans seemed endless. And there were still more who had transformed themselves into EHMs from the US House of Representatives.
+
+      In Argentina, the authorities’ battles with a small number of “investors” (so-called vulture funds) jeopardised an entire debt restructuring agreed to—voluntarily—by an overwhelming majority of the country’s creditors. In Greece . . . the country is forced into austerity policies that have contributed mightily to a 25% decline in GDP and have left its population worse off. In Ukraine, the potential political ramifications of sovereign-debt distress are enormous.18
+
+      “At least 6,000 peoples’ [sic] lives have been unjustly taken by United States drone attacks in Afghanistan, Pakistan, Yemen, Somalia, Iraq, the Philippines, Libya and Syria,” states a June 2015 letter released by dozens of US military veterans. In that letter they urge drone operators to “refuse to fly missions” or support such activities in any way. These veterans understand that indiscriminate drone strikes on civilians are seen by most of the world as acts of terror.”2
+
+      By 2012 there were almost 110,000 contracted mercenary forces in Afghanistan alone, compared to 68,000 US military personnel. To place this in perspective: in Vietnam there were 70,000 mercenaries and 359,000 military personnel.10
+

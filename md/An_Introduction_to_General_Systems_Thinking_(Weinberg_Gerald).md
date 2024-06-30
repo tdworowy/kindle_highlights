@@ -145,3 +145,31 @@
 
       Strong Connection Law: In systems, all other things are rarely equal.
 
+      Picture Principle: When speaking about a dimensional reduction, insert the words "a picture of" in whatever you were about to say.
+
+      For example, we may discover that temperature is important in describing the behavior of a system. This discovery may come only after we have done numerous experiments that happened to be at a constant temperature, so we did not at first detect its importance. The descriptions of the system derived from these experiments now become descriptions of a particular projection of the system, a projection that eliminates temperature by holding it constant.
+
+      If a line of behavior crosses itself, then either: the system is not state determined or we are viewing a projection—an incomplete view.
+
+      Synchronic Principle: If two systems occupy the same position in the state space at the same time, then the space is under-dimensioned, that is, the view is incomplete.
+
+      Thus, we offer the Count-to-Three Principle: If you cannot think of three ways of abusing a tool, you do not understand how to use it.
+
+      Science may be thought of as the process of learning which ways of looking at things yield invariant laws.
+
+      The laws of science may thus be descriptions of how the world looks ("Eureka"—I have found), or prescriptions for how to look at the world ("heuristic"—how to find). We really have no way of knowing which.
+
+      the Principle of Indeterminability: We cannot with certainty attribute observed constraint either to system or environment.
+
+      The number of untested assumptions in science is staggering. On any day we can open any one of dozens of newly arrived journals and find reports of "discoveries" that were made simply by relaxing a constraint that was in the observation process itself.
+
+      Natives on the Pacific island of Nauru traditionally drank a strong home-brew made from fermented palm leaves. But after World War One, Nauru was mandated to Australia and prohibition was imposed. Infant mortality rose to the 50 percent level within six months. The reason? The people's natural diet was so low in vitamin B, that infants being nursed got the required amount of it only when the mother was drunk. When the natives were allowed to drink again, infant mortality fell at once to seven percent.
+
+      These, then, are the three great questions that govern general systems thinking, the Systems Triumvirate: 1. Why do I see what I see? 2. Why do things stay the same ? 3. Why do things change?
+
+      The general idea is always an abstraction and, for that very reason, is some sort of negation of real life... . Human thought, and, in consequence of this, science, can grasp and name only the general significance of real facts, their relations, their laws—in short, that which is permanent in their continual transformations—but never their material, individual side, palpitating, so to speak, with reality and life, and therefore fugitive and intangible. Science comprehends the thought of the reality, not reality itself; the thought of life, not life. That is its limit, its only really insuperable limit, because it is founded on the very nature of thought, which is the only organ of science. - Bakunin2
+
+      In the final analysis, all three parts of the concept of stability—system, environment, and critical limits—depend on the observer. But then how do we account for the feeling that we have that stability is somehow central to our thinking about systems? The answer was nicely put by Parsons and Shils7 when they said: ... if a system is to be permanent enough to be worthy of study, there must be a tendency to maintenance of order except under unusual circumstances.
+
+      Darwin9 recognized this situation over a century ago when he observed that: Authors sometimes argue in a circle when they state that important organs never vary; for these same authors practically rank that character as important (as some few naturalists have honestly confessed) which does not vary; and, under this point of view, no instance of an important part varying will ever be found; but under any other point of view many instances assuredly can be given.
+
