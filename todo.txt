@@ -1,1 +1,1 @@
-- better presentation than md ?
+- use HTMX to generate nice looking web pages from md files
