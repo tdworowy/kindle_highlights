@@ -19,3 +19,5 @@
 
       Unknown unknowns: The third symptom of complexity is that it is not obvious which pieces of code must be modified to complete a task, or what information a developer must have to carry out the task successfully.
 
+      An abstraction is a simplified view of an entity, which omits unimportant details.
+
