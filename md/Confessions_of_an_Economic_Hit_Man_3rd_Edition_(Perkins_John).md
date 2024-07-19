@@ -15,8 +15,6 @@
 
       If an EHM is completely successful, the loans are so large that the debtor is forced to default on its payments after a few years. When this happens, we demand our pound of flesh. This often includes one or more of the following: control over United Nations votes, the installation of military bases, or access to precious resources such as oil. Of course, the debtor still owes us the money—and another country is added to our global empire.
 
-      Claudine’s statement would be revised to “If you want your country to prosper, accept loans from the Washington Consensus, hire our companies to build infrastructure projects, and submit to neoliberal policies.”
-
       Several days later the popular Bandung politician, whose puppet stood up to Nixon and was impaled by Bucket Man, was struck and killed by a hit-and-run driver.
 
       “Do you know who owns United Fruit?” he asked. “Zapata Oil, George Bush’s company—our UN ambassador.” I said. “A man with ambitions.” He leaned forward and lowered his voice. “And now I’m up against his cronies at Bechtel.”
@@ -72,4 +70,14 @@
       “At least 6,000 peoples’ [sic] lives have been unjustly taken by United States drone attacks in Afghanistan, Pakistan, Yemen, Somalia, Iraq, the Philippines, Libya and Syria,” states a June 2015 letter released by dozens of US military veterans. In that letter they urge drone operators to “refuse to fly missions” or support such activities in any way. These veterans understand that indiscriminate drone strikes on civilians are seen by most of the world as acts of terror.”2
 
       By 2012 there were almost 110,000 contracted mercenary forces in Afghanistan alone, compared to 68,000 US military personnel. To place this in perspective: in Vietnam there were 70,000 mercenaries and 359,000 military personnel.10
+
+      Approximately 14 million tons of ordnance were dropped on Vietnam by US forces (1959–75), three times the bombs used by the Allies in World War II. • About 30 percent failed to detonate; unexploded US ordnance (UXO) still threatens civilians. • Buried bombs and mines claimed more than one hundred thousand victims since the end of the war. • Near the former Demilitarized Zone between North and South Vietnam, 80 percent of the land today is contaminated by UXO.2 • More than 3 million Vietnamese suffer from the effects of Agent Orange.3
+
+      Chinese FDI stocks in Africa grew nearly 100-fold over a 17-year period—from $490 million in 2003 to $43.4 billion in 2020, peaking in 2018 at $46.1 billion . . . ahead of the United States since 2014.3
+
+      China’s “If you want your country to prosper, accept China as a partner in global trade that will not interfere in your government” sounds a lot better than the US’s “If you want your country to prosper, accept loans from the Washington Consensus . . . and submit to neoliberal policies.” China’s EHMs understand that trade works far more effectively than coercion in today’s world. By 2021, China had become the dominant force in Africa: the biggest bilateral trading partner, largest bilateral lender, and one of the most influential foreign investors.
+
+      Many analysts have referred to China’s extension of credit lines for infrastructure development in Africa as “debt-trap diplomacy.” According to some estimates, Angola owes more than US$20 billion to three Chinese entities—China Development Bank, China EXIM Bank, and Industrial and Commercial Bank of China (ICBC).
+
+      By 1997, Mao was dead, Zaire was in dire economic straits, and Mobutu was overthrown by Laurent-Désiré Kabila. All-out war spread through nine African countries. Known as “the worst war in the world since World War II,” it lasted until 2003 and caused the deaths of more than 5 million people.
 

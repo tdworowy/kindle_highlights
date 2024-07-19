@@ -19,3 +19,25 @@
 
       “Not necessarily. Symbolism and meaning are two separate things. I think she found the right words by bypassing procedures like meaning and logic. She captured words in a dream, like delicately catching hold of a butterfly’s wings as it flutters around. Artists are those who can evade the verbose.” “So you’re saying Miss Saeki maybe found those words in some other space – like in dreams?” “Most great poetry is like that. If the words can’t create a prophetic tunnel connecting them to the reader, then the whole thing no longer functions as a poem.”
 
+      “‘The pure present is an ungraspable advance of the past devouring the future. In truth, all sensation is already memory.’” Hoshino looked up, mouth half open, and gazed at her face. “What’s that?” “Henri Bergson,” she replied, licking the semen from the tip of his penis. “Mame mo memelay.” “Pardon?” “Matter and Memory. You ever read it?”
+
+      “This time I decided to take on a familiar shape, that of a famous capitalist icon. I was toying with the idea of Mickey Mouse, but Disney are particular about the rights to their characters.”
+
+      “As I’ve explained, I don’t have any form. I’m a metaphysical, conceptual object. I can take on any form, but I lack substance. And to perform a real act, I need someone with substance to help out.”
+
+      “The stone itself is meaningless. The situation calls for something, and at this point in time it just happens to be this stone. Anton Chekhov put it best when he said, ‘If a pistol appears in a story, eventually it’s got to be fired.’ Do you know what he meant?” “Nope.” Colonel Sanders sighed. “I didn’t think so, but I had to ask. It’s the polite thing to do.”
+
+      “What Chekhov was getting at is this: necessity is an independent concept. It has a different structure from logic, morals or meaning. Its function lies entirely in the role it plays. What doesn’t play a role shouldn’t exist. What necessity requires does need to exist. That’s what you call dramaturgy. Logic, morals or meaning don’t have anything to do with it. It’s all a question of relationality. Chekhov understood dramaturgy very well.”
+
+      “At any rate, you – and your theory – are throwing a stone at a target that’s very far away. Do you understand that?” I nod. “I know. But metaphors can reduce the distance.” “We’re not metaphors.” “I know,” I say. “But metaphors help eliminate what separates you and me.” A faint smile comes to her as she looks up at me. “That’s the oddest pickup line I’ve ever heard.”
+
+      “Actually getting closer to a metaphorical truth? Or metaphorically getting closer to an actual truth? Or maybe they supplement each other?”
+
+      “How about you?” I say. “Am I in love, do you mean?” I nod. “In other words, you’re daring to get personal and ask about the anti-social romance that colours my warped, homosexual, Gender-Identity-Disordered life?”
+
+      “Anyone who falls in love is searching for the missing pieces of themselves. So anyone who’s in love gets sad when they think of their lover. It’s like stepping back inside a room you have fond memories of, one you haven’t seen in a long time. It’s only a natural feeling. You’re not the person who discovered that feeling, so don’t go trying to patent it, OK?”
+
+      At length he gave what might have been a sigh, stood up, opened the window and stuck his face out. All that was visible was the rear of the building next door. A shabby, miserable sort of building. The kind where shabby people spent one shabby day after another doing their shabby work. The kind of fallen-from-grace sort of building you find in any city, the kind which Charles Dickens could spend ten pages describing.
+
+      Perhaps most people in the world aren’t trying to be free, Kafka. They just think they are. It’s all an illusion. If they really were set free, most people would be in a real pickle. You’d better remember that. People actually prefer not being free.”
+
