@@ -41,3 +41,11 @@
 
       Perhaps most people in the world aren’t trying to be free, Kafka. They just think they are. It’s all an illusion. If they really were set free, most people would be in a real pickle. You’d better remember that. People actually prefer not being free.”
 
+      “There are a lot of things that aren’t your fault. Or
+
+      Not the fault of prophecies, or curses, or DNA, or absurdity. Not the fault of Structuralism or the Third Industrial Revolution. We all die and disappear, but that’s because the mechanism of the world itself is built on destruction and loss. Our lives are just shadows of that guiding principle. Say the wind blows. It can be a strong, violent wind or a gentle breeze. But eventually every kind of wind dies out and disappears. Wind doesn’t have form. It’s just a movement of air. You should listen carefully, and then you’ll understand the metaphor.”
+
+      “That’s right. A reciprocal metaphor. Things outside you are projections of what’s inside you, and what’s inside you is a projection of what’s outside. So when you step into the labyrinth outside you, at the same time you’re stepping into the labyrinth inside. Most definitely a risky business.”
+
+      “Listen – there’s no war that will end all wars,” Crow tells me. “War grows within war. Lapping up the blood shed by violence, feeding on wounded flesh. War is a perfect, self-contained being. You need to know that.”
+

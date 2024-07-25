@@ -1,0 +1,3 @@
+#### Linux Kernel Programming: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization (Billimoria, Kaiwan N.)
+      User space and kernel space Modern microprocessors support code execution at a minimum of two privilege levels. As a real-world example, the Intel/AMD x86[-64] family supports four privilege levels (they call them ring levels), the AArch32 (ARM-32) microprocessor family supports up to seven modes (ARM calls them execution modes; six are privileged and one is non-privileged), and the AArch64 (ARM-64/ARMv8) microprocessor family supports four exception levels (EL0 to EL3, with EL0 being the least and EL3 being the most privileged).
+

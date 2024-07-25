@@ -31,3 +31,35 @@
 
       One of the most fundamental questions in software design is this: given two pieces of functionality, should they be implemented together in the same place, or should their implementations be separated? This question applies at all levels in a system, such as functions, methods, classes, and services.
 
+      length by itself is rarely a good reason for splitting up a method. In general, developers tend to break up methods too much. Splitting up a method introduces additional interfaces, which add to complexity.
+
+      Each method should do one thing and do it completely.
+
+      The exceptions thrown by a class are part of its interface; classes with lots of exceptions have complex interfaces, and they are shallower than classes with fewer exceptions.
+
+      Overall, the best way to reduce bugs is to make software simpler.
+
+      The overall idea behind comments is to capture information that was in the mind of the designer but couldn’t be represented in the code.
+
+      If the information in a comment is already obvious from the code next to the comment, then the comment isn’t helpful. One example of this is when the comment uses the same words that make up the name of the thing it is describing.
+
+      If you want code that presents good abstractions, you must document those abstractions with comments.
+
+      If interface comments must also describe the implementation, then the class or method is shallow.
+
+      The main goal of implementation comments is to help readers understand what the code is doing (not how it does it).
+
+      When choosing a name, the goal is to create an image in the mind of the reader about the nature of the thing being named.
+
+      Ideally, when you have finished with each change, the system will have the structure it would have had if you had designed it from the start with that change in mind. To achieve this goal, you must resist the
+
+      If you’re not making the design better, you are probably making it worse.
+
+      Another way of thinking about obviousness is in terms of information. If code is nonobvious, that usually means there is important information about the code that the reader does not have:
+
+      One of the most important elements of good software design is separating what matters from what doesn’t matter.
+
+      One way to emphasize is with prominence: important things should appear in places where they are more likely to be seen, such as interface documentation, names, or parameters to heavily used methods. Another way to emphasize is with repetition: key ideas appear over and over again.
+
+      A third way to emphasize is with centrality. The things that matter the most should be at the heart of the system, where they determine the structure of things around them. One example is the interface for device drivers in operating systems; this is a central idea because hundreds or thousands of drivers will depend on it.
+

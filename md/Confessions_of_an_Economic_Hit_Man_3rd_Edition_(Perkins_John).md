@@ -81,3 +81,19 @@
 
       By 1997, Mao was dead, Zaire was in dire economic straits, and Mobutu was overthrown by Laurent-Désiré Kabila. All-out war spread through nine African countries. Known as “the worst war in the world since World War II,” it lasted until 2003 and caused the deaths of more than 5 million people.
 
+      When the Republic of Turkey was established in 1923, the former Ottoman Empire was divided into many countries without regard for culture, ethnicity, religious beliefs, or history. It was done intentionally to create conflict, turmoil, and corruption, thus giving the British and French control over the area.1
+
+      China has been the biggest winner in the post-U.S. Middle East. Beijing was already the largest buyer of the region’s oil. Now [2021], without fanfare, it has become the only outside power that has strong political and trading ties with every major country there.
+
+      Even America’s long-term ally, Israel, turned to the East. China Civil Engineering Construction Corporation participated in the building of Israeli tunnels and Tel Aviv’s light rail. Chinese companies now manage three of Israel’s ports. In 2020, China replaced the US as Israel’s number one provider of imports.
+
+      US EHMs have not relied extensively on debt or insufficiency in most of Europe. Rather, they focus on fear: first, of the Soviet Union, then Russia and now also Muslim terrorists. Their divide-and-conquer pillar is driven by Moscow’s attempts to reestablish itself in Crimea, Ukraine, and other former Soviet countries.
+
+      One of the world’s most expensive roads slices through the mountains of Montenegro, soaring over deep gorges on towering bridges, before reaching its destination: a muddy field outside a hamlet with a few dozen houses, many of them empty . . . , Matesevo (population: around 15). . . . Montenegro’s new prime minister, Zdravko Krivokapic, who took over late last year from the government that signed the road and loan contracts with China in 2014, described the highway as a “megalomaniac project” that “goes from nowhere to nowhere” and badly strained his country’s finances.6
+
+      More than a third of all international students attending US colleges and universities in the 2019–2020 academic year were from China.
+
+      Former lawmakers Ed Royce, David Vitter and Trent Lott were all known for standing up to China during their time in Congress. Today they share a different affinity: All three lobby for Chinese companies that have been accused of posing a national security threat to the United States. . . . They are among 12 former members of Congress currently registered as foreign agents for Chinese companies or lobbyists for their US affiliates. . . .4
+
+      Our folly is our xenophobic obsession that someone else is the enemy. It is time to replace these with fear of a real and impending enemy: a system that is propelling us ever closer to self-destruction.
+
