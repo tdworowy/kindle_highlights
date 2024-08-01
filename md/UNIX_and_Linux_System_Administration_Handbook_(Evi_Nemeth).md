@@ -25,3 +25,5 @@
 
       PXE acts like a miniature OS that sits in a ROM on your network card. It exposes its network capabilities through a standardized API for the system BIOS to use. This cooperation makes it possible for a single boot loader to netboot any PXE-enabled PC without having to supply special drivers for each network card.
 
+      Commercial identity management systems combine several key UNIX concepts into a warm and fuzzy GUI replete with marketing jargon.
+

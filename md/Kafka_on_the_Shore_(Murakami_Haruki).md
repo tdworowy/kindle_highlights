@@ -49,3 +49,5 @@
 
       “Listen – there’s no war that will end all wars,” Crow tells me. “War grows within war. Lapping up the blood shed by violence, feeding on wounded flesh. War is a perfect, self-contained being. You need to know that.”
 
+      The police, Hoshino concluded, not for the first time in his life, are just gangsters who get paid by the state.
+
