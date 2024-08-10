@@ -13,3 +13,7 @@
 
       And worse still, if good prevails: endless worlds of endless ease, with no suffering to build strength, no anguish to breed courage, no fear to foster cunning; a multiverse of middling passions and bland hungers, where nothing is ventured because nothing can be lost, where no anger is consuming, no love passionate, and no life worth living.
 
+      What a pointless thing is the mortal mind; with its snaking walls and untold conjunctions and endless looping passages, it is a maze that builds itself—a maze where every path always leads wherever the captive wishes. Where is the challenge in that?
+
+      Think on this: it is only by trial that we learn resolve, by ordeal that we earn strength, by tribulation that we grow brave, by turmoil that we win wisdom.
+

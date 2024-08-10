@@ -9,3 +9,7 @@
 
       This limitation isn’t specific to cyclomatic complexity but is a fundamental property of code metrics in general. No matter how accurate our metrics are—and there are better options than cyclomatic complexity out there—if we limit ourselves to a static view of the code, then we will never be able to prioritize the parts that really matter.
 
+      Enclosure diagrams present an alternative visualization that cognitively scales well.
+
+      This ratio represents a typical pattern, although at the higher end of the scale. In general, hotspots stretch across only 1 to 5 percent of the total codebase, yet that code is responsible for 25 to 75 percent of all bugs. You see, power laws are everywhere in software.
+
