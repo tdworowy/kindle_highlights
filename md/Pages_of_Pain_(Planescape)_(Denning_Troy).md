@@ -17,3 +17,23 @@
 
       Think on this: it is only by trial that we learn resolve, by ordeal that we earn strength, by tribulation that we grow brave, by turmoil that we win wisdom.
 
+      “Tanar’ri blood: the best cleansing agent in the multiverse.”
+
+      It is the beauty of dreams to reveal what is true without betraying what is real—or so I have heard.
+
+      First, there is a battle to win, an amphora to recover, memories to reclaim, a woman’s name to recall, a fiend to fell, and maps to steal. After the victory, there will time for drinking and celebrating and lovemaking, the Thrasson is quite certain. To best a tanar’ri lord, to rescue a lost love, to escape the Lady’s mazes, all in one day, all with a hand for a foot and only cripples and barmies for a war party, will be his greatest feat yet.
+
+      “That is the trouble with you honorable types. In your arrogance, you presume to know the tanar’ri mind. You know nothing. If you did, you would think less highly of yourselves.”
+
+      “A millennium would not be time enough for you to solve this enigma,” Karfhud said. “You honorable types have no grasp of the Plurality. The answer is simple: there is only one maze, and there are many mazes.”
+
+      See how gently the rot steals into the soul? How smoothly the wish unfulfilled becomes the right withheld? Show me the heart that is pure, and I will show you the heart that is stone. We all have our Karfhuds, our unquenchable thirsts, our secret treasons; we all have our reasonable excuses and our tempering cases, but that cannot change what we have done. We have all struck our bargains. Pretending that we had no choice does not make us tragic or noble or virtuous—it only makes us weak.
+
+      memories?” “Any man can choose; a hero takes both.”
+
+      world is as it should be for young heroes and their maidens: battles won, wine drunk, slumber taken—but they have erred, and grievously.
+
+      Theseus gave a great war cry and brought his sword arcing up toward Sheba’s throat—but the monster of the labyrinth lives inside us all. She is the dark, devouring hunger that is never sated, the creeping shadow that ever plays the fiend to our seraphim, the secret rage hidden in our hearts; deny her, and we become her slaves; fight her, and we make her invincible. By now, you must know that no monster can ever be killed, not really—and so the Thrasson’s star-forged steel slashes through the air in a perfect sapphire arc that nearly cleaves a githyanki in two.
+
+      O mistress and mother of pleasure, The one thing as certain as death, We shall change as the things that we charish, Shall fade as they faded before, As foam upon water shall perish, As sand upon the shore. We shall know what the darkness discovers, If the grave-pit be shallow or deep; And our fathers of old, and our lovers, We shall know if they sleep or not sleep. We shall see whether hell be not heaven, Find out whether tares be not grain, And the joys of thee seventy times seven, Our Lady of Pain.
+

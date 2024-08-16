@@ -27,3 +27,7 @@
 
       Commercial identity management systems combine several key UNIX concepts into a warm and fuzzy GUI replete with marketing jargon.
 
+      A cloud server is just one member of a herd, and to treat it otherwise is to ignore a basic fact of cloud computing: cloud systems are ephemeral, and they can fail at any time. Plan for that failure and you’ll be more successful at running a resilient infrastructure.
+
+      UNIX is often criticized for being inconsistent, and indeed it is. Just take a look at a directory of log files
+
