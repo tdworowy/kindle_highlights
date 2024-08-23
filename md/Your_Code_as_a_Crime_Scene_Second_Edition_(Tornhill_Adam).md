@@ -33,3 +33,27 @@
 
       Violating the Law of Demeter creates a coding style reminiscent of Jack the Ripper: reach for the interiors and dig them out. (Disclaimer: no objects were harmed in this case study.)
 
+      Still, software design does more than compensate; it enables. A good design allows us to reason about both problems and solutions so that we can refine our code, generalize to patterns, and adapt to new challenges from there.
+
+      In the late 2010s, we finally got research numbers on the impact of technical debt. The numbers vary depending on which study you read. They all paint a pretty depressing picture: organizations waste 23 to 42 percent of developers’ time dealing with the consequences of technical debt and bad code in general (Software developer productivity loss due to technical debt [BMB19]).
+
+      As a thought experiment, let’s consider what 42 percent waste implies. Say we have a department with 100 software engineers. If we waste 42 percent of their time, all else being equal, we end up with an output corresponding to just 58 developers, an efficiency loss that would be unacceptable in virtually any other context than software.
+
+      Hyperbolic discounting is frequently used to explain the psychology of addiction. It’s also, coincidentally, the best explanation of why companies fail to manage technical debt: just like the addict, we trade our future well-being—a healthy codebase—for the lure of the next quick fix and short-term reward. Or, in the words of Mel Conway: “There’s never enough time to do something right, but there’s always enough time to do it over” (quote from How do committees invent? [Con68]).
+
+      we need quality to go fast. Use that to your advantage.
+
+      Finally, when discussing metrics and outcomes, we also need to touch on the DevOps Research & Assessment (DORA), which established the Four Key Metrics (FKM): change lead time, deployment frequency, mean time to restore, and change fail percentage.[50] In their research, the DORA team showed that these metrics are solid leading indicators for how the organization as a whole is doing.
+
+      There are multiple reasons why we experience false memories. First, our memory is constructive, meaning the information we get after an event can shape how we recall the original situation. Our memory organizes the new information together with the old information, and we forget when we acquired each detail or insight.
+
+      Given that a single verb variation was enough manipulation to bias an eyewitness, imagine how many false assumptions we might make during a regular day. When we program, we’re stuck with the same brain and its tendencies toward biases. Sure, in programming, you can go back and recheck the code. The problem is that we have to do that repeatedly—the sheer complexity of software makes it impossible to hold all of the information in our heads. That means our brain works with a simplified view, and as soon as we drop details, we risk missing something critical.
+
+      In programming, version-control data lets us trace changes over a series of commits to detect patterns. One prominent pattern is called change coupling. Change coupling means that two (or more) modules evolve together over time. As such, change coupling implies a temporal dependency, which cannot be detected in code alone; a static snapshot of code lacks the evolutionary perspective.
+
+      Another shortcoming with the measure is that we’re limited to the information contained in commits. We may miss important coupling relationships that occur between commits. The solution to this problem requires hooks into our IDE to record precise information on the order in which we interact with each piece of code. Tools like that are under active research.
+
+      By the time you notice the symptoms of architectural decay and technical debt, it’s hard to reverse those trends. Doing an after-the-fact analysis is vital for proceeding with meaningful improvements, but essentially, these actions come too late. So why not make it a habit to perform regular analyses early and continuously?
+
+      Code can decay fast, so sit down with the team and walk through the analyses on a weekly basis. This approach has several advantages: You spot structural decay immediately. You see the structural impact of each feature as you work with it. You make your evolving architecture visible to everyone on the team.
+
