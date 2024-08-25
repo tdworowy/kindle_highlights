@@ -57,3 +57,37 @@
 
       Code can decay fast, so sit down with the team and walk through the analyses on a weekly basis. This approach has several advantages: You spot structural decay immediately. You see the structural impact of each feature as you work with it. You make your evolving architecture visible to everyone on the team.
 
+      The composite pictures won because individual imperfections were also evened out with each additional morphed photo. This is surprising since it makes beauty a negative concept, defined by what’s absent rather than what’s there. Beauty is the absence of ugliness.
+
+      Beauty, being the absence of ugliness, translates well to our software world, too. Beautiful code has a consistent level of expression that’s easy to follow. Just as deviations from the mathematical average make a face less attractive, so does any coding construct that deviates from the main style of your application or introduces accidental barriers to understanding the code. Examples of such issues include special cases and the code smells covered in Chapter 6, ​Remediate Complicated Code​.
+
+      So, beauty is about consistency and avoiding surprises. Fine. But what you consider a surprise depends on context. In the real world, you won’t be surprised to see an elephant at the zoo, but you’d probably rub your eyes if you saw one in your front yard (at least here in Sweden, where I live). Context matters in software, too.
+
+      Package by component is one such pattern that I have seen work particularly well as an alternative to layers. I discuss the pattern in more depth in Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis [Tor18], but the gist of it is to slice your architecture into components that combine application logic with data-access logic inside the same building block. See the following figure.
+
+      However, tactical forking offers another possible path.[66] With this pattern, you duplicate the codebase into a new, isolated component, and then start to remove all the code that isn’t needed. You flip the problem on its head. Tactical forks might be useful when your potential component has strong and inconsistent dependencies or as an optional path if you get stuck during the dependency breaking.
+
+      Microservices are based on an old idea: keep each part small and orthogonal to others, and use a simple mechanism to glue everything together (for example, a message bus or an HTTP API). In fact, these are the same principles on which UNIX has built since the dawn of curly braces in code.
+
+      I’m not sure how much the philosopher Friedrich Nietzsche knew about coding, but his classic observation that “if you gaze into the abyss, the abyss gazes also into you” clearly indicates that he had a good grasp on how our code influences us. In modern psychology, there’s a related phenomenon called the mere-exposure effect. The mere-exposure effect is the fact that we humans tend to develop a stronger preference the more often we see something. That something could be abstract symbols, human faces, or a particular coding style.
+
+      Automated tests are still a relatively young discipline, and we, as a community, might not yet have captured all the patterns needed to ensure that our tests remain maintainable. Adding to that challenge, in many organizations, tests are still added as an afterthought, almost like a hidden architectural layer. In those situations, the systems often become hard to reason about and more painful to maintain than necessary.
+
+      But architecture goes beyond structure, and we should treat architecture as a set of principles rather than a specific collection of modules. Let’s think of architecture as principles that help us reason through and navigate large-scale systems. Breaking these principles is expensive since it makes the system harder to understand. It introduces ugliness.
+
+      Automated tests becoming mainstream is a promising trend. When we automate mundane tasks, we humans can focus on real testing, where we explore and evaluate the value of the features we deliver. Test automation also makes changes to the system more predictable. We get a safety net when modifying software, and we use the scripts to communicate knowledge and drive additional development. Test automation—at all levels—is a prerequisite for continuous delivery, allowing us to ship high-quality software daily.
+
+      While we all know these benefits, we rarely discuss the risks and costs of test automation. Automated tests, particularly on the system level, are notoriously hard to get right. And when we fail, these tests become time sinks, halting all real progress.
+
+      Test scripts are architecture, too—albeit an often neglected aspect. Like any architectural boundary, a good test system should encapsulate details and avoid depending on the internals of the code being tested. We want to refactor the implementation without affecting the tests themselves. If we get this wrong, we rip increasingly larger holes in the safety net that a test suite could provide.
+
+      Now, you might think that I pulled out an extreme case with the Roslyn hotspot just to make my point. And you’d be correct. I did. But I did it for a reason. Over the past decade, I’ve probably analyzed 300-plus codebases. During all those analyses, I observed that we developers are fairly conscious of the DRY principle…in application code. When it comes to test code, well, not so much. Consequently, some of the worst technical debt I find tends to be in tests, similar to what we found in the Roslyn platform.
+
+      The preceding figure presents a model from educational psychology. (See Understanding and solving word arithmetic problems [KG85].) We programmers face the same challenges as educators: we have to communicate knowledge to all the programmers who come to the code after we’ve left. That knowledge is built by an iterative process between two mental models: The situation model contains everything you know about the problem, together with your existing knowledge and problem-solving strategies. The system model is a precise specification of the solution—in this case, your code.
+
+      This model of problem-solving lets us define what makes a good design: a good design is any solution where the two mental models are closely aligned. That kind of design is easier to understand because you can easily switch between the problem and the solution. Tests that are easy to understand form a fundamental building block by supporting rapid feedback.
+
+      One of the most common planning mistakes is to scope your tasks to represent product features.
+
+      Earlier in our fictional example about joining a new team, you fell prey to pluralistic ignorance. Pluralistic ignorance happens when everyone privately rejects a norm but thinks everyone else in the group supports it. Over time, pluralistic ignorance can lead to situations where a group follows rules that all of its members reject in private.
+
