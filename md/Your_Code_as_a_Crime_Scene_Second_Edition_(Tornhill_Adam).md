@@ -91,3 +91,7 @@
 
       Earlier in our fictional example about joining a new team, you fell prey to pluralistic ignorance. Pluralistic ignorance happens when everyone privately rejects a norm but thinks everyone else in the group supports it. Over time, pluralistic ignorance can lead to situations where a group follows rules that all of its members reject in private.
 
+      Commit messages have even more to offer. A new line of research proposes that commit messages convey something about the team itself. A team of researchers found this out by analyzing commit messages in different open-source projects with respect to their emotional content. The study compared the expressed emotions to factors such as the programming language used, the team location, and the day of the week. (See Sentiment analysis of commit comments in GitHub [GAL14].) Among other findings, the results of the study point to Java programmers expressing the most negative feelings and distributed teams the most positive.
+
+      It’s a story that perfectly embodies the essence of what we now know as Brooks’s Law from The Mythical Man-Month: Essays on Software Engineering [Bro95]: “Adding manpower to a late software project makes it later.”
+
