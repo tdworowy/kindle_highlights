@@ -95,3 +95,13 @@
 
       It’s a story that perfectly embodies the essence of what we now know as Brooks’s Law from The Mythical Man-Month: Essays on Software Engineering [Bro95]: “Adding manpower to a late software project makes it later.”
 
+      The quality of your code is important since it directs the type of work you can do, which in turn connects directly to how meaningful you perceive that work to be. This is highlighted in a report from the management consulting firm McKinsey, identifying the future promise of meaningful work as a top motivator for people switching jobs.[78] Now, you’ll explore this link by returning to the impact of unhealthy code.
+
+      One of these super-metrics is the number of programmers who worked on each component. The more parallel work occurs, the more defects you have in that code. This is exactly the type of analysis you performed on Folly in the previous chapter.
+
+      The fundamental attribution error describes our tendency to overestimate personality factors when we explain other people’s behavior. For example, when you see that I committed a bunch of buggy spaghetti last week, you know it’s because I’m a bad programmer, irresponsible, and perhaps even a tad stupid. When you, on the other hand, deliver scrappy code (yes, I know—it’s a hypothetical scenario), you know it’s because you were close to a deadline, had to save the project, or just intended the code as a prototype. As you see, we attribute the same observable behavior to different factors depending on whether it concerns us or someone else.
+
+      Using machine learning to write more code faster is an impressive solution to the wrong problem; remember that we spend most of our time trying to understand existing code, not writing it. So if we, as an industry, aren’t careful, our promising AI-assisted coding might serve more as a legacy code generator than a solution.
+
+      (For more detail on why this is the case, check out Frequently forgotten fundamental facts about software engineering [Gla01], where Robert Glass argues that “for every 10-percent increase in problem complexity, there is a 100-percent increase in the software solution’s complexity.”)
+

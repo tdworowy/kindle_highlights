@@ -23,3 +23,9 @@
 
       Rasmah sighed. ‘You really think he’s on to something? A quantum computer can simulate any quantum process; that’s old news. It doesn’t mean that there is a quantum computer underlying anything.’  ‘No,’ Tchicaya agreed. ‘But qubit network theory doesn’t claim that. It just says that when you get to a low enough level, you have nothing left to lose by treating the system as if it were software. It’s like all the proofs in applied algorithmic theory that are based on imagining Turing machines. No one complains that the real universe is conspicuously devoid of paper tape.’
 
+      ‘It’s beautiful, isn’t it?’ his father said. ‘This is called Schild’s ladder. All throughout geometry, all throughout physics, the same idea shows up in a thousand different guises. How do you carry something from here to there, and keep it the same? You move it step by step, keeping it parallel in the only way that makes sense. You climb Schild’s ladder.’
+
+      ‘Whatever happens, you can always be true to yourself. But don’t expect to end up with the same inner compass as anyone else. Not unless they started beside you and climbed beside you every step of the way.’
+
+      ‘How would we decide which features to include and which to leave out? We don’t even know the difference between their communications signals and their waste products. We’d probably come up with the equivalent of a glove puppet of a monkey that smelled exactly like human excrement.’
+
