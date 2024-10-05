@@ -5,3 +5,13 @@
 
       “If you can’t solve a problem, then there is an easier problem you can’t solve: find it.”
 
+      If the student is not able to do much, the teacher should leave him at least some illusion of independent work. In order to do so, the teacher should help the student discreetly, unobtrusively. The best is, however, to help the student naturally. The teacher should put himself in the student’s place, he should see the student’s case, he should try to understand what is going on in the student’s mind, and ask a question or indicate a step that could have occurred to the student himself.
+
+      Solving problems is a practical skill like, let us say, swimming. We acquire any practical skill by imitation and practice. Trying to swim, you imitate what other people do with their hands and feet to keep their heads above water, and, finally, you learn to swim by practicing swimming. Trying to solve problems, you have to observe and to imitate what other people do when solving problems and, finally, you learn to do problems by doing them.
+
+      Trying to find the solution, we may repeatedly change our point of view, our way of looking at the problem. We have to shift our position again and again. Our conception of the problem is likely to be rather incomplete when we start the work; our outlook is different when we have made some progress; it is again different when we have almost obtained the solution.
+
+      First, we have to understand the problem; we have to see clearly what is required. Second, we have to see how the various items are connected, how the unknown is linked to the data, in order to obtain the idea of the solution, to make a plan. Third, we carry out our plan. Fourth, we look back at the completed solution, we review and discuss it.
+
+      If you cannot solve the proposed problem try to solve first some related problem.
+

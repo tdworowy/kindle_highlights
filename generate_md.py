@@ -70,6 +70,6 @@ def generate_md():
                     f.write(f"      {quote}\n\n")
                 f.flush()
 
-
 if __name__ == "__main__":
     generate_md()
+    
