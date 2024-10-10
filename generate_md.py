@@ -72,4 +72,3 @@ def generate_md():
 
 if __name__ == "__main__":
     generate_md()
-    
