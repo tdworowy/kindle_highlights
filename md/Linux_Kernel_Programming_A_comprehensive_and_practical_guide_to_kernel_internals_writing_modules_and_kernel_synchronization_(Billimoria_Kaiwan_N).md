@@ -7,3 +7,7 @@
 
       Well, you may ask, now that I understand this, how else – besides process context – can kernel code execute? There is another way: when a hardware interrupt (from a peripheral device – the keyboard, a network card, a disk, and so on) fires, the CPU’s control unit saves the current context and immediately re-vectors the CPU to run the code of the interrupt handler (the interrupt service routine (ISR)). Now, this code runs in kernel (privileged) mode too – in effect, this is another, asynchronous, way to switch to kernel mode (unless you were already there)!
 
+      Just FYI, the microkernel architecture is perhaps the diametrically opposite approach to monolithic ones. It’s approach is a message-passing one (no system calls), where messages are passed from the user app/process to server processes, which perform the work. They, in turn, and as required, talk to the small microkernel, again via messages. Done well, it also offers excellent performance; apparently, though, it’s hard to design and implement a micro-kernel-based OS well (think of GNU Hurd). Of course, they very much exist: QNX, VxWorks, and ENEA are excellent real-world (and hard real-time) examples of a microkernel OS done well, while Tannenbaum’s Minix is a (mostly) classroom microkernel.
+
+      Next, as is often thought, a virtual address is not an absolute value (an offset from 0); it’s a bitmask that’s designed for and interpreted by the MMU (the Memory Management Unit that’s within the silicon of modern microprocessors):
+

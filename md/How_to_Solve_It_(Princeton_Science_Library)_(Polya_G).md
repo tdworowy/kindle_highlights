@@ -15,3 +15,7 @@
 
       If you cannot solve the proposed problem try to solve first some related problem.
 
+      The feeling that harmonious simple order cannot be deceitful guides the discoverer both in the mathematical and in the other sciences, and is expressed by the Latin saying: simplex sigillum veri (simplicity is the seal of truth).
+
+      Thus, if a condition is expressed by more linear equations than there are unknowns, it is either redundant or contradictory; if the condition is expressed by fewer equations than there are unknowns, it is insufficient to determine the unknowns; if the condition is expressed by just as many equations as there are unknowns it is usually just sufficient to determine the unknowns but may be, in exceptional cases, contradictory or insufficient.
+
