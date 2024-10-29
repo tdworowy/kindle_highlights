@@ -47,3 +47,33 @@
 
       Pre-Socratic Greeks intuited atomic theory in 200 BC Buddhists were saying centuries ago that we can’t trust our senses, that sensation itself is an act of faith. Hinduism’s predicated on the Self as illusion: no NMRs a thousand years ago, no voxel readers. No evidence. And damned if I can see the adaptive advantage of not believing in your own existence; but neurologically it happens to be true.”
 
+      “Oh they figured that out couple days ago,” Sengupta told him. “Really?”
+
+      “God’s a process.”
+
+      Computation, after all, implied a problem not yet solved, insights not yet achieved.
+
+      There was really only one sort of program for which foreknowledge of the outcome didn’t diminish the point of the exercise, and Brüks had never been able to find any religious orders that described God as a porn addict.)
+
+      So. The laws of physics were the OS of some inconceivable supercomputer called reality. At least that explained why reality had a resolution limit; Planck length and Planck time
+
+      “Wait a second.” Brüks frowned. “If the laws of physics are part of some universal operating system and God, by definition, breaks them … you’re basically saying…” “Don’t stop now roach you’re almost there.” “You’re basically saying God’s a virus.” “Well that’s the question isn’t it?”
+
+      “Isn’t that the way, though? Isn’t that how it’s always been? Just obey the guys in the funny hats and if it’s a win it’s all praise be to Allah but if your ass gets kicked it’s your fault.
+
+      WARS TEACH US NOT TO LOVE OUR ENEMIES, BUT TO HATE OUR ALLIES. —W. L. GEORGE
+
+      People put a lot less effort into picking apart evidence that confirms what they already believe. The great thing about making yourself the villain is nobody’s likely to contradict you.
+
+      “Besides.” He spread his hands. “These days, half the time we don’t even know who the real enemy is.”
+
+      Those weren’t as rare as they’d once been. In fact they’d grown pretty common ever since Humanity had learned to edit the dream as well as the girl.
+
+      HAVE NEVER FOR ONE INSTANT SEEN CLEARLY WITHIN MYSELF. HOW THEN WOULD YOU HAVE ME JUDGE THE DEEDS OF OTHERS? —MAURICE MAETERLINCK
+
+      Please. I need you. I can’t do it on my own … Of course you can’t, she sneered. You can’t do anything on your own, can you? I’ll give you that much: you’ve actually turned incompetence into a survival strategy. Whatever would you do if you actually lost your excuses, if you augged up like everyone else? How would you ever survive without your disability to invoke when you can’t keep up?
+
+      ANY SUFFICIENTLY ADVANCED TECHNOLOGY IS INDISTINGUISHABLE FROM NATURE. —KARL SCHROEDER
+
+      “Not even radical I mean you can’t hear a word or smell a fart without your brain rewiring at least a bit that’s how brains are everything reprograms you. She just figured out where to stamp on the floor to make you freeze up on command. Coulda happened to me just as easy.”
+

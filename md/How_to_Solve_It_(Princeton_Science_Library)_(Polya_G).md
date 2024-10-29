@@ -19,3 +19,7 @@
 
       Thus, if a condition is expressed by more linear equations than there are unknowns, it is either redundant or contradictory; if the condition is expressed by fewer equations than there are unknowns, it is insufficient to determine the unknowns; if the condition is expressed by just as many equations as there are unknowns it is usually just sufficient to determine the unknowns but may be, in exceptional cases, contradictory or insufficient.
 
+      No idea is really bad, unless we are uncritical. What is really bad is to have no idea at all.
+
+      Examine the hypothetical situation in which the condition of the problem is supposed to be fully satisfied.
+
