@@ -23,3 +23,9 @@
 
       Examine the hypothetical situation in which the condition of the problem is supposed to be fully satisfied.
 
+      Generalization is passing from the consideration of one object to the consideration of a set containing that object; or passing from the consideration of a restricted set to that of a more comprehensive
+
+      This circumstance has a paradoxical aspect. The second assertion is stronger; it implies immediately the first, whereas the somewhat “hazy” first assertion can hardly imply the more “clear-cut” second one. Thus, the stronger theorem is easier to master than the weaker one; this is the INVENTOR’S PARADOX.
+
+      Inventor’s paradox. The more ambitious plan may have more chances of success. This sounds paradoxical. Yet, when passing from one problem to another, we may often observe that the new, more ambitious problem is easier to handle than the original problem. More questions may be easier to answer than just one question. The more comprehensive theorem may be easier to prove, the more general problem may be easier to solve.
+

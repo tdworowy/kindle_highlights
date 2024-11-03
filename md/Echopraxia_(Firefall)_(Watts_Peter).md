@@ -77,3 +77,21 @@
 
       “Not even radical I mean you can’t hear a word or smell a fart without your brain rewiring at least a bit that’s how brains are everything reprograms you. She just figured out where to stamp on the floor to make you freeze up on command. Coulda happened to me just as easy.”
 
+      “Why.” The Colonel snorted softly. “We’re lucky if we even know what we’ve done. Any why simple enough for either of us to consciously understand would certainly be wrong.”
+
+      Functionality in the face of overwhelming entropy had been built into its DNA from the start.
+
+      Long before art and science and philosophy arose, consciousness had but one function: not to merely implement motor commands, but to mediate between commands in opposition.
+
+      MONSTERS GIVE US COURAGE TO CHANGE THE THINGS WE CAN: THEY ARE OUR PRIMAL FEARS GIVEN FORM, TERRIBLE PREDATORS WHO CAN BE VANQUISHED IF ONLY WE RISE TO THE CHALLENGE. GODS GIVE US SERENITY TO ACCEPT THE THINGS WE CAN’T: THEY EXIST TO EXPLAIN FLOODS AND EARTHQUAKES AND ALL THAT WHICH LIES BEYOND OUR CONTROL. IT DID NOT SURPRISE ME IN THE LEAST TO LEARN THAT VAMPIRES DO NOT BELIEVE IN MONSTERS. I’LL ADMIT THEIR BELIEF IN GODS WAS A BIT OF A SURPRISE. —DAVID NICKLE
+
+      Maybe the Singularity already happened and its components just don’t know it yet. “They never will,” Valerie told him. “Neurons only speak when spoken to; they don’t know why.”
+
+      Do you see how sick to death we are of dragging you behind us, kicking and screaming because you’re too stupid to tell the difference between success and suicide?
+
+      An enormous amount of recent research has been published about the natural history of the religious impulse and the adaptive value of theistic superstition.37,38,39,40,41,42,43,44 It’s no great surprise that religion confers adaptive benefits, given the near-universality of that impulse among our species.45,46,47,48
+
+      Which is not to say that hive minds aren’t already a ubiquitous part of Human society. You are a hive mind, always have been: a single coherent consciousness spread across two cerebral hemispheres, each of which—when isolated—can run its own stand-alone, conscious entity with its own thoughts, aesthetics, even religious beliefs.
+
+      Neurons do not fire spontaneously, only in response to external stimuli; therefore brains cannot act spontaneously, only in response to external stimuli.
+
