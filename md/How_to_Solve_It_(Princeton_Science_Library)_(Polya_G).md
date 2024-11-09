@@ -29,3 +29,5 @@
 
       Inventor’s paradox. The more ambitious plan may have more chances of success. This sounds paradoxical. Yet, when passing from one problem to another, we may often observe that the new, more ambitious problem is easier to handle than the original problem. More questions may be easier to answer than just one question. The more comprehensive theorem may be easier to prove, the more general problem may be easier to solve.
 
+      Rules of teaching. The first rule of teaching is to know what you are supposed to teach. The second rule of teaching is to know a little more than what you are supposed to teach.
+

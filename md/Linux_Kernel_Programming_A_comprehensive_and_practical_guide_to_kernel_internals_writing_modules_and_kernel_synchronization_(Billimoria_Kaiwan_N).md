@@ -11,3 +11,5 @@
 
       Next, as is often thought, a virtual address is not an absolute value (an offset from 0); it’s a bitmask that’s designed for and interpreted by the MMU (the Memory Management Unit that’s within the silicon of modern microprocessors):
 
+      all processes alive on the system have their own unique user-mode VAS but share the same kernel VAS.
+
