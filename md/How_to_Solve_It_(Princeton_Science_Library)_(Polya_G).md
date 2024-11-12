@@ -31,3 +31,9 @@
 
       Rules of teaching. The first rule of teaching is to know what you are supposed to teach. The second rule of teaching is to know a little more than what you are supposed to teach.
 
+      A wise man begins in the end, a fool ends in the beginning.
+
+      A wise man will make more opportunities than he finds.
+
+      What a fool does at last, a wise man does at first.
+

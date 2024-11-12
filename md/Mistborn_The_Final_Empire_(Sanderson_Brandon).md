@@ -13,3 +13,15 @@
 
       Lord! He’s either incredibly smooth or socially incompetent. It was disturbing that she couldn’t determine which.
 
+      “Women are like … thunderstorms. They’re beautiful to look at, and sometimes they’re nice to listen to—but most of the time they’re downright inconvenient.”
+
+      Let them see my weakness, and let them see me overcome it. They were brave thoughts.
+
+      To fight a battle like Kelsier and Dockson were, it was probably more effective—and better for the psyche—to assume that all of their enemies were evil.
+
+      “But what is money? A physical representation of the abstract concept of effort.
+
+      “You don’t stop loving someone just because they hurt you,” he said. “It would certainly make things easier if you did.”
+
+      “Oh, don’t worry. If you didn’t say some stupid things every once in a while, you certainly wouldn’t fit in with this group. Come on.”
+
