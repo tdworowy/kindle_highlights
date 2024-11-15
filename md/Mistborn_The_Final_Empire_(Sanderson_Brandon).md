@@ -25,3 +25,5 @@
 
       “Oh, don’t worry. If you didn’t say some stupid things every once in a while, you certainly wouldn’t fit in with this group. Come on.”
 
+      “Anyone can believe in someone, or something, that always succeeds, mistress. But failure … now, that is hard to believe in, certainly and truly. Difficult enough to have value, I think.”
+
