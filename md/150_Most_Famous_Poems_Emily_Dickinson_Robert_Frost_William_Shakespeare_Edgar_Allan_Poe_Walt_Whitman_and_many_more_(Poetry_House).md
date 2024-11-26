@@ -7,3 +7,5 @@
 
       "Beware the Jabberwock, my son The jaws that bite, the claws that catch! Beware the Jubjub bird, and shun The frumious Bandersnatch!"
 
+      All in a hot and copper sky, The bloody Sun, at noon, Right up above the mast did stand, No bigger than the Moon.
+

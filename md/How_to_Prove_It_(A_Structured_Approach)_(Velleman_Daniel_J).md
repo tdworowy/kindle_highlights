@@ -15,3 +15,5 @@
 
       Formulas that are always true, such as P ∨ ¬P, are called tautologies. Similarly, formulas that are always false are called contradictions. For example, P ∧ ¬P is a contradiction.
 
+      The truth set of a statement P(x) is the set of all values of x that make the statement P(x) true. In other words, it is the set defined by using the statement P(x) as an elementhood test: {x | P(x)}.
+
