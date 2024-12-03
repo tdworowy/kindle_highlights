@@ -35,3 +35,5 @@
 
       IPv4 fragmentation problems can be insidious. Although path MTU discovery should automatically resolve MTU conflicts, an administrator must occasionally intervene. If you are using a tunneled architecture for a virtual private network, for example, you should look at the size of the packets that are traversing the tunnel. They are often 1,500 bytes to start with, but once the tunneling header is added, they become 1,540 bytes or so and must be fragmented. Setting the MTU of the link to a smaller value averts fragmentation and increases the overall performance of the tunneled network. Consult the ifconfig or ip-link man page to see how to set an interface’s MTU.
 
+      Microsoft has largely succeeded in convincing the world that every computer needs its own built-in firewall. However, that’s not really true. In fact, machine-specific firewalls can lead to no end of inconsistent behavior and mysterious network problems if they are not managed in synchrony with site-wide standards.
+
