@@ -23,3 +23,23 @@
 
       There is a key distinction between a probabilistic cause (A increases the chance of B in a causal manner), a sufficient cause (if A happens, B always happens), and a necessary cause (unless A happens, B can’t happen).
 
+      Numbers are ideal vehicles for promulgating bullshit. They feel objective, but are easily manipulated to tell whatever story one desires.
+
+      They estimate that, for one year, in people aged 15−95 years, drinking one alcoholic drink a day increases the risk of developing one of the 23 alcohol-related health problems by 0.5%, compared with not drinking at all.
+
+      This problem is canonized in a principle known as Goodhart’s law. While Goodhart’s original formulation is a bit opaque,fn8 anthropologist Marilyn Strathern rephrased it clearly and concisely: When a measure becomes a target, it ceases to be a good measure.
+
+      At around the same time that Goodhart proposed his law, psychologist Donald Campbell independently proposed an analogous principle: The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
+
+      Selection bias arises when the individuals that you sample for your study differ systematically from the population of individuals eligible for your study.
+
+      Our friend applied one of the most important rules for spotting bullshit: If something seems too good or too bad to be true, it probably is.
+
+      They find, indeed, that most users have fewer friends than their friends. In fact, this is the case for 93 percent of Facebook users! Mind twisting, right? These researchers found that the Facebook users have, on average, 190 friends, but their friends have, on average, about 635 friends.
+
+      Observation selection effects explain some of what we typically attribute to bad luck. If you commute by bus on a regular basis, you have probably noticed that you often have to wait a surprisingly long time for the next bus to arrive.
+
+      Once you start thinking about Berkson’s paradox, you’ll see it all over the place.
+
+      This highlights one of the principles for calling bullshit that we espouse. Never assume malice or mendacity when incompetence is a sufficient explanation, and never assume incompetence when a reasonable mistake can explain things.
+

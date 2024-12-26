@@ -9,3 +9,5 @@
 
       All in a hot and copper sky, The bloody Sun, at noon, Right up above the mast did stand, No bigger than the Moon.
 
+      I’m nobody! Who are you? Are you nobody, too? Then there ‘s a pair of us — don’t tell! They ‘d banish us, you know.
+
