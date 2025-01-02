@@ -43,3 +43,15 @@
 
       This highlights one of the principles for calling bullshit that we espouse. Never assume malice or mendacity when incompetence is a sufficient explanation, and never assume incompetence when a reasonable mistake can explain things.
 
+      In the story we’ve just told, your argument is not sophistry; it is correct. If your client had been found simply by scanning through the FBI’s database until a match was made, there would be something like a five in six chance that he did not leave the fingerprint.fn3
+
+      This confusion is so common that it has its own name, the prosecutor’s fallacy. Our story illustrates why. It can be a matter of life and death in the courtroom, but it’s also a common source of confusion when interpreting the results of scientific studies.
+
+      A p-value describes the probability of getting data at least as extreme as those observed, if the null hypothesis were true. Unlike the prosecutor, scientists aren’t trying to trick anybody when they report this. Scientists are stuck using p-values because they don’t have a good way to calculate the probability of the alternative hypothesis.
+
+      You want to know the chance that someone who tests positive has Lyme disease. It turns out that this is a low probability, because Lyme disease is quite rare. In areas where it is endemic, only about one person out of one thousand is infected. So imagine testing 10,000 people. You’d expect to have about 10 true positives, and about 0.05 × 10,000 = 500 false positives. Fewer than 1 in 50 of those who test positive are actually infected. Thus you expect your patient would have less than a 2 percent
+
+      This confusion—thinking that there is an about 95 percent chance that the patient is infected when actually the chances are less than 2 percent—should be a familiar mistake. This is our old friend, the prosecutor’s fallacy, dressed up in new clothes. We sometimes call it the base rate fallacy because it involves ignoring the base rate of the disease in a population when interpreting the results of a test.
+
+      Our susceptibility to confirmation bias can be seen as falling under the umbrella of sociologist Neil Postman’s dictum, “At any given time, the chief source of bullshit with which you have to contend is yourself.”
+

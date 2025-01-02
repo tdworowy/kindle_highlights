@@ -11,3 +11,7 @@
 
       I’m nobody! Who are you? Are you nobody, too? Then there ‘s a pair of us — don’t tell! They ‘d banish us, you know.
 
+      And therefore never send to know for whom the bell tolls; It tolls for thee.
+
+      If thou be'st born to strange sights, Things invisible to see, Ride ten thousand days and nights, Till age snow white hairs on thee, Thou, when thou return'st, wilt tell me, All strange wonders that befell thee, And swear, No where Lives a woman true, and fair.
+
