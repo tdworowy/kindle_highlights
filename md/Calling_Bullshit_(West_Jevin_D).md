@@ -55,3 +55,11 @@
 
       Our susceptibility to confirmation bias can be seen as falling under the umbrella of sociologist Neil Postman’s dictum, “At any given time, the chief source of bullshit with which you have to contend is yourself.”
 
+      Keep it simple. One advantage that falsehood has over truth is that the truth is often complicated whereas falsehoods can be crafted to be simple. Look for ways to make your story as simple as possible without distorting it. Focus on your core points and let the rest go. Scoring rhetorical points on tangential technicalities doesn’t convince anyone, it just pisses people off.
+
+      Find common ground. The less antagonistic your interaction is, the more likely someone will seriously consider your ideas.
+
+      Don’t impute malice when incompetence is a sufficient explanation. Most people who write foolish things on the Internet or anywhere else do not have a nefarious underlying motive. They simply don’t know what they are talking about.
+
+      Don’t assume incompetence when an honest mistake can account for error. We all make honest mistakes and say stupid things at times; it doesn’t mean that we are stupid or that we are incompetent.
+

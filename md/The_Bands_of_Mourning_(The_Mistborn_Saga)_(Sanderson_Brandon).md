@@ -15,3 +15,5 @@
 
       Don’t you ever feel like you never actually grew up? That everyone else did, but you’re secretly faking?”
 
+      “That window opens?” Wax asked, surprised. “Any window opens,” Wayne said, “if you push hard enough. Look, you’ve gotta see this.”
+
