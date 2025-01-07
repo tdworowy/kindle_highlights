@@ -9,3 +9,5 @@
 
       Clojure evaluates all function arguments recursively before passing them to the function.
 
+      I think of abstractions as named collections of operations. If you can perform all of an abstraction’s operations on an object, then that object is an instance of the abstraction.
+

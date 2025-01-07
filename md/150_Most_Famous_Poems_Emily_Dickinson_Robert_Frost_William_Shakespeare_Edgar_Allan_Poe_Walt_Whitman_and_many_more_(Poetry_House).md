@@ -15,3 +15,9 @@
 
       If thou be'st born to strange sights, Things invisible to see, Ride ten thousand days and nights, Till age snow white hairs on thee, Thou, when thou return'st, wilt tell me, All strange wonders that befell thee, And swear, No where Lives a woman true, and fair.
 
+      We wear the mask that grins and lies, It hides our cheeks and shades our eyes,— This debt we pay to human guile; With torn and bleeding hearts we smile, And mouth with myriad subtleties.
+
+      Do I dare Disturb the universe? In a minute there is time For decisions and revisions which a minute will reverse.
+
+      I have measured out my life with coffee spoons;
+
