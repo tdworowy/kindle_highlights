@@ -21,3 +21,5 @@
 
       I have measured out my life with coffee spoons;
 
+      Who is the third who walks always beside you? When I count, there are only you and I together But when I look ahead up the white road There is always another one walking beside you Gliding wrapt in a brown mantle, hooded I do not know whether a man or a woman —But who is that on the other side of you?
+

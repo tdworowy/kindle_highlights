@@ -19,3 +19,9 @@
 
       “What even is that?” Wax asked as Marasi and Kim entered. “He called it ‘chouta.’ It’s good.” “It looks disgusting.” “Aw, mate. With street food, that’s how you know it’s good.”
 
+      “mutants” who could sense it. How did you keep a bunch of dangerous people captive? You convinced them that they weren’t actually captives.
+
+      “Really, I thought you’d be harder than this.” “Stop quotin’ lines from your wife last night,” she snapped, “and fight me!”
+
+      “‘Ain’t no fellow who regretted giving it one extra shake,’” she read, “‘but you can bet every guy has regretted giving one too few.’ I can’t believe you used that quote.”
+
