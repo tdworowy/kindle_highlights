@@ -23,3 +23,5 @@
 
       Who is the third who walks always beside you? When I count, there are only you and I together But when I look ahead up the white road There is always another one walking beside you Gliding wrapt in a brown mantle, hooded I do not know whether a man or a woman —But who is that on the other side of you?
 
+      Some say the world will end in fire, Some say in ice. From what I’ve tasted of desire I hold with those who favor fire. But if it had to perish twice, I think I know enough of hate To say that for destruction ice Is also great And would suffice.
+

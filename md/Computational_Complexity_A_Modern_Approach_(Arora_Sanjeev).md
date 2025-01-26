@@ -17,3 +17,7 @@
 
       In 1931, Kurt Gödel shocked the mathematical world by showing that certain true statements about the natural numbers are inherently unprovable, thereby shattering an ambitious agenda set in 1900 by David Hilbert to base all of mathematics on solid axiomatic foundations. In 1936, Alonzo Church defined a model of computation called λ-calculus (which years later inspired the programming language LISP) and showed the existence of functions inherently uncomputable in this model [Chu36].
 
+      In Section 2.1, we define a complexity class NP that aims to capture the set of problems whose solutions can be efficiently verified. By contrast, the class P of the previous chapter contains decision problems that can be efficiently solved.
+
+      It turns out that the independent set problem is at least as hard as any other language in NP: If it has a polynomial-time algorithm then so do all the problems in NP. This fascinating property is called NP-hardness. Since most scientists conjecture that NP ≠ P, the fact that a language is NP-hard can be viewed as evidence that it cannot be decided in polynomial time.
+

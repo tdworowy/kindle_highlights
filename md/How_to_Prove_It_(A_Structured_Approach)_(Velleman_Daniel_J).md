@@ -17,3 +17,5 @@
 
       The truth set of a statement P(x) is the set of all values of x that make the statement P(x) true. In other words, it is the set defined by using the statement P(x) as an elementhood test: {x | P(x)}.
 
+      Thus, the equation A = B means ∀x(x ∈ A ↔ x ∈ B), which is equivalent to ∀x[(x ∈ A → x ∈ B) ∧ (x ∈ B → x ∈ A)]. Because the universal quantifier distributes over conjunction, this is equivalent to the formula ∀x(x ∈ A → x ∈ B) ∧ ∀x(x ∈ B → x ∈ A), and by the definition of subset this means A ⊆ B ∧ B ⊆ A. Thus, we have shown that the equation A = B is also equivalent to the formula A ⊆ B ∧ B ⊆ A.
+
