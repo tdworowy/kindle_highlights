@@ -7,3 +7,7 @@
 
       Well, Kelsier was far too arrogant to worry about his pride.
 
+      “Pity can be a powerful tool. Anytime you can make someone else feel something, you’ve got power over them.”
+
+      “I ain’t nobody,” Lift said. “He kills nobodies.” “And you don’t?” “I kill kings.” “Which is totally better.”
+
