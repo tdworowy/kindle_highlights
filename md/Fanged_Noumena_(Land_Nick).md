@@ -25,3 +25,9 @@
 
       Kant’s advice to the imperial war-machine in his third critique can be summarized as: ‘treat all resistance as if it were less than you might justifiably fear’.
 
+      One always perishes by the self that one assumes: to bear a name is to claim an exact mode of collapse.
+
+      It was not with the scholastics, but with Kant, that philosophy tasted the fierce delights of martyrdom.
+
+      philosophers feast in the palaces of reason, and luxuriate in the screams that reach them from the dungeons of sublimity.
+
