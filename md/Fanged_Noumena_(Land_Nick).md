@@ -31,3 +31,17 @@
 
       philosophers feast in the palaces of reason, and luxuriate in the screams that reach them from the dungeons of sublimity.
 
+      In contrast, Schopenhauer’s great discovery is that of non-agentic will; the positivity of the death of God. Rather than thinking willing as the movement by which conceptually articulate decision is realized in nature, he understands the appearance of rational decisions as a derivative consequence of pre-intellectual – and ultimately pre-personal, even pre-organic – willing.
+
+      For Schopenhauer the intellect is constituted by willing, rather than being constitutive for it. We do not know what we want.
+
+      Either the ego is a dream of desire, or desire has to creep up on the ego as a dream.
+
+      In sexuality, nature can attain her end only by implanting in the individual a certain delusion, and by virtue of this, that which in truth is merely a good thing for the species seems to him to be a good thing for himself, so that he serves the species, whereas he is under the delusion that he is serving himself.
+
+      Only the male intellect, clouded by the sexual impulse, could call the undersized, narrow-shouldered, broad-hipped, and short-legged sex the fair sex; for in this impulse is to be found its whole beauty. The female sex could be more aptly called the unaesthetic.15
+
+      Women are so terribly non-Platonic, so outrageously vital and real, so excessive in relation to the cold sterile perfections of the ideas.
+
+      Nothing is more complex than simplification;
+
