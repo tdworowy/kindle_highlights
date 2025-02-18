@@ -42,7 +42,7 @@ def remove_similar(lines: list[str]) -> list[str]:
 
 
 def generate_md():
-    my_clippings_path = "E:\documents\\My Clippings.txt"
+    my_clippings_path = "E:\\documents\\My Clippings.txt"
     with open(my_clippings_path, "r", encoding="utf8") as f:
         lines = f.read().split("==========")
         lines = map(lambda line: line.split("\n"), lines)

@@ -19,3 +19,5 @@
 
       Thus, the equation A = B means ∀x(x ∈ A ↔ x ∈ B), which is equivalent to ∀x[(x ∈ A → x ∈ B) ∧ (x ∈ B → x ∈ A)]. Because the universal quantifier distributes over conjunction, this is equivalent to the formula ∀x(x ∈ A → x ∈ B) ∧ ∀x(x ∈ B → x ∈ A), and by the definition of subset this means A ⊆ B ∧ B ⊆ A. Thus, we have shown that the equation A = B is also equivalent to the formula A ⊆ B ∧ B ⊆ A.
 
+      Definition 2.3.2. Suppose A is a set. The power set of A, denoted P(A), is the set whose elements are all the subsets of A. In other words,
+

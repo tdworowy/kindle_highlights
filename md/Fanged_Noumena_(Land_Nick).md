@@ -45,3 +45,7 @@
 
       Nothing is more complex than simplification;
 
+      written about one day. It is probably relatively uncontroversial to conclude from all this that Derrida is not a werewolf.
+
+      Trakl was a Christian and an atheist and also a Satanist, when he wasn’t simply undead, or in some other way inhuman. It is perhaps more precise to say that Trakl never existed, except as a battlefield, a reservoir of disease, the graveyard of a deconsecrated church, as something expiring from a massive cocaine overdose on the floor of a military hospital, cheated of lucidity by the searing onslaught of base difference.
+
