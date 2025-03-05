@@ -13,3 +13,9 @@
 
       Schroedinbug (MIT: from the Schrödinger’s cat thought experiment in quantum physics): A design or implementation bug in a program that does not manifest until someone reading source code or using the program in an unusual way notices that it never should have worked, at which point the program promptly stops working for everybody until fixed.
 
+      Perfection is achieved not when you have nothing more to add, but when there is nothing left to take away. –(attributed to) ANTOINE DE SAINT-EXUPÉRY
+
+      static techniques predict approximations of a program’s future; dynamic analysis remembers approximations of a program’s past.
+
+      Something impossible occurred, and the only solid information is that it really did occur. So we must think backwards from the result to discover the reasons.
+

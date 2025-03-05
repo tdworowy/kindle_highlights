@@ -49,3 +49,19 @@
 
       Trakl was a Christian and an atheist and also a Satanist, when he wasn’t simply undead, or in some other way inhuman. It is perhaps more precise to say that Trakl never existed, except as a battlefield, a reservoir of disease, the graveyard of a deconsecrated church, as something expiring from a massive cocaine overdose on the floor of a military hospital, cheated of lucidity by the searing onslaught of base difference.
 
+      Irrespective of his celestial visage, Jahweh still has ratbites on his ass.
+
+      Animality is not a state, essence, or genus, but a complex space cross-cut by voyages of all kinds.
+
+      is painfully evident that post-christian humanity is a pack of broken dogs.
+
+      The ‘man of God’ is entirely incapable of honesty, and only arises at the point where truth is defaced beyond all legibility.
+
+      We know nothing of course, but we do not remotely know even this, and mere assertion in no way ameliorates our destitution.
+
+      Indeed, we philosophers and ‘free spirits’ feel, when we hear the news that ‘the old god is dead,’ as if a new dawn shone on us; our heart overflows with gratitude, amazement, premonitions, expectations. At long last the horizon appears free to us again, even if it should not be bright; at long last our ships may venture out again, venture out to face any danger; all the daring of the lover of knowledge is permitted again; the sea, our sea, lies open again; perhaps there has never yet been such an ‘open sea’.13
+
+      If human wisdom has little or no value, where do the dogmatic assertions about God and his wisdom stem from? Why should they be trusted? Is not the figure of God indistinguishable from the claim that we know it is knowledge that matters, that the unknown is something we know, something we can populate with our feverish anthropomorphisms?
+
+      Socratism is the mobilization of unknowing on behalf of knowing; subordinating irony to dialectic, confusion to judgments and the sacred to a subdued profanity.
+

@@ -37,3 +37,5 @@
 
       Microsoft has largely succeeded in convincing the world that every computer needs its own built-in firewall. However, that’s not really true. In fact, machine-specific firewalls can lead to no end of inconsistent behavior and mysterious network problems if they are not managed in synchrony with site-wide standards.
 
+      The current IETF standards-track protocol that fills this role is the Lightweight Directory Access Protocol (LDAP). Ironically, LDAP is anything but lightweight. It was originally a gateway protocol that allowed TCP/IP clients to talk to an older directory service called X.500, which is now obsolete.
+

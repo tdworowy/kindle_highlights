@@ -13,3 +13,5 @@
 
       Another way to think about this is that reality is largely referentially transparent. If you think of gravity as a function, then gravitational force is the return value of calling that function on two objects. Therefore, the next time you’re in a programming interview, you can demonstrate your functional programming knowledge by knocking everything off your interviewer’s desk. (This also demonstrates that you know how to apply a function over a collection.)
 
+      So Clojure is homoiconic: it represents abstract syntax trees using lists, and you write textual representations of lists when you write Clojure code. Because the code you write represents data structures that you’re used to manipulating and the evaluator consumes those data structures, it’s easy to reason about how to programmatically modify your program.
+

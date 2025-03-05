@@ -21,3 +21,7 @@
 
       Definition 2.3.2. Suppose A is a set. The power set of A, denoted P(A), is the set whose elements are all the subsets of A. In other words,
 
+      A proof of a theorem is simply a deductive argument whose premises are the hypotheses of the theorem and whose conclusion is the conclusion of the theorem.
+
+      Whenever you make a statement in a proof, it’s important to be sure you know whether it’s an assertion or an assumption.
+
