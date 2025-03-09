@@ -19,3 +19,5 @@
 
       Something impossible occurred, and the only solid information is that it really did occur. So we must think backwards from the result to discover the reasons.
 
+      Life can only be understood backwards, but it must be lived forwards. –SØREN AABYE KIERKEGAARD
+

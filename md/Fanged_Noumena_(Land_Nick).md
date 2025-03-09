@@ -65,3 +65,9 @@
 
       Socratism is the mobilization of unknowing on behalf of knowing; subordinating irony to dialectic, confusion to judgments and the sacred to a subdued profanity.
 
+      Bataille summarises in the formula: ‘ln the same way that the man without privilege is reduced to a worker, the one who is privileged must wage war’.
+
+      War exceeds judgment, since every judicial apparatus is a petrified war, just as every ‘case’ of war is a domestication politicised, utilitatarianised, Clausewitzeanised. At the end of war there is only senseless death, where judgment counts for nothing.
+
+      The legal suppression of the sex and drugs industries, for instance, is increasingly exhibited as an overt farce perpetrated by the economically illiterate, and leading only to perverse effects such as the growth of organised crime, the corruption of social institutions, deleterious medical consequences and a rapidly growing contempt for the legislature, judiciary and police by groups whose consumption processes are incompetently suppressed.
+
