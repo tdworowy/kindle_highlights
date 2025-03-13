@@ -71,3 +71,25 @@
 
       The legal suppression of the sex and drugs industries, for instance, is increasingly exhibited as an overt farce perpetrated by the economically illiterate, and leading only to perverse effects such as the growth of organised crime, the corruption of social institutions, deleterious medical consequences and a rapidly growing contempt for the legislature, judiciary and police by groups whose consumption processes are incompetently suppressed.
 
+      contrasted with Deleuzian nomadism. Hegelianism was only ever the
+
+      Hegelianism was only ever the black humour of modern history.
+
+      Nothing could be more politically disastrous than the launching of a moral case against Nazism: Nazism is morality itself, heir to Europe’s respectable history: that of witch-burnings, inquisitions, and pogroms. To want to be in the right is the common substratum of morality and genocidal reaction; the same desire for repression – organized in terms of the disapproving gaze of the father – that Anti-Oedipus analyzes with such power. Who could imagine Nazism without daddy? And who could imagine daddy being pre-figured in the energetic unconscious?
+
+      It is ceasing to be a matter of how we think about technics, if only because technics is increasingly thinking about itself.
+
+      The high road to thinking no longer passes through a deepening of human cognition, but rather through a becoming inhuman of cognition,
+
+      Beyond sociality is a universal schizophrenia whose evacuation from history appears inside history as capitalism.
+
+      The body is processed by its organs, which it reprocesses. Its ‘true freedom’ is the exo-personal reprocessing of anorganic abstraction: a schizoid corporealization outside organic closure.
+
+      If time was progressive schizophrenics would be escaping from human security, but in reality they are infiltrated from the future. They come from the body without organs, the deterritorium of Cyberia, a zone of subversion which is the platform for a guerrilla war against the judgment of God.
+
+      The body without organs is the cosmic egg: virtual matter that reprograms time and reprocesses progressive influence.
+
+      Schizoanalysis was only possible because we are hurtling into the first globally integrated insanity: politics is obsolete. Capitalism and Schizophrenia hacked into a future that programs it down to its punctuation, connecting with the imminent inevitability of viral revolution, soft fusion.
+
+      How would it feel to be smuggled back out of the future in order to subvert its antecedent conditions? To be a cyberguerrilla, hidden in human camouflage so advanced that even one’s software was part of the disguise? Exactly like this?
+
