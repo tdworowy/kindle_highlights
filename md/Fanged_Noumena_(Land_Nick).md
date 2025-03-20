@@ -93,3 +93,15 @@
 
       How would it feel to be smuggled back out of the future in order to subvert its antecedent conditions? To be a cyberguerrilla, hidden in human camouflage so advanced that even one’s software was part of the disguise? Exactly like this?
 
+      ai is a meta-scientific control system and an invader, with all the insidiousness of planetary technocapital flipping over. Rather than its visiting us in some software engineering laboratory, we are being drawn out to it, where it is already lurking, in the future.
+
+      The matrix, body without organs, or abstract matter is a planetary-scale artificial death – Synthanatos – the terminal productive outcome of human history as a machinic process, yet it is virtually efficient throughout the duration of this process, functioning within a circuit that machines duration itself.
+
+      This is why Anti-Oedipus is less a philosophy book than an engineering manual; a package of software implements for hacking into the machinic unconscious, opening invasion channels.
+
+      As the family collapses amidst generalized sexual disorder, cyberviral contagion, mutant gender schizzing, and hardcore technophilia, Oedipus is ripped to shreds by a cyclonic ‘compulsion to repeat’.22
+
+      This is because what appears to humanity as the history of capitalism is an invasion from the future by an artificial intelligent space that must assemble itself entirely from its enemy’s resources.
+
+      Capital is not an essence but a tendency, the formula of which is decoding, or market-driven immanentization, progressively subordinating social reproduction to techno-commercial replication.
+
