@@ -79,6 +79,8 @@
 
       We summarized this view by saying that cognition is not representation but embodied action and that the world we cognize is not pregiven but enacted through our history of structural coupling.
 
+      Question 1: What is cognition? Answer: Enaction: A history of structural coupling that brings forth a world.
+
       Question 2: How does it work? Answer: Through a network consisting of multiple levels of interconnected, sensorimotor subnetworks.
 
       Question 3: How do I know when a cognitive system is functioning adequately? Answer: When it becomes part of an ongoing existing world (as the young of every species do) or shapes a new one (as happens in evolutionary history).

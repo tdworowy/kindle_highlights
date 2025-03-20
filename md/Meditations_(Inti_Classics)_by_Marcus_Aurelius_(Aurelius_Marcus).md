@@ -31,3 +31,5 @@
 
       Eighth, consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed.
 
+      If it is not right, do not do it: if it is not true, do not say it. For let thy efforts be-
+

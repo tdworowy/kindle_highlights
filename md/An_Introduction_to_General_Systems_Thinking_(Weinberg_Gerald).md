@@ -27,6 +27,8 @@
 
       Every model is ultimately the expression of one thing we think we hope to understand in terms of another thing we think we do understand. The chain of reasoning may be a hundred logical steps or a single analogical leap, but always ends in terms of some primitives we agree among ourselves not to question further.
 
+      Science is the study of those things that can be reduced to the study of other things.
+
       Conceptual schemes are also found, however, in any subculture that develops when people work together. By possessing a common set of standard categories of thought—usually symbolized by special words or phrases—groups can simplify the process of internal communication. Paradoxically, the more effective these categories are for internal communication, the more difficult they make communication with outsiders.
 
       Because of the importance of category systems in a social group, it is not the outsider with a "better" system who becomes king, but the insider who most thoroughly masters the internal system.
@@ -42,6 +44,8 @@
       When the facts contradict the law, reject the facts or change the definitions, but never throw away the law. This could be called The Law of Conservation of Laws.
 
       Any general law must have at least two specific applications.
+
+      Any general law is bound to have at least two exceptions.
 
       The Composition Law, which goes back at least to Aristotle, says: The whole is more than the sum of its parts. The Decomposition Law, on the other hand, says: The part is more than a fraction of the whole.
 
@@ -101,13 +105,19 @@
 
       These are the essential ingredients in our idea of complementarity: two mutually irreducible points of view that are not entirely independent.
 
+      General Law of Complementarity: Any two points of view are complementary.
+
       Reductionism is an article of scientific faith. It must be faith, for nobody has ever observed the final reduction of any set of observations. We may scoff all we like at the "nonscientific"
 
       If we make elaborate measurements precise enough to determine the microscopic state of a system at a given instant, we can indeed find out what the state is but the disturbance engendered (for instance by the breaking of chemical bonds) would be so radical that the system would behave thereafter in a quite different way from the way it did before; it can no longer be considered as the same dynamical system. , . . We have killed the organism by our too detailed measurements.16
 
       In general, in a system with one long cycle that has factors (such as 180 = 5 x 4 x 9), we may be able to reduce the number of pairs remembered to the sum of the factors: 5 + 4 + 9 = 18. Consider a very long cycle of 1010 states. 1010 is the product of 10 tens, while the sum of 10 tens is only 100, or 102. Thus, if we can break down the system into ten independent cycles, we have made a reduction of 1010/102 = 108. While most of us can (with effort) memorize a list of 100 pairs, how many could memorize ten billion?
 
+      Principle of Difference: Laws should not depend on a particular choice of symbols, but they usually do.
+
       1. get a "complete" view—one broad enough to encompass all phenomena of interest—so we are not surprised; 2. get a "minimal" view—one that lumps together states that are unnecessarily discriminated—so we do not overtax our observational powers; 3. get an "independent" view—one that decomposes observed states into noninteracting qualities—so as to reduce the mental effort required.
+
+      the Axiom of Experience: The future will be like the past, because, in the past, the future was like the past.
 
       But the Axiom of Experience can, like all of our principles, be turned around, to become a definition of what we mean by the word "like": Two things are alike if one in the present can be substituted for one in the past.
 
@@ -178,6 +188,8 @@
       The most fundamental concept in cybernetics is that of "difference," either that two things are recognizably different or that one thing has changed with time. - W. Ross Ashby12
 
       Law of Effect usually holds16: Small changes in structure usually lead to small changes in behavior. or, put in our terms: Small changes in the white box usually lead to small changes in the black box.
+
+      Law of Effect can be stated in reverse: Small changes in behavior will usually be found to result from small changes in Structure.
 
       In general terms, rather than in terms of used cars, the law states that: A system that is doing a good job of regulation need not adapt. A system may adapt in order to simplify its job of regulating.
 

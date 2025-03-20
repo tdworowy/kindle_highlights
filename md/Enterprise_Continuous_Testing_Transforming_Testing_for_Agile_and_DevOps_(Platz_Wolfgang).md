@@ -1,4 +1,6 @@
 #### Enterprise Continuous Testing: Transforming Testing for Agile and DevOps (Platz, Wolfgang)
+      Prioritize requirements by risk—so you can test the top ones first
+
       Design tests that cover your risks as efficiently as possible Automate tests rapidly, with minimal maintenance See the risk impact of your test failures Identify critical “blind spots” that are not yet tested Prepare your automation for constant, consistent execution within CI Balance test automation with creative exploration
 
       With risk coverage, the focus shifts from the number of requirements tested to the risk weight of the requirements tested. You can usually achieve much higher risk coverage by testing 10 critical requirements than you can by testing 100 more trivial ones.

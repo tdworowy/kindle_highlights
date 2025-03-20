@@ -15,6 +15,8 @@
 
       If an EHM is completely successful, the loans are so large that the debtor is forced to default on its payments after a few years. When this happens, we demand our pound of flesh. This often includes one or more of the following: control over United Nations votes, the installation of military bases, or access to precious resources such as oil. Of course, the debtor still owes us the money—and another country is added to our global empire.
 
+      Claudine’s statement would be revised to “If you want your country to prosper, accept loans from the Washington Consensus, hire our companies to build infrastructure projects, and submit to neoliberal policies.”
+
       Several days later the popular Bandung politician, whose puppet stood up to Nixon and was impaled by Bucket Man, was struck and killed by a hit-and-run driver.
 
       “Do you know who owns United Fruit?” he asked. “Zapata Oil, George Bush’s company—our UN ambassador.” I said. “A man with ambitions.” He leaned forward and lowered his voice. “And now I’m up against his cronies at Bechtel.”

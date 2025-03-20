@@ -19,6 +19,8 @@
 
       ‘When I was ten years old, all I gave my sweetheart was a pair of projections that turned the group of rotations in four dimensions into principal bundles over the three-sphere. Ancient constructions, though I did rediscover them for myself.’
 
+      ‘Everyone complains about the laws of physics, but no one does anything about them.’
+
       But every kind of happiness bore some imprint in the shape of the pain it had assuaged.
 
       Rasmah sighed. ‘You really think he’s on to something? A quantum computer can simulate any quantum process; that’s old news. It doesn’t mean that there is a quantum computer underlying anything.’  ‘No,’ Tchicaya agreed. ‘But qubit network theory doesn’t claim that. It just says that when you get to a low enough level, you have nothing left to lose by treating the system as if it were software. It’s like all the proofs in applied algorithmic theory that are based on imagining Turing machines. No one complains that the real universe is conspicuously devoid of paper tape.’

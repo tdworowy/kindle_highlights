@@ -15,6 +15,8 @@
 
       us to have been drinking rather too much at the Hermaea,
 
+      know better, my good friend, in a little while. The point which I should first wish to understand
+
       The point which I should first wish to understand is whether the pious or holy is beloved by the gods because it is holy, or holy because it is beloved of the gods.
 
       And yet I know that you are as much wiser than I am, as you are younger. But, as I was saying, revered friend, the abundance of your wisdom makes you lazy.
@@ -32,6 +34,8 @@
       suppose that I must consider the meaning of wisdom (phronesis) and understanding (sunesis), and judgment (gnome), and knowledge (episteme), and all those other charming words,
 
       And the true philosophers, Simmias, are always occupied in the practice of dying, wherefore also to them least of all men is death terrible.
+
+      For is not philosophy the practice of death?
 
       True. SOCRATES: The divine madness was subdivided into four kinds, prophetic, initiatory, poetic, erotic,
 
@@ -54,6 +58,8 @@
       Then, as would appear, the opposition of a part of the other, and of a part of being, to one another, is, if I may venture to say so, as truly essence as being itself, and implies not the opposite of being, but only what is other than being.
 
       way to other islands, and from these you might pass to the whole of the opposite continent which surrounded the true ocean;
+
+      over parts of the continent,
 
       Europe as far as Tyrrhenia.
 
@@ -96,6 +102,8 @@
       And when I speak of the other division of the intelligible, you will understand me to speak of that other sort of knowledge which reason herself attains by the power of dialectic, using the hypotheses not as first principles, but only as hypotheses— that is to say, as steps and points of departure into a world which is above hypotheses, in order that she may soar beyond them to the first principle of the whole; and clinging to this and then to that which depends on this, by successive steps she descends again without the aid of any sensible object, from ideas, through ideas, and in ideas she ends.
 
       At any rate, we are satisfied, as before, to have four divisions; two for intellect and two for opinion, and to call the first division science, the second understanding, the third belief, and the fourth perception of shadows, opinion being concerned with becoming, and intellect with being;
+
+      make a proportion: "As being is to becoming, so is pure intellect to opinion. And as intellect is to opinion, so is science to belief, and understand ing to the perception of shadows."
 
       Because a freeman ought not to be a slave in the acquisition of knowledge of any kind. Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
 
@@ -140,6 +148,8 @@
       If we three know what is good in song and dance, then we truly know also who is educated and who is uneducated; but if not, then we certainly shall not know wherein lies the safeguard of education, and whether there is any or not.
 
       For the goods of which the many speak are not really good:
+
+      Thirdly, the choir of elder men, who are from thirty to sixty years of age,
 
       Athenian. How, then, shall we reassure him, and get him to sing? Shall we begin by enacting that boys shall not taste wine at all until they are eighteen years of age; we will tell them that fire must not be poured upon fire, whether in the body or in the soul, until they begin to go to work—this is a precaution which has to be taken against the excitableness of youth;—afterwards they may taste wine in moderation up to the age of thirty, but while a man is young he should abstain altogether from intoxication and from excess of wine; when, at length, he has reached forty years, after dinner at a public mess, he may invite not only the other Gods, but Dionysus above all, to the mystery and festivity of the elder men, making use of the wine which he has given men to lighten the sourness of old age; that in age we may renew our youth, and forget our sorrows;
 
@@ -196,6 +206,8 @@
       Education has two branches—one of gymnastic, which is concerned with the body, and the other of music, which is designed for the improvement of the soul. And gymnastic has also two branches—dancing and wrestling;
 
       Now human affairs are hardly worth considering in earnest, and yet we must be in earnest about them—a sad necessity constrains us.
+
+      Athenian. I say that about serious matters a man should be serious, and about a matter which is not serious he should not be, serious
 
       and the pupils shall be regarded as belonging to the state rather than to their parents.
 

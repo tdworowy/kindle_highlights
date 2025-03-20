@@ -13,6 +13,8 @@
 
       When Zarathustra was alone, however, he said to his heart: "Could it be possible! This old saint in the forest hath not yet heard of it, that GOD IS DEAD!"
 
+      I TEACH YOU THE SUPERMAN. Man is something that is to be surpassed. What have ye done to surpass man?
+
       The hour when ye say: "What good is my pity! Is not pity the cross on which he is nailed who loveth man? But my pity is not a crucifixion."
 
       Man is a rope stretched between the animal and the Superman—a rope over an abyss. A dangerous crossing, a dangerous wayfaring, a dangerous looking-back, a dangerous trembling and halting. What is great in man is that he is a bridge and not a goal: what is lovable in man is that he is an OVER-GOING and a DOWN-GOING.
@@ -50,6 +52,8 @@
       And when I saw my devil, I found him serious, thorough, profound, solemn: he was the spirit of gravity—through him all things fall.
 
       By our best enemies we do not want to be spared, nor by those either whom we love from the very heart. So let me tell you the truth!
+
+      Ye say it is the good cause which halloweth even war? I say unto you: it is the good war which halloweth every cause.
 
       Your highest thought, however, ye shall have it commanded unto you by me—and it is this: man is something that is to be surpassed.
 

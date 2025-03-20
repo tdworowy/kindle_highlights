@@ -1,6 +1,8 @@
 #### The Art of Statistical Thinking: Detect Misinformation, Understand the World Deeper, and Make Better Decisions. (Advanced Thinking Skills Book 2) (Rutherford, Albert)
       The way we select the sample is critically important, and it depends largely on the purpose of the study or the aim of the statistical task at hand.
 
+      The important point is that the sample should be a good representation of the target population.
+
       A sample that is a good representation of the population can be obtained by pure random sampling.
 
       The average of all the squared distances from the mean is called the variance,

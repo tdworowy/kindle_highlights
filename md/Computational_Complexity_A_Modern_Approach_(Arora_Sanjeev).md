@@ -7,6 +7,8 @@
 
       Definition 1.12 (The class DTIME) Let T : N → N be some function. A language L is in DTIME(T(n)) iff there is a Turing machine that runs in time c · T(n) for some constant c > 0 and decides L.
 
+      We say that a machine decides a language L ⊆ {0, 1}* if it computes the function fL : {0, 1}* → {0, 1}, where fL(x) = 1 , x ∈ L.
+
       A complexity class is a set of functions that can be computed within given resource bounds.
 
       Second, the running time is a function of the number of bits in the input.

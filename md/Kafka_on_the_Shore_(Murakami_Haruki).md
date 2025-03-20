@@ -51,3 +51,5 @@
 
       The police, Hoshino concluded, not for the first time in his life, are just gangsters who get paid by the state.
 
+      “The world is a metaphor, Kafka Tamura,”
+

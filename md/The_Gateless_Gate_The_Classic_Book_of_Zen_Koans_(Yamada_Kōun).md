@@ -13,6 +13,8 @@
 
       There is an ancient Zen text called Believing in Mind (Shinjin-Mei), in which the line appears: “One is everything. Everything is one.”
 
+      “Bodhidharma’s essential nature has no beard.”
+
       What is a fact in Zen? It is the manifestation of essential nature by an action such as standing up, sitting down, eating, drinking, crying, or laughing. In the case of Jōshū’s Mu, Mu is the fact. In the case of Gutei’s finger, raising a finger is the fact. In this case, the fact is some action of the man in the tree.
 
       You may ask why our essential nature is empty. Just consider what we call our mind or consciousness. Does it have any form? No. Any color? No. Any length or breadth or weight? No. Can we locate it? No, we do not know where it is. The mind has nothing. The mind is nothing. It is void and empty, and our essential nature is nothing but the boundless extension or manifestation of this ordinary mind of ours.
@@ -32,6 +34,8 @@
       There was an old Zen master who said that even the word Buddha is a stain on the clean ground of mind.
 
       “The Way does not belong to knowing or not-knowing. Knowing is delusion; not-knowing is a blank consciousness. When you have really reached the true Way beyond all doubt, you will find it as vast and boundless as the great empty firmament. How can it be talked about on a level of right and wrong?”
+
+      A monk asked Unmon in all earnestness, “What is Buddha?” Unmon said, “Kanshiketsu! (a dried shit-stick)”
 
       It is said that there are six Buddhas who preceded Shakyamuni: (i) Vipashyin Buddha, (2) Sikhin Buddha, (3) Vishvabhu Buddha, (4) Krakucchanda Buddha, (5) Kanakamuni Buddha, and (6) Kashyapa Buddha.
 

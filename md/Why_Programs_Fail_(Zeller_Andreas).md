@@ -3,6 +3,8 @@
 
       The wording of the previous example thus becomes clearer: The defect caused an infection, which caused a failure—and when we saw the failure we tracked the infection, and finally found and fixed the defect.
 
+      they ever could be experienced by a user. Testing is the process of executing a program
+
       Testing is the process of executing a program with the intent of producing some problem.
 
       The rule of thumb is: The friendlier an interface is to humans, the less friendly it is to computers.

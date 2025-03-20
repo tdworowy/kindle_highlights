@@ -9,6 +9,8 @@
 
       (1) Jesus said, “Whoever blasphemes against the Father will be forgiven, (2) and whoever blasphemes against the Son will be forgiven, (3) but whoever blasphemes against the holy Spirit will not be forgiven, either on earth or in heaven.”
 
+      (1) Jesus said, “Whoever does not hate father and mother cannot be a disciple of me, (2) and whoever does not hate brothers and sisters and bear the cross as I do will not be worthy of me.”
+
       Jesus said, “I shall destroy [this] house, and no one will be able to build it [again].”
 
       (1) Jesus said, “I am the light that is over all things.144 I am all: from me all has come forth, and to me all has reached.145 (2) Split a piece of wood; I am there. (3) Lift up the stone, and you will find me there.”

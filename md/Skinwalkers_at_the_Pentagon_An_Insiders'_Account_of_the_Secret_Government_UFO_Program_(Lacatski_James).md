@@ -3,6 +3,8 @@
 
       Between September 2008 and December 2010, the Pentagon spent those millions investigating UAPs as well as the paranormal and psychic correlates to UAPs.
 
+      AAWSAP was conceived as a program to evaluate the threat potential of UAPs. BAASS was an organization specifically created to execute
+
       the AAWSAP contract to evaluate the threat potential of UAPs. Throughout this book, “AAWSAP”, “BAASS” and “AAWSAP BAASS” are used interchangeably to denote close operational similarity. AAWSAP was not conceived to study projected advances in aerospace technology, except in relation to UAPs.
 
       AAWSAP BAASS was not AATIP. The AATIP moniker arose from an

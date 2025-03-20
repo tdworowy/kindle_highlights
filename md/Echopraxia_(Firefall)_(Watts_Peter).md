@@ -49,6 +49,8 @@
 
       “Oh they figured that out couple days ago,” Sengupta told him. “Really?”
 
+      “Oh that’s rich you think God’s a thing God’s not a thing.”
+
       “God’s a process.”
 
       Computation, after all, implied a problem not yet solved, insights not yet achieved.

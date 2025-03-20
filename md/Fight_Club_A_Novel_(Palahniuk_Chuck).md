@@ -67,6 +67,8 @@
 
       "What you have to consider,” he says, "is the possibility that God doesn’t like you. Could be, God hates us. This is not the worst thing that can happen.”
 
+      "Burn the Louvre,” the mechanic says, "and wipe your ass with the Mona Lisa. This way at least, God would know our names.”
+
       "Drunk Drivers Against Mothers.” "Recycle All the Animals.”
 
       "I Drive Better When I’m Drunk.”
@@ -78,6 +80,8 @@
       You didn’t say anything. Get out of here, and do your little life, but remember I’m watching you, Raymond Hessel, and I’d rather kill you than see you working a shit job for just enough money to buy cheese and watch television.
 
       This is what Tyler wants me to do. These are Tyler’s words coming out of my mouth. I am Tyler’s mouth. I am Tyler’s hands.
+
+      Set your watch ahead an hour. If you can wake up in a different place. If you can wake up in a different time. Why can’t you wake up as a different person?
 
       Yeah, I say, it’s a test. Has he ever met Tyler Durden? "You stopped in last week, Mr. Durden,” he says. "Don’t you remember?” Tyler was here. "You were here, sir.” I’ve never been in here before tonight.
 
