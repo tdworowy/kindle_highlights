@@ -13,3 +13,17 @@
 
       “And what if I think I’m beginning to understand you?” “Then I’m at a severe disadvantage,” she said. “As I don’t understand myself.”
 
+      ‘Life before death. Strength before weakness. Journey before destination.’
+
+      “But who else would it be? The Ghostbloods grow more bold. We’ll need to find out who he was. Do we know anything about him?”
+
+      Despair was a luxury.
+
+      “I began life as a thought, a concept, words on a page. That was another thing I stole. Myself. Another time, I was named for a rock.”
+
+      “Gotta do what you can to stay alive, son. Turn a liability into an advantage whenever you can. Remember that, if you live.”
+
+      “I will protect those who cannot protect themselves,” he whispered. The Second Ideal of the Knights Radiant.
+
+      Well, she now had a better idea of how bad things could get. It was as if . . . once she had feared the darkness, but now she had stepped into it. She had experienced some of the horrors that awaited her there. Terrible as they were, at least she knew.
+

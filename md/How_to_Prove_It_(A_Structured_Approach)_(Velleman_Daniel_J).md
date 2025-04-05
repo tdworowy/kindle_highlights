@@ -25,3 +25,7 @@
 
       Whenever you make a statement in a proof, it’s important to be sure you know whether it’s an assertion or an assumption.
 
+      The first of these rules of inference says that if you know that both P and P → Q are true, you can conclude that Q must also be true. Logicians call this rule modus ponens.
+
+      Theorem. Suppose P → (Q → R). Then ¬R → (P → ¬Q). Proof. Suppose ¬R. Suppose P. Since P and P → (Q → R), it follows that Q → R. But then, since ¬R, we can conclude ¬Q. Thus, P → ¬Q. Therefore ¬R → (P → ¬Q).
+

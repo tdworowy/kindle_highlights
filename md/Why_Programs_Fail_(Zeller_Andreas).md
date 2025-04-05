@@ -23,3 +23,5 @@
 
       Life can only be understood backwards, but it must be lived forwards. –SØREN AABYE KIERKEGAARD
 
+      technique can be both concrete enough to capture all aspects of real life and abstract enough to capture all possible executions. In the end, all these problems can be reduced to the undecidability of the halting problem, which makes it generally impossible to predict what a given program will or will not do.
+

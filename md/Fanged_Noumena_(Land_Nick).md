@@ -105,3 +105,19 @@
 
       Capital is not an essence but a tendency, the formula of which is decoding, or market-driven immanentization, progressively subordinating social reproduction to techno-commercial replication.
 
+      Insofar as even highly complex technical systems still lack an autonomous reproductive system they remain locked into parasitic dependence upon human social processes, and deterritorialize through the assembly of cumulatively sophisticating pseudo-synergic machine-intelligence virus (((oc))cultural revolution).
+
+      Monologic: a cultural immune response slaved to logos. (Sovereignty of the Ideal), assimilating signaletic intermittence to pseudo-transcendent instrumentalization.
+
+      apprehension of death as time-in-itself = intensive continuum degree-0 is shared by Spinoza, Kant, Freud, Deleuze and Guattari, and Gibson (amongst others). It is nominated variously: substance, pure apperception, death-drive, body without organs, cyberspace matrix. Beyond its oedipal sense as end of the person, death is an efficient virtual object inducing convergence. No one there.
+
+      The body without organs is the model of death. As the authors of horror stories have understood so well, it is not death that serves as the model for catatonia, it is catatonic schizophrenia that gives its model to death. Zero intensity.77
+
+      Trying to to make something out of Bataille never works. Or maybe it’s the drugs.
+
+      Anthropotechnological pseudotranscendence finalises itself into an Asimovian eschatorobotic Jesus-production, techno-skeletalised apocalypse facialisation.
+
+      That fall, all that the Mission talked about was control: arms control, information control, resources control, psycho-political control, population control, control of the almost supernatural inflation, control of terrain through the Strategy of the Periphery. But when the talk had passed, the only thing left standing up that looked true was your sense of how out of control things really were. Michael Herr1
+
+      Cybernetics folds pragmatism into involutionary technical runaway. Punk arises within the culture of universal prostitution and laughs at the death of the social. ‘No longer resisting the flow of events or pretending to chart a course through them’,6 cyberpunk soaks up the worst from both.
+

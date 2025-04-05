@@ -15,3 +15,5 @@
 
       So Clojure is homoiconic: it represents abstract syntax trees using lists, and you write textual representations of lists when you write Clojure code. Because the code you write represents data structures that you’re used to manipulating and the evaluator consumes those data structures, it’s easy to reason about how to programmatically modify your program.
 
+      You’ll then study the three goblins that harry every practitioner: reference cells, mutual exclusion, and dwarven berserkers. And you’ll learn three tools that will aid you: futures, promises, and delays.”
+
