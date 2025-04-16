@@ -121,3 +121,11 @@
 
       Cybernetics folds pragmatism into involutionary technical runaway. Punk arises within the culture of universal prostitution and laughs at the death of the social. ‘No longer resisting the flow of events or pretending to chart a course through them’,6 cyberpunk soaks up the worst from both.
 
+      The meaning of ‘taboo’, as we see it, diverges in two contrary directions. To us it means on the one hand, ‘sacred’, ‘consecrated’, and on the other ‘uncanny’, ‘dangerous’, ‘forbidden’, ‘unclean’.16
+
+      The shaman has a double aspect, at once monster and social agent, creature of darkness and of light, tending in one direction towards the explorer-werewolf, scrambling the codes in contemporaneity with all generations, and in the other towards the bureaucrat-priest, redoubling the codes with a reflexive traditional authority. In
+
+      What is an animal at dawn, a human at noon, and a cyborg at dusk, passing through (base four) genetic wetware, (binary) techno-cultural software, and into the tertiary schizomachine program?
+
+      Cartesian dualism is bad ontology but superb economics, transforming the body into an asset available for technical and commercial development, while abstracting the subject from specific corporeal realization, transplanting it into contractual formality.
+

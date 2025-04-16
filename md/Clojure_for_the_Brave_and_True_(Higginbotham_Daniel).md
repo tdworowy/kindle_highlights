@@ -17,3 +17,5 @@
 
       You’ll then study the three goblins that harry every practitioner: reference cells, mutual exclusion, and dwarven berserkers. And you’ll learn three tools that will aid you: futures, promises, and delays.”
 
+      cynical person might say that Java gives you enough rope to hang yourself, and if you find such a person, I hope you give them a hug.
+

@@ -27,3 +27,7 @@
 
       Well, she now had a better idea of how bad things could get. It was as if . . . once she had feared the darkness, but now she had stepped into it. She had experienced some of the horrors that awaited her there. Terrible as they were, at least she knew.
 
+      “Well, he said that he’d needed, uh, I had this remembered for you. He said, ‘I needed an objective frame of reference by which to judge the experience of your company. Somewhere between four and five blows, I place it.’ I don’t rightly understand what he meant, sir. I think he was mocking me.”
+
+      “I hate them,” Sebarial said. “But I try to hate everyone. That way, I don’t risk leaving out anyone who is particularly deserving. Anyway, here we are. Don’t expect me to help you out of the carriage.”
+
