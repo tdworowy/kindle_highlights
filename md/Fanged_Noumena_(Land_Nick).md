@@ -145,3 +145,11 @@
 
       Perhaps there will always be a fashionable anticapitalism, but each will become unfashionable, while capitalism – becoming ever more tightly identified with its own self-surpassing – will always, inevitably, be the latest thing.
 
+      Actuality is Vulnerability. Every Second you Live is Your Enemy’s Friend. For anything that can arrive when it wants, the best place to hide is nonexistence.
+
+      It is the rational dismissal of ‘the’ qabbalistic enterprise that is forced to take a metaphysical stance: ruling out on grounds of supposed principle what is in fact no more than a guiding ‘empirical’ hypothesis (that signal from ‘outside the system’ is detectable by numerical analysis of codes circulating within the system). Epistemologically speaking, qabbalistic programmes have a status strictly equivalent to that of experimental particle physics, or other natural-scientific research programmes, even if their guiding hypotheses might seem decidedly less plausible than those dominant within mainstream scientific institutions.
+
+      There is a gathering trend among neomarxists to finally bury all aspiration to positive economism (‘freeing the forces of production from capitalist relations of production’) and install a limitless cosmic despair in its place. Who still remembers Khruschev’s threat to the semi-capitalist West – “we’ll bury you”? Or Mao’s promise that the Great Leap Forward would ensure the Chinese economy leapt past that of the uk within 15 years? The Frankfurtian spirit now rules: Admit that capitalism will outperform its competitors under almost any imaginable circumstances, while turning that very admission into a new kind of curse (“we never wanted growth anyway, it just spells alienation, besides, haven’t you heard that the polar bears are drowning …?”).
+
+      Perhaps there will always be a fashionable anticapitalism, but each will become unfashionable, while capitalism – becoming ever more tightly identified with its own self-surpassing – will always, inevitably, be the latest thing.
+

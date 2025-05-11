@@ -55,3 +55,27 @@
 
       The trick to happiness wasn’t in freezing every momentary pleasure and clinging to each one, but in ensuring one’s life would produce many future moments to anticipate.
 
+      “You loathe their excess,” she said, “and you are close to applying that emotion to them as well. They live the lives they have known, the lives that society has taught them are proper. You won’t change them with contempt. You aren’t Wit; it isn’t your job to scorn them. Your job is to enfold them, encourage them. Lead them, Dalinar.”
+
+      “‘As I fear not a child with a weapon he cannot lift, I will never fear the mind of a man who does not think.’”
+
+      “What you did tonight was clever,” Wit said. “You turned an attack into a promise. The wisest of men know that to render an insult powerless, you often need only to embrace it.”
+
+      Jasnah had once defined a fool as a person who ignored information because it disagreed with desired results.
+
+      “Mmmmmm . . .” Pattern said, content. “Humans can see the world as it is not. It is why your lies can be so strong. You are able to not admit that they are lies.”
+
+      “Expectation. That is the true soul of art. If you can give a man more than he expects, then he will laud you his entire life. If you can create an air of anticipation and feed it properly, you will succeed. “Conversely, if you gain a reputation for being too
+
+      The trick to happiness wasn’t in freezing every momentary pleasure and clinging to each one, but in ensuring one’s life would produce many future moments to anticipate.
+
+      “Is it not our duty, as kings, to ask questions that make the minds and souls of other men cringe?”
+
+      Taravangian is wrong, the Stormfather said. You are not a hypocrite, Son of Honor. “I am,” Dalinar said softly. “But sometimes a hypocrite is nothing more than a person who is in the process of changing.”
+
+      He needed more than vague explanations and abstract ideas—but those were the very soul of art. If you could explain something perfectly, then you’d never need art.
+
+      ‘Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.’
+
+      “I don’t mind people believing what works for them, Uncle. That’s something nobody ever seems to understand—I have no stake in their beliefs. I don’t need company to be confident.”
+
