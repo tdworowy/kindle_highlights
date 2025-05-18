@@ -43,12 +43,19 @@ def remove_similar(lines: list[str]) -> list[str]:
             results.append(string)
     return results
 
+
 def remove_duplicates():
     file_names = next(walk("md"), (None, None, []))[2]
     for file_name in file_names:
-        with open(f"md{file_name}", "a") as f:
-            deduplicated =(set(f.readlines()))
-            f.write(deduplicated)
+        with open(f"md/{file_name}", "r", encoding="utf8") as f:
+            file_content = [line for line in f.readlines() if line != "\n"]
+            deduplicated = list(set(file_content))
+            first_line_index = [i for i, s in enumerate(deduplicated) if "####" in s][0]
+            deduplicated.insert(0, deduplicated.pop(first_line_index))
+
+        if len(file_content) > len(deduplicated):
+            with open(f"md/{file_name}", "w", encoding="utf8") as f:
+                f.writelines(deduplicated)
 
 
 def generate_md():
@@ -88,12 +95,12 @@ def generate_md():
                 cleared = remove_similar(results[key])
                 print(file_content[-2])
                 for quote in cleared:
-                    if quote not in file_content: #TODO never true
-                        f.write(f"      {quote}\n\n")
+                    if quote not in file_content:
+                        f.write(f"      {quote}\n")
                 f.flush()
 
 
 if __name__ == "__main__":
-    #generate_md()
+    # generate_md()
     remove_duplicates()
-#TODO, remove duplicated quotes
+# TODO, remove duplicated quotes
