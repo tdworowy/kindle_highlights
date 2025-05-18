@@ -1,4 +1,5 @@
 import os.path
+from os import walk
 
 from thefuzz import fuzz
 
@@ -42,6 +43,13 @@ def remove_similar(lines: list[str]) -> list[str]:
             results.append(string)
     return results
 
+def remove_duplicates():
+    file_names = next(walk("md"), (None, None, []))[2]
+    for file_name in file_names:
+        with open(f"md{file_name}", "a") as f:
+            deduplicated =(set(f.readlines()))
+            f.write(deduplicated)
+
 
 def generate_md():
     # my_clippings_path = "E:\\documents\\My Clippings.txt"
@@ -78,12 +86,14 @@ def generate_md():
                 if append_or_write == "w":
                     f.write(f"#### {key}\n")
                 cleared = remove_similar(results[key])
+                print(file_content[-2])
                 for quote in cleared:
-                    if quote in file_content:
-                        continue
-                    f.write(f"      {quote}\n\n")
+                    if quote not in file_content: #TODO never true
+                        f.write(f"      {quote}\n\n")
                 f.flush()
 
 
 if __name__ == "__main__":
-    generate_md()
+    #generate_md()
+    remove_duplicates()
+#TODO, remove duplicated quotes
