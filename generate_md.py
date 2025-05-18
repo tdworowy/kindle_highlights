@@ -93,14 +93,12 @@ def generate_md():
                 if append_or_write == "w":
                     f.write(f"#### {key}\n")
                 cleared = remove_similar(results[key])
-                print(file_content[-2])
                 for quote in cleared:
-                    if quote not in file_content:
+                    if quote not in [line.strip() for line in file_content]:
                         f.write(f"      {quote}\n")
                 f.flush()
 
 
 if __name__ == "__main__":
-    # generate_md()
+    generate_md()
     remove_duplicates()
-# TODO, remove duplicated quotes
