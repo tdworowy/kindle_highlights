@@ -33,3 +33,7 @@
       “I’m smart enough not to follow my own advice, thank you very much.”
       “I will protect those who cannot protect themselves,” he whispered. The Second Ideal of the Knights Radiant.
       Jasnah had once defined a fool as a person who ignored information because it disagreed with desired results.
+      You mostly failed. This is life. The longer you live, the more you fail. Failure is the mark of a life well lived. In turn, the only way to live without failure is to be of no use to anyone. Trust me, I’ve practiced.”
+      “Hardly,” Nohadon said. “But maybe you shouldn’t be looking for life to be easier because you choose to do something that is right! Personally, I think life is fair. It’s merely that often, you can’t immediately see what balances it.”
+      But she had learned that nobody was strong all the time, not even Dalinar Kholin. Love wasn’t about being right or wrong, but about standing up and helping when your partner’s back was bowed. He would likely do the same for her someday.
+      “ ‘The question,’ she replied, ‘is not whether you will love, hurt, dream, and die. It is what you will love, why you will hurt, when you will dream, and how you will die. This is your choice. You cannot pick the destination, only the path.’ ”

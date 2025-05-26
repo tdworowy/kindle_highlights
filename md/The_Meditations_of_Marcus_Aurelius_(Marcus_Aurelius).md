@@ -14,3 +14,4 @@
       The works of men should be dear for the sake of the bond of kinship, or pitied, as we must pity them sometimes, for their lack of the knowledge of good and evil. And men are not less maimed by this defect than by their want of power to know white from black.
       Think of your long procrastination, and of the many opportunities given you by the Gods, but left unused. Surely it is high time to understand the Universe of which you are a part, and the Ruler of that Universe, of whom you are an emanation; that a limit is set to your days, which, if you use them not for your enlightenment, will depart, as you yourself will, and return no more.
       Repine no more at what fate now sends, nor dread what may befall you hereafter.
+      Were he to depart this moment he would go as readily as he would do any other seemly and proper action, holding one thing only in life-long avoidance—to find his soul in any case unbefitting an intelligent social being.
