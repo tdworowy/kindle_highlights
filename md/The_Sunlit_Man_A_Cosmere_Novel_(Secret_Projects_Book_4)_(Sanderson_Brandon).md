@@ -1,0 +1,3 @@
+#### The Sunlit Man: A Cosmere Novel (Secret Projects Book 4) (Sanderson, Brandon)
+      Get dragged through the dirt enough times—get beaten to within an inch of your life, to the point where you barely remembered your own name—well, that did wonders for your sense of humor. All you had left at that point was to laugh at the joke you had become.
+      He opened a blank notebook. “Sure. They have a compact, powerful, renewable energy source. Something most developing societies can only dream about. That’s difficult. Travel has always been about the power supply. Creating energy—well, releasing it—is easy. Just throw a match into a pile of dried-out wood and you’ll see that. But harnessing it? Making it portable? That’s the problem.”

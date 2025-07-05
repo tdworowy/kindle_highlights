@@ -19,3 +19,4 @@
 
       This gets us to an important principle called maximal munch. When two lexical grammar rules can both match a chunk of code that the scanner is looking at, whichever one matches the most characters wins.
 
+      The art, then, is finding accidental complexity that can be omitted—language features and interactions that don’t carry their weight by increasing the breadth or ease of using the language.

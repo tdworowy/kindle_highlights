@@ -1,0 +1,4 @@
+#### Wind and Truth: Book Five of the Stormlight Archive (The Stormlight Archive, 5) (Sanderson, Brandon)
+      “Ah, now there’s a question for the ages,” Wit said, leaning back. “What use is art? Why does it hold such meaning and potency? I can’t tell you, because the short answer is unappealing and the long answer takes months. I will instead say this: every society in every region of every planet I’ve visited—and I’ve been to quite a large number—has made art.”
+      “A virtue is something that is valuable even if it gives you nothing. A virtue persists without payment or compensation. Positive thinking is great. Vital. Useful. But it has to remain so even if it gets you nothing. Belief, truth, honor … if these exist only to get you something, you’ve missed the storming point.”
+      “You know what first drew me to you, Kaladin?” Wit asked. “You did one of the most difficult things a man can do: you gave yourself a second chance.”
