@@ -45,3 +45,17 @@
       The art of Life is more like that of the wrestler than of the dancer; for the wrestler must always be ready on his guard, and stand firm against the sudden, unforeseen efforts of his adversary.
       It is ridiculous that you flee not from the vice that is in yourself, as you have it in your power to do; but are still striving to flee from the vice in others, which you can never do.
       The joy of man is to do his proper business. And his proper business is to be kindly to his fellows, to rise above the stirrings of sense, to be critical of every plausible imagination, and to contemplate universal Nature and all her consequences.
+      Universal Nature hath brought nothing upon you which you cannot bear.
+      When you are grieved about anything external it is not the thing itself which afflicts you, but your judgment about it.
+      Pronounce no more to yourself than what appearances directly declare. It is told you that so-and-so has spoken ill of you. This alone is told you, and not that you are hurt by it. I see my child is sick; this only I see. I do not see that he is in danger. Dwell thus upon first appearances; add nothing to them from within, and no harm befalls you: or rather add the recognition that all is part of the world’s lot.
+      Do you wish to be praised by a man who curses himself thrice within an hour? Can you desire to please one who is not pleased with himself? Can he be pleased with himself who repents of almost everything he does?
+      For a corruption of the mind is far more a plague than any pestilential distemper or change in the surrounding air we breathe.
+      Even as now you await the season when the child of your wife’s body shall issue into the light, await the hour when your soul shall fall out of these its teguments.
+      The sinner sins against himself. The wrong-doer wrongs himself by making himself evil.
+      Men are often unjust by omissions as well as by actions.
+      You have endured innumerable sufferings by not being satisfied with your own ruling part when it does the things which it was formed to do. Enough then of that.
+      When another reproaches or hates you, or utters anything to that purpose; go to his soul; enter in there; and look what manner of man he is. You will see that you need not trouble yourself to make him think well or ill of you. Yet you should be kindly towards such men, for they are by nature your friends:
+      You can suppress many of the superfluous troubles which beset you, for they lie wholly in your own opinion.
+      If a man is going wrong, instruct him kindly, and shew him his mistake. If you are unable to do this, blame yourself or none.
+      Discourse no more of what a good man should be; but be one.
+      Look attentively on each particular thing you do, and ask yourself if death be a terror because it deprives you of this.
