@@ -1,0 +1,27 @@
+#### House of Chains: 4 (The Malazan Book Of The Fallen)  
+      There’s little value in seeking to find reasons for why people do what they do, or feel the way they feel. Hatred is a most pernicious weed, finding root in any kind of soil. It feeds on itself.’
+      One day, perhaps, you will see for yourself that regrets are as nothing. The value lies in how they are answered.’
+      It is sanity itself that they are rebelling against. Order. Honourable conduct.
+      You don’t destroy an omen by fighting it. No, you do the opposite. You swallow it whole.’
+      Mysteries stalked the world. Gamet had felt their chill breath before, a reverberation of power that belonged to no god, but existed none the less. As implacable as the laws of nature.
+      Cutter had once imagined that competency was a reward in itself, that skill bred its own justification, creating its own hunger and from that hunger a certain pleasure.
+      Not that freedom ensured happiness. Indeed, to be free was to live in absence. Of responsibilities, of loyalties, of the pressures that expectation imposed.
+      ‘What’s your point?’ he asked the sergeant beside him. ‘A soldier knows but one truth, and that truth is, without faith, you are already as good as dead. Faith in the soldier at your side. But even more important – and no matter how delusional it is in truth – there is the faith that you cannot be killed. Those two and those two alone – they are the legs holding up every army.’
+      ‘Killing gods is not hard. The easiest murder of all. Nor is it a measure of intelligence. Not even of civilization. Indeed, the indifference with which such death-blows are delivered is its own form of ignorance.’
+      And nature ever strives for balance. But balance was not a simple notion. Redress was not simply found in the physical world. A far grimmer equilibrium had occurred … between the past and the present.
+      is human nature to transform loss into a virtue. So that it might be lived with, so that it might be justified.
+      ‘Thus, the past lies beneath and above the present, Fist. This is the truth my shamans embrace, the bones upon which the future clings like muscle.’
+      Drunken oblivion was, each time, a small, temporary death. Hood walked where the self once stood, and the wake of the god’s passage sickened mortal flesh afterwards.
+      To live is to suffer. To exist – even as we do – is to resist.’
+      Order wars against the chaos of dissolution, of disorder. Karsa Orlong, this is the only worthy truth, the greatest of all truths. What do the gods themselves worship, but perfection? The unattainable victory over nature, over nature’s uncertainty. There are many words for this struggle. Order against chaos, structure against dissolution, light against dark, life against death. But they all mean the same thing.’
+      I do not grieve for my own ignorance. Why should I? Not knowing what I have missed means I do not miss what I do not know.
+      Cleverness was not essential, provided one insisted on keeping things simple. Complexity beckoned error, like a whore a soldier on leave.
+      hissed. Febryl shrugged. ‘Do I look like a prancing foal?
+      Necessity was a most bitter flavour, but he saw no choice and so would have to suffer the taste.
+      ‘A quaint reversal, wouldn’t you say? The Deragoth’s only act of domestication. Most scholars, in their species-bound arrogance, believe that humans domesticated dogs, but it may well have been the other way round, at least to start. Who ran with whom?’
+      The ground seemed to tremble with the woman’s approach. She was Napan and Strings wondered if she knew she was female. The muscles of her arms were larger than his thighs. She had cut all her hair off, her round face devoid of ornament barring a bronze nose-ring. Yet her eyes were startlingly beautiful, emerald green.
+      ‘Innocence is only a virtue, lass, when it is temporary. You must pass from it to look back and recognize its unsullied purity. To remain innocent is to twist beneath invisible and unfathomable forces all your life, until one day you realize that you no longer recognize yourself, and it comes to you that innocence was a curse that had shackled you, stunted you, defeated your every expression of living.’
+      Love changes, aye, in the manner of growing to encompass as much of its subject as possible. Virtues, flaws, limitations, everything – love will fondle them all, with child-like fascination.’
+      ‘No. Hood did not exist when these were fashioned, Trull Sengar. Nor are they strictly death-aspected. Their power comes, as Monok Ochem said, from layers. Stone shaped into tools and weapons. Air shaped by throats. Minds that discovered, faint as flickering fires in the sky, the recognition of oblivion, of an end … to life, to love. Eyes that witnessed the struggle to survive, and saw with wonder its inevitable failure. To know and to understand that we must all die, Trull Sengar, is not to worship death. To know and to understand is itself magic, for it made us stand tall.’
+      Absurdly – for a man my age – he felt at peace. In his father’s arms. ‘Now,’ Osric said, ‘how in Hood’s name do we get out of here?’ The moment passed.
+      Deep in the caves, the drums beat. Glorious echo to the herds whose thundering hoofs celebrate what it is to be alive, to run as one, to roll in life’s rhythm. This is how, in the cadence of our voice, we serve nature’s greatest need. Facing nature, we are the balance. Ever the balance to chaos.
