@@ -1,0 +1,17 @@
+#### A Brief History of Intelligence (Bennett, Max S.)
+      DNA had officially become life’s blueprint, ribosomes its factory, and proteins its product.
+      Respiratory microbes differed in one crucial way from their photosynthetic cousins: they needed to hunt. And hunting required a whole new degree of smarts.
+      Gastrulation, neurons, and muscles are the three inseparable features that bind all animals together and separate animals from all other kingdoms of life.
+      These features of neurons—all-or-nothing spikes, rate coding, adaptation, and chemical synapses with excitatory and inhibitory neurotransmitters—are universal across all animals, even in animals that have no brain, such as coral polyps and jellyfish.
+      There is another observation about bilaterians, perhaps the more important one: They are the only animals that have brains. This is not a coincidence. The first brain and the bilaterian body share the same initial evolutionary purpose: They enable animals to navigate by steering. Steering was breakthrough #1.
+      Steering requires at least four things: a bilateral body plan for turning, valence neurons for detecting and categorizing stimuli into good and bad, a brain for integrating input into a single steering decision, and the ability to modulate valence based on internal states.
+      Dopamine is not a signal for pleasure itself; it is a signal for the anticipation of future pleasure.
+      Berridge proved that dopamine is less about liking things and more about wanting things.
+      serotonin is the satiation, things-are-okay-now, satisfaction chemical, designed to turn off valence responses.
+      The affective state of escape, whereby nematodes rapidly attempt to swim to a new location, is in part triggered by a different class of neuromodulators: norepinephrine, octopamine, and epinephrine (also called adrenaline).
+      The second breakthrough was reinforcement learning: the ability to learn arbitrary sequences of actions through trial and error.
+      Indeed, most drugs of abuse—alcohol, cocaine, nicotine—work by triggering the release of dopamine.
+      Dopamine is not a signal for reward but for reinforcement. As Sutton found, reinforcement and reward must be decoupled for reinforcement learning to work. To solve the temporal credit assignment problem, brains must reinforce behaviors based on changes in predicted future rewards, not actual rewards.
+      In other words, reinforcement learning requires two opponent processes—one for behaviors that were previously reinforced (exploitation) and the other for behaviors that are new (exploration). These choices are, by definition, opposing each other. Exploitation will always drive behavior toward known rewards, and exploration will always drive toward what is unknown.
+      Gambling and social feeds work by hacking into our five-hundred-million-year-old preference for surprise, producing a maladaptive edge case that evolution has not had time to account for.
+      In the Permian era, when the land was full of edible reptiles and arthropods, this gamble paid off. During the period from 300 to 250 million years ago, therapsids became the most successful land animals. They grew to the size of a modern tiger and began to grow hair to further maintain their heat. These therapsids would have looked like large hairy lizards.
