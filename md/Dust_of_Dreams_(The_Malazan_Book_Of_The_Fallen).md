@@ -1,0 +1,3 @@
+#### Dust of Dreams (The Malazan Book Of The Fallen)  
+      We stood tall in paradise. And then called forth the gods of war, to bring destruction down upon ourselves, our world, the very earth, its air, its water, its myriad life. No, show me no surprise, no innocent bewilderment. I see now with the eyes of the Abyss. I see now with my enemy’s eyes, and so I shall speak with its voice. Behold, my friends, I am justice. And when at last we meet, you will not like it. And if irony awakens in you at the end, see me weep with these tears of jade, and answer with a smile. If you’ve the courage. Have you, my friends, the courage?
+      ‘Generally speaking, people useless at everything else become academics.’
