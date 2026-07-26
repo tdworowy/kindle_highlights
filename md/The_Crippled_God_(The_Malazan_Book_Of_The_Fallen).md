@@ -1,0 +1,9 @@
+#### The Crippled God (The Malazan Book Of The Fallen)  
+      ‘That’s not the problem,’ Gesler retorted. ‘We got busted down all those times for good reason. We can’t handle responsibilities, that’s our problem. We start bickering – you start thinking and that’s as bad as bad can get. Stop thinking, Stormy, and that’s an order.’
+      ‘They’re saying magic’s damn near dead in these lands. How nimble are you?’ ‘Nimble enough.’ ‘How drunk are you?’ ‘Drunk enough.’ ‘Just what a man twice her age wants to hear from a woman.’
+      ‘That stuff? I remember now. Balklo chocolate. All right, get outa my tent so I can get decent.’ ‘You’re not in your tent, Sergeant, you’re in our latrine ditch.’ She looked round. ‘That explains the smell.’ ‘None of us used it yet, Sergeant, seeing as how you were here.’ ‘Oh.’
+      ‘In moments of murder,’ said Kalt Urmanal, ‘the world laughs.’
+      If you dare to remember this, then you will understand. I am the slayer of children – your children – no! Show me no horror! Your hands are red with the blood of my children! You cannot kill us any more, but we can kill you, and so we shall. We are the sword of ancient memories. Memories of fire, memories of ice, memories of the pain you delivered upon us. I shall answer your crime. I shall be the hand of your utter annihilation. Every last child. I am Onos T’oolan and once, I was an Imass.
+      ‘When your death is already inside you, there is nowhere to run, no escape possible. When your death is already inside you, Sinn, you have nothing to lose.’
+      Freedom – she understood now – was something so long lost among humans that they had forgotten what it felt like.
+      Choices fall away, without you even noticing, until there are very few left, and you realize that you are nothing but what you are.’

@@ -1,0 +1,4 @@
+#### Hallucinations (Picador Collection) (Sacks, Oliver)
+      Why has every culture known to us sought and found hallucinogenic drugs and used them, first and foremost, for sacramental purposes?
+      Julian Jaynes, in his influential 1976 book, The Origin of Consciousness in the Breakdown of the Bicameral Mind, speculated that, not so long ago, all humans heard voices—generated internally, from the right hemisphere of the brain, but perceived (by the left hemisphere) as if external, and taken as direct communications from the gods. Sometime around 1000 B.C., Jaynes proposed, with the rise of modern consciousness, the voices became internalized and recognized as our own.21
+      (Music calls upon many more areas of the brain than any other activity—one reason why music therapy is useful for such a wide variety of conditions.)
