@@ -10,3 +10,5 @@
       Shallow neural networks make predictions y based on inputs x by dividing the input space into a continuous surface of piecewise linear regions. With enough hidden units (neurons), shallow neural networks can approximate any continuous function to arbitrary precision.
       We saw some of these when we considered deep networks as “folding” the input space (figure 4.3). So, it's not clear that the greater number of regions is an advantage unless (i) there are similar symmetries in the real-world functions that we wish to approximate or (ii) we have reason to believe that the mapping from input to output really does involve a composition of simpler functions.
       When the uncertainty of the model varies as a function of the input data, we refer to this as heteroscedastic (as opposed to homoscedastic, where the uncertainty is constant).
+      The choices of learning algorithm, batch size, learning rate schedule, and momentum coefficients are all considered hyperparameters
+      By far the most widely used adaptive training algorithm is adaptive moment optimization or Adam (Kingma & Ba, 2015).
